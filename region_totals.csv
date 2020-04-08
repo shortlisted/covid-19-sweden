@@ -1,22 +1,22 @@
 Region,Totalt_antal_fall,Fall_per_100000_inv,Totalt_antal_intensivvårdade,Totalt_antal_avlidna
-Blekinge,30,19,2,1
-Dalarna,163,57,11,16
+Blekinge,31,19,2,1
+Dalarna,177,61,11,16
 Gotland,12,20,1,0
-Gävleborg,163,57,14,4
-Halland,126,38,10,9
-Jämtland Härjedalen,86,66,2,0
-Jönköping,199,55,17,13
-Kalmar,47,19,4,1
+Gävleborg,175,61,14,4
+Halland,127,38,10,11
+Jämtland Härjedalen,89,68,3,0
+Jönköping,223,61,20,13
+Kalmar,49,20,4,1
 Kronoberg,49,24,1,0
-Norrbotten,74,30,10,1
-Skåne,322,23,19,11
-Stockholm,2849,120,230,225
-Sörmland,412,138,45,45
-Uppsala,274,71,22,9
-Värmland,53,19,4,1
-Västerbotten,97,36,9,0
-Västernorrland,61,25,5,2
-Västmanland,139,50,12,4
-Västra Götaland,537,31,54,18
-Örebro,166,54,13,1
-Östergötland,584,125,35,12
+Norrbotten,80,32,13,1
+Skåne,333,24,21,11
+Stockholm,3016,127,237,251
+Sörmland,424,143,44,45
+Uppsala,293,76,26,9
+Värmland,55,19,4,1
+Västerbotten,114,42,9,0
+Västernorrland,66,27,5,2
+Västmanland,140,51,13,4
+Västra Götaland,561,33,55,18
+Örebro,172,56,13,1
+Östergötland,644,138,35,12
