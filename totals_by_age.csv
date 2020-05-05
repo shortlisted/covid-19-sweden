@@ -1,12 +1,12 @@
 Åldersgrupp,Totalt_antal_fall,Totalt_antal_intensivvårdade,Totalt_antal_avlidna
-Ålder_0_9,110,2,1
-Ålder_10_19,260,5,1
-Ålder_20_29,1766,59,6
-Ålder_30_39,2390,71,10
-Ålder_40_49,3049,195,27
-Ålder_50_59,4006,416,91
-Ålder_60_69,2915,476,210
-Ålder_70_79,2842,296,642
-Ålder_80_89,3506,51,1112
-Ålder_90_plus,1868,1,669
-Uppgift saknas,9,0,0
+Ålder_0_9,112,2,1
+Ålder_10_19,264,5,0
+Ålder_20_29,1807,61,7
+Ålder_30_39,2439,72,10
+Ålder_40_49,3136,199,28
+Ålder_50_59,4091,423,94
+Ålder_60_69,2971,488,219
+Ålder_70_79,2914,301,664
+Ålder_80_89,3562,52,1139
+Ålder_90_plus,1912,1,691
+Uppgift saknas,8,0,1
