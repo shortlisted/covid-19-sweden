@@ -15,9 +15,10 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 19,Blekinge,11,85,0,2,0,2,7,53
 20,Blekinge,18,103,1,3,1,3,11,65
 21,Blekinge,44,147,0,3,1,4,28,92
-22,Blekinge,68,215,0,3,0,4,43,135
-23,Blekinge,82,297,1,4,1,5,51,186
-24,Blekinge,82,379,1,5,3,8,51,237
+22,Blekinge,68,215,0,3,1,5,43,135
+23,Blekinge,82,297,1,4,1,6,51,186
+24,Blekinge,82,379,1,5,5,11,51,237
+25,Blekinge,38,417,2,7,1,12,24,261
 6,Dalarna,0,0,0,0,0,0,0,0
 7,Dalarna,0,0,0,0,0,0,0,0
 8,Dalarna,0,0,0,0,0,0,0,0
@@ -33,10 +34,11 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 18,Dalarna,115,800,5,48,17,113,40,278
 19,Dalarna,164,964,4,52,14,127,57,335
 20,Dalarna,86,1050,3,55,8,135,30,365
-21,Dalarna,83,1133,1,56,8,143,29,393
-22,Dalarna,83,1216,3,59,4,147,29,422
-23,Dalarna,98,1314,2,61,3,150,34,456
-24,Dalarna,76,1390,1,62,3,153,26,483
+21,Dalarna,82,1132,1,56,8,143,28,393
+22,Dalarna,83,1215,3,59,4,147,29,422
+23,Dalarna,98,1313,3,62,3,150,34,456
+24,Dalarna,76,1389,1,63,5,155,26,482
+25,Dalarna,61,1450,0,63,2,157,21,504
 6,Gotland,0,0,0,0,0,0,0,0
 7,Gotland,0,0,0,0,0,0,0,0
 8,Gotland,0,0,0,0,0,0,0,0
@@ -56,6 +58,7 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 22,Gotland,11,82,0,5,0,6,18,137
 23,Gotland,10,92,0,5,0,6,17,154
 24,Gotland,21,113,0,5,0,6,35,189
+25,Gotland,20,133,0,5,0,6,34,223
 6,Gävleborg,0,0,0,0,0,0,0,0
 7,Gävleborg,0,0,0,0,0,0,0,0
 8,Gävleborg,0,0,0,0,0,0,0,0
@@ -74,7 +77,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Gävleborg,152,1130,3,45,7,100,53,393
 22,Gävleborg,165,1295,3,48,9,109,57,451
 23,Gävleborg,231,1526,10,58,7,116,80,531
-24,Gävleborg,280,1806,5,63,2,118,97,628
+24,Gävleborg,281,1807,5,63,4,120,98,629
+25,Gävleborg,240,2047,3,66,3,123,84,712
 6,Halland,0,0,0,0,0,0,0,0
 7,Halland,0,0,0,0,0,0,0,0
 8,Halland,0,0,0,0,0,0,0,0
@@ -93,7 +97,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Halland,101,642,1,27,2,53,30,192
 22,Halland,125,767,3,30,2,55,37,230
 23,Halland,136,903,2,32,4,59,41,270
-24,Halland,153,1056,1,33,3,62,46,316
+24,Halland,152,1055,1,33,4,63,46,316
+25,Halland,121,1176,1,34,3,66,36,352
 6,Jämtland Härjedalen,0,0,0,0,0,0,0,0
 7,Jämtland Härjedalen,0,0,0,0,0,0,0,0
 8,Jämtland Härjedalen,0,0,0,0,0,0,0,0
@@ -111,8 +116,9 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 20,Jämtland Härjedalen,101,530,0,12,8,27,77,405
 21,Jämtland Härjedalen,97,627,3,15,6,33,74,479
 22,Jämtland Härjedalen,94,721,0,15,3,36,72,551
-23,Jämtland Härjedalen,81,802,1,16,3,39,62,613
-24,Jämtland Härjedalen,74,876,0,16,1,40,57,670
+23,Jämtland Härjedalen,81,802,1,16,4,40,62,613
+24,Jämtland Härjedalen,74,876,0,16,3,43,57,670
+25,Jämtland Härjedalen,88,964,0,16,1,44,67,737
 6,Jönköping,1,1,0,0,0,0,0,0
 7,Jönköping,0,1,0,0,0,0,0,0
 8,Jönköping,0,1,0,0,0,0,0,0
@@ -131,7 +137,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Jönköping,162,1324,6,65,8,133,45,364
 22,Jönköping,223,1547,7,72,9,142,61,425
 23,Jönköping,218,1765,5,77,6,148,60,485
-24,Jönköping,636,2401,3,80,6,154,175,660
+24,Jönköping,636,2401,3,80,9,157,175,660
+25,Jönköping,767,3168,3,83,7,164,211,871
 6,Kalmar,0,0,0,0,0,0,0,0
 7,Kalmar,0,0,0,0,0,0,0,0
 8,Kalmar,0,0,0,0,0,0,0,0
@@ -148,9 +155,10 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 19,Kalmar,42,218,3,21,8,25,17,89
 20,Kalmar,29,247,1,22,6,31,12,101
 21,Kalmar,22,269,0,22,5,36,9,110
-22,Kalmar,73,342,1,23,3,39,30,139
-23,Kalmar,56,398,3,26,1,40,23,162
-24,Kalmar,70,468,1,27,1,41,29,191
+22,Kalmar,73,342,1,23,5,41,30,139
+23,Kalmar,56,398,3,26,2,43,23,162
+24,Kalmar,70,468,1,27,2,45,29,191
+25,Kalmar,71,539,0,27,2,47,29,220
 6,Kronoberg,0,0,0,0,0,0,0,0
 7,Kronoberg,0,0,0,0,0,0,0,0
 8,Kronoberg,0,0,0,0,0,0,0,0
@@ -170,6 +178,7 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 22,Kronoberg,105,850,2,17,10,70,52,422
 23,Kronoberg,79,929,0,17,11,81,39,461
 24,Kronoberg,74,1003,2,19,5,86,37,498
+25,Kronoberg,34,1037,2,21,3,89,17,515
 6,Norrbotten,0,0,0,0,0,0,0,0
 7,Norrbotten,0,0,0,0,0,0,0,0
 8,Norrbotten,0,0,0,0,0,0,0,0
@@ -188,7 +197,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Norrbotten,22,360,1,37,2,42,9,144
 22,Norrbotten,56,416,0,37,6,48,22,166
 23,Norrbotten,87,503,3,40,6,54,35,201
-24,Norrbotten,180,683,3,43,4,58,72,273
+24,Norrbotten,180,683,3,43,5,59,72,273
+25,Norrbotten,255,938,5,48,1,60,102,375
 6,Skåne,0,0,0,0,0,0,0,0
 7,Skåne,0,0,0,0,0,0,0,0
 8,Skåne,0,0,0,0,0,0,0,0
@@ -207,7 +217,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Skåne,233,1473,11,87,32,173,17,107
 22,Skåne,254,1727,5,92,23,196,18,125
 23,Skåne,251,1978,7,99,14,210,18,144
-24,Skåne,303,2281,7,106,12,222,22,166
+24,Skåne,303,2281,7,106,20,230,22,166
+25,Skåne,413,2694,0,106,4,234,30,196
 6,Stockholm,0,0,0,0,0,0,0,0
 7,Stockholm,0,0,0,0,0,0,0,0
 8,Stockholm,0,0,0,0,0,0,0,0
@@ -218,34 +229,36 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 13,Stockholm,962,1742,98,144,126,155,40,73
 14,Stockholm,1339,3081,124,268,253,408,56,130
 15,Stockholm,1409,4490,117,385,375,783,59,189
-16,Stockholm,1406,5896,103,488,317,1100,59,248
-17,Stockholm,1431,7327,79,567,265,1365,60,308
+16,Stockholm,1406,5896,102,487,317,1100,59,248
+17,Stockholm,1431,7327,80,567,265,1365,60,308
 18,Stockholm,1367,8694,63,630,237,1602,58,366
 19,Stockholm,1289,9983,51,681,187,1789,54,420
 20,Stockholm,1279,11262,47,728,142,1931,54,474
-21,Stockholm,974,12236,35,763,106,2037,41,515
-22,Stockholm,1249,13485,43,806,86,2123,53,567
-23,Stockholm,1268,14753,24,830,80,2203,53,621
-24,Stockholm,1305,16058,26,856,38,2241,55,676
+21,Stockholm,975,12237,35,763,107,2038,41,515
+22,Stockholm,1249,13486,43,806,87,2125,53,567
+23,Stockholm,1268,14754,24,830,80,2205,53,621
+24,Stockholm,1302,16056,28,858,50,2255,55,675
+25,Stockholm,1935,17991,18,876,23,2278,81,757
 6,Sörmland,0,0,0,0,0,0,0,0
 7,Sörmland,0,0,0,0,0,0,0,0
 8,Sörmland,0,0,0,0,0,0,0,0
 9,Sörmland,0,0,0,0,0,0,0,0
 10,Sörmland,0,0,0,0,0,0,0,0
 11,Sörmland,21,21,2,2,0,0,7,7
-12,Sörmland,43,64,10,12,7,7,14,22
-13,Sörmland,107,171,18,30,13,20,36,57
-14,Sörmland,295,466,23,53,47,67,99,157
-15,Sörmland,208,674,26,79,51,118,70,227
-16,Sörmland,210,884,11,90,27,145,71,297
-17,Sörmland,211,1095,11,101,25,170,71,368
-18,Sörmland,187,1282,6,107,15,185,63,431
-19,Sörmland,131,1413,5,112,16,201,44,475
-20,Sörmland,83,1496,6,118,10,211,28,503
-21,Sörmland,64,1560,2,120,9,220,22,524
-22,Sörmland,64,1624,3,123,8,228,22,546
-23,Sörmland,36,1660,5,128,4,232,12,558
-24,Sörmland,122,1782,0,128,2,234,41,599
+12,Sörmland,43,64,9,11,7,7,14,22
+13,Sörmland,107,171,18,29,13,20,36,57
+14,Sörmland,295,466,23,52,47,67,99,157
+15,Sörmland,208,674,26,78,51,118,70,227
+16,Sörmland,210,884,11,89,27,145,71,297
+17,Sörmland,211,1095,11,100,25,170,71,368
+18,Sörmland,187,1282,6,106,15,185,63,431
+19,Sörmland,131,1413,5,111,16,201,44,475
+20,Sörmland,83,1496,7,118,10,211,28,503
+21,Sörmland,65,1561,2,120,9,220,22,525
+22,Sörmland,64,1625,3,123,8,228,22,546
+23,Sörmland,36,1661,6,129,4,232,12,558
+24,Sörmland,122,1783,0,129,2,234,41,599
+25,Sörmland,102,1885,1,130,2,236,34,634
 6,Uppsala,0,0,0,0,0,0,0,0
 7,Uppsala,0,0,0,0,0,0,0,0
 8,Uppsala,0,0,0,0,0,0,0,0
@@ -264,7 +277,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Uppsala,194,1663,9,115,18,169,51,433
 22,Uppsala,239,1902,13,128,12,181,62,496
 23,Uppsala,303,2205,8,136,7,188,79,575
-24,Uppsala,246,2451,9,145,16,204,64,639
+24,Uppsala,248,2453,9,145,20,208,65,639
+25,Uppsala,316,2769,1,146,10,218,82,722
 6,Värmland,0,0,0,0,0,0,0,0
 7,Värmland,0,0,0,0,0,0,0,0
 8,Värmland,0,0,0,0,0,0,0,0
@@ -284,6 +298,7 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 22,Värmland,126,530,3,23,4,33,45,188
 23,Värmland,109,639,3,26,10,43,39,226
 24,Värmland,114,753,2,28,12,55,40,267
+25,Värmland,84,837,1,29,7,62,30,296
 6,Västerbotten,0,0,0,0,0,0,0,0
 7,Västerbotten,0,0,0,0,0,0,0,0
 8,Västerbotten,0,0,0,0,0,0,0,0
@@ -303,6 +318,7 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 22,Västerbotten,35,499,2,28,2,27,13,184
 23,Västerbotten,35,534,1,29,3,30,13,197
 24,Västerbotten,40,574,2,31,0,30,15,211
+25,Västerbotten,52,626,0,31,1,31,19,230
 6,Västernorrland,0,0,0,0,0,0,0,0
 7,Västernorrland,0,0,0,0,0,0,0,0
 8,Västernorrland,0,0,0,0,0,0,0,0
@@ -322,6 +338,7 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 22,Västernorrland,135,727,3,40,7,87,55,296
 23,Västernorrland,154,881,2,42,6,93,63,359
 24,Västernorrland,117,998,3,45,7,100,48,407
+25,Västernorrland,154,1152,3,48,7,107,63,470
 6,Västmanland,0,0,0,0,0,0,0,0
 7,Västmanland,0,0,0,0,0,0,0,0
 8,Västmanland,0,0,0,0,0,0,0,0
@@ -340,7 +357,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 21,Västmanland,116,1111,1,42,7,140,42,403
 22,Västmanland,144,1255,2,44,7,147,52,455
 23,Västmanland,169,1424,5,49,6,153,61,516
-24,Västmanland,281,1705,1,50,3,156,102,618
+24,Västmanland,281,1705,1,50,5,158,102,618
+25,Västmanland,267,1972,0,50,2,160,97,715
 6,Västra Götaland,0,0,0,0,0,0,0,0
 7,Västra Götaland,0,0,0,0,0,0,0,0
 8,Västra Götaland,0,0,0,0,0,0,0,0
@@ -349,17 +367,18 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 11,Västra Götaland,145,175,0,1,1,1,8,10
 12,Västra Götaland,77,252,13,14,2,3,4,15
 13,Västra Götaland,112,364,25,39,6,9,6,21
-14,Västra Götaland,239,603,25,64,28,37,14,35
-15,Västra Götaland,436,1039,41,105,41,78,25,60
-16,Västra Götaland,419,1458,30,135,70,148,24,84
-17,Västra Götaland,603,2061,50,185,65,213,35,119
-18,Västra Götaland,613,2674,41,226,77,290,36,155
-19,Västra Götaland,843,3517,37,263,102,392,49,204
-20,Västra Götaland,826,4343,27,290,76,468,48,252
-21,Västra Götaland,727,5070,20,310,74,542,42,294
-22,Västra Götaland,867,5937,27,337,52,594,50,344
-23,Västra Götaland,2190,8127,30,367,51,645,127,471
-24,Västra Götaland,2643,10770,15,382,29,674,153,624
+14,Västra Götaland,239,603,24,63,28,37,14,35
+15,Västra Götaland,436,1039,41,104,41,78,25,60
+16,Västra Götaland,419,1458,30,134,70,148,24,84
+17,Västra Götaland,603,2061,50,184,65,213,35,119
+18,Västra Götaland,613,2674,41,225,77,290,36,155
+19,Västra Götaland,843,3517,37,262,102,392,49,204
+20,Västra Götaland,826,4343,27,289,76,468,48,252
+21,Västra Götaland,727,5070,20,309,74,542,42,294
+22,Västra Götaland,867,5937,27,336,52,594,50,344
+23,Västra Götaland,2190,8127,30,366,54,648,127,471
+24,Västra Götaland,2643,10770,16,382,48,696,153,624
+25,Västra Götaland,2013,12783,16,398,12,708,117,741
 6,Örebro,0,0,0,0,0,0,0,0
 7,Örebro,0,0,0,0,0,0,0,0
 8,Örebro,0,0,0,0,0,0,0,0
@@ -377,8 +396,9 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 20,Örebro,176,1504,2,67,15,108,58,493
 21,Örebro,172,1676,3,70,21,129,56,550
 22,Örebro,119,1795,1,71,10,139,39,589
-23,Örebro,181,1976,2,73,4,143,59,648
-24,Örebro,133,2109,5,78,7,150,44,692
+23,Örebro,181,1976,2,73,5,144,59,648
+24,Örebro,133,2109,5,78,7,151,44,692
+25,Örebro,119,2228,1,79,6,157,39,731
 6,Östergötland,0,0,0,0,0,0,0,0
 7,Östergötland,0,0,0,0,0,0,0,0
 8,Östergötland,0,0,0,0,0,0,0,0
@@ -394,7 +414,8 @@ veckonummer,Region,Antal_fall_vecka,Kum_antal_fall,Antal_intensivvårdade_vecka,
 18,Östergötland,132,1490,4,87,26,143,28,320
 19,Östergötland,127,1617,3,90,19,162,27,347
 20,Östergötland,129,1746,4,94,14,176,28,375
-21,Östergötland,155,1901,3,97,16,192,33,408
-22,Östergötland,65,1966,1,98,8,200,14,422
-23,Östergötland,288,2254,5,103,11,211,62,484
-24,Östergötland,279,2533,1,104,4,215,60,544
+21,Östergötland,154,1900,3,97,16,192,33,408
+22,Östergötland,65,1965,1,98,8,200,14,422
+23,Östergötland,288,2253,6,104,11,211,62,484
+24,Östergötland,279,2532,1,105,9,220,60,544
+25,Östergötland,312,2844,1,106,0,220,67,611
