@@ -42,6 +42,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1440,Ale,,Ale,189,25,594,80
 47,1440,Ale,,Ale,216,26,677,83
 48,1440,Ale,,Ale,235,19,737,60
+49,1440,Ale,,Ale,257,22,807,70
 6,1489,Alingsås,,Alingsås,0,0,0,0
 7,1489,Alingsås,,Alingsås,0,0,0,0
 8,1489,Alingsås,,Alingsås,0,0,0,0
@@ -85,6 +86,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1489,Alingsås,,Alingsås,168,16,695,68
 47,1489,Alingsås,,Alingsås,189,21,784,89
 48,1489,Alingsås,,Alingsås,211,22,876,92
+49,1489,Alingsås,,Alingsås,243,31,1005,129
 6,0764,Alvesta,,Alvesta,0,0,0,0
 7,0764,Alvesta,,Alvesta,0,0,0,0
 8,0764,Alvesta,,Alvesta,0,0,0,0
@@ -128,6 +130,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0764,Alvesta,,Alvesta,199,29,400,59
 47,0764,Alvesta,,Alvesta,222,23,446,46
 48,0764,Alvesta,,Alvesta,239,17,481,35
+49,0764,Alvesta,,Alvesta,255,16,513,32
 6,0604,Aneby,,Aneby,0,0,0,0
 7,0604,Aneby,,Aneby,0,0,0,0
 8,0604,Aneby,,Aneby,0,0,0,0
@@ -171,6 +174,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0604,Aneby,,Aneby,180,23,123,16
 47,0604,Aneby,,Aneby,215,35,147,24
 48,0604,Aneby,,Aneby,229,15,157,10
+49,0604,Aneby,,Aneby,253,23,173,16
 6,1984,Arboga,,Arboga,0,0,0,0
 7,1984,Arboga,,Arboga,0,0,0,0
 8,1984,Arboga,,Arboga,0,0,0,0
@@ -214,6 +218,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1984,Arboga,,Arboga,160,40,225,56
 47,1984,Arboga,,Arboga,199,40,281,56
 48,1984,Arboga,,Arboga,226,27,319,38
+49,1984,Arboga,,Arboga,249,23,351,32
 6,2506,Arjeplog,,Arjeplog,0,0,0,0
 7,2506,Arjeplog,,Arjeplog,0,0,0,0
 8,2506,Arjeplog,,Arjeplog,0,0,0,0
@@ -257,6 +262,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2506,Arjeplog,,Arjeplog,,,<15,<15
 47,2506,Arjeplog,,Arjeplog,,,<15,<15
 48,2506,Arjeplog,,Arjeplog,,,<15,<15
+49,2506,Arjeplog,,Arjeplog,,,<15,<15
 6,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
 7,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
 8,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
@@ -300,6 +306,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2505,Arvidsjaur,,Arvidsjaur,42,10,26,6
 47,2505,Arvidsjaur,,Arvidsjaur,53,11,33,7
 48,2505,Arvidsjaur,,Arvidsjaur,63,10,39,6
+49,2505,Arvidsjaur,,Arvidsjaur,68,5,42,3
 6,1784,Arvika,,Arvika,0,0,0,0
 7,1784,Arvika,,Arvika,0,0,0,0
 8,1784,Arvika,,Arvika,0,0,0,0
@@ -343,6 +350,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1784,Arvika,,Arvika,63,4,164,10
 47,1784,Arvika,,Arvika,65,2,170,6
 48,1784,Arvika,,Arvika,67,2,174,4
+49,1784,Arvika,,Arvika,80,13,209,35
 6,1882,Askersund,,Askersund,0,0,0,0
 7,1882,Askersund,,Askersund,0,0,0,0
 8,1882,Askersund,,Askersund,0,0,0,0
@@ -386,6 +394,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1882,Askersund,,Askersund,110,16,125,18
 47,1882,Askersund,,Askersund,133,23,151,26
 48,1882,Askersund,,Askersund,152,19,173,22
+49,1882,Askersund,,Askersund,164,12,187,14
 6,2084,Avesta,,Avesta,0,0,0,0
 7,2084,Avesta,,Avesta,0,0,0,0
 8,2084,Avesta,,Avesta,0,0,0,0
@@ -429,6 +438,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2084,Avesta,,Avesta,93,13,216,30
 47,2084,Avesta,,Avesta,114,21,264,48
 48,2084,Avesta,,Avesta,144,30,334,70
+49,2084,Avesta,,Avesta,204,60,473,139
 6,1460,Bengtsfors,,Bengtsfors,0,0,0,0
 7,1460,Bengtsfors,,Bengtsfors,0,0,0,0
 8,1460,Bengtsfors,,Bengtsfors,0,0,0,0
@@ -472,6 +482,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1460,Bengtsfors,,Bengtsfors,97,6,95,6
 47,1460,Bengtsfors,,Bengtsfors,141,43,137,42
 48,1460,Bengtsfors,,Bengtsfors,187,46,182,45
+49,1460,Bengtsfors,,Bengtsfors,237,50,231,49
 6,2326,Berg,,Berg,0,0,0,0
 7,2326,Berg,,Berg,0,0,0,0
 8,2326,Berg,,Berg,0,0,0,0
@@ -515,6 +526,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2326,Berg,,Berg,156,21,110,15
 47,2326,Berg,,Berg,180,24,127,17
 48,2326,Berg,,Berg,194,14,137,10
+49,2326,Berg,,Berg,212,18,150,13
 6,2403,Bjurholm,,Bjurholm,0,0,0,0
 7,2403,Bjurholm,,Bjurholm,0,0,0,0
 8,2403,Bjurholm,,Bjurholm,0,0,0,0
@@ -558,6 +570,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2403,Bjurholm,,Bjurholm,,,<15,<15
 47,2403,Bjurholm,,Bjurholm,,,<15,<15
 48,2403,Bjurholm,,Bjurholm,,,<15,<15
+49,2403,Bjurholm,,Bjurholm,,,<15,<15
 6,1260,Bjuv,,Bjuv,0,0,0,0
 7,1260,Bjuv,,Bjuv,0,0,0,0
 8,1260,Bjuv,,Bjuv,0,0,0,0
@@ -601,6 +614,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1260,Bjuv,,Bjuv,166,62,261,97
 47,1260,Bjuv,,Bjuv,218,52,342,81
 48,1260,Bjuv,,Bjuv,258,41,406,64
+49,1260,Bjuv,,Bjuv,326,67,512,106
 6,2582,Boden,,Boden,0,0,0,0
 7,2582,Boden,,Boden,0,0,0,0
 8,2582,Boden,,Boden,0,0,0,0
@@ -644,6 +658,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2582,Boden,,Boden,145,34,407,95
 47,2582,Boden,,Boden,190,45,534,127
 48,2582,Boden,,Boden,245,55,689,155
+49,2582,Boden,,Boden,295,50,828,139
 6,1443,Bollebygd,,Bollebygd,0,0,0,0
 7,1443,Bollebygd,,Bollebygd,0,0,0,0
 8,1443,Bollebygd,,Bollebygd,0,0,0,0
@@ -687,6 +702,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1443,Bollebygd,,Bollebygd,179,32,170,30
 47,1443,Bollebygd,,Bollebygd,210,31,199,29
 48,1443,Bollebygd,,Bollebygd,227,18,216,17
+49,1443,Bollebygd,,Bollebygd,252,24,239,23
 6,2183,Bollnäs,,Bollnäs,0,0,0,0
 7,2183,Bollnäs,,Bollnäs,0,0,0,0
 8,2183,Bollnäs,,Bollnäs,0,0,0,0
@@ -730,6 +746,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2183,Bollnäs,,Bollnäs,144,25,388,67
 47,2183,Bollnäs,,Bollnäs,177,33,477,89
 48,2183,Bollnäs,,Bollnäs,215,38,578,101
+49,2183,Bollnäs,,Bollnäs,250,35,672,94
 6,0885,Borgholm,,Borgholm,0,0,0,0
 7,0885,Borgholm,,Borgholm,0,0,0,0
 8,0885,Borgholm,,Borgholm,0,0,0,0
@@ -773,6 +790,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0885,Borgholm,,Borgholm,67,9,73,10
 47,0885,Borgholm,,Borgholm,79,12,86,13
 48,0885,Borgholm,,Borgholm,104,25,113,27
+49,0885,Borgholm,,Borgholm,124,19,134,21
 6,2081,Borlänge,,Borlänge,0,0,0,0
 7,2081,Borlänge,,Borlänge,0,0,0,0
 8,2081,Borlänge,,Borlänge,0,0,0,0
@@ -816,6 +834,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2081,Borlänge,,Borlänge,175,17,920,88
 47,2081,Borlänge,,Borlänge,191,16,1005,85
 48,2081,Borlänge,,Borlänge,214,23,1126,121
+49,2081,Borlänge,,Borlänge,232,18,1220,94
 6,1490,Borås,,Borås,0,0,0,0
 7,1490,Borås,,Borås,0,0,0,0
 8,1490,Borås,,Borås,0,0,0,0
@@ -859,6 +878,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1490,Borås,,Borås,256,38,2895,427
 47,1490,Borås,,Borås,288,32,3256,361
 48,1490,Borås,,Borås,319,32,3615,359
+49,1490,Borås,,Borås,355,36,4018,403
 6,0127,Botkyrka,,Botkyrka,0,0,0,0
 7,0127,Botkyrka,,Botkyrka,0,0,0,0
 8,0127,Botkyrka,,Botkyrka,0,0,0,0
@@ -902,6 +922,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0127,Botkyrka,,Botkyrka,208,30,1968,283
 47,0127,Botkyrka,,Botkyrka,252,44,2386,418
 48,0127,Botkyrka,,Botkyrka,303,51,2871,485
+49,0127,Botkyrka,,Botkyrka,351,48,3321,450
 6,0560,Boxholm,,Boxholm,0,0,0,0
 7,0560,Boxholm,,Boxholm,0,0,0,0
 8,0560,Boxholm,,Boxholm,0,0,0,0
@@ -945,6 +966,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0560,Boxholm,,Boxholm,110,13,60,7
 47,0560,Boxholm,,Boxholm,115,5,63,3
 48,0560,Boxholm,,Boxholm,124,9,68,5
+49,0560,Boxholm,,Boxholm,131,7,72,4
 6,1272,Bromölla,,Bromölla,0,0,0,0
 7,1272,Bromölla,,Bromölla,0,0,0,0
 8,1272,Bromölla,,Bromölla,0,0,0,0
@@ -988,6 +1010,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1272,Bromölla,,Bromölla,79,16,102,20
 47,1272,Bromölla,,Bromölla,96,16,123,21
 48,1272,Bromölla,,Bromölla,114,19,147,24
+49,1272,Bromölla,,Bromölla,154,40,198,51
 6,2305,Bräcke,,Bräcke,0,0,0,0
 7,2305,Bräcke,,Bräcke,0,0,0,0
 8,2305,Bräcke,,Bräcke,0,0,0,0
@@ -1031,6 +1054,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2305,Bräcke,,Bräcke,197,6,124,4
 47,2305,Bräcke,,Bräcke,211,14,133,9
 48,2305,Bräcke,,Bräcke,276,65,174,41
+49,2305,Bräcke,,Bräcke,329,52,207,33
 6,1231,Burlöv,,Burlöv,0,0,0,0
 7,1231,Burlöv,,Burlöv,0,0,0,0
 8,1231,Burlöv,,Burlöv,0,0,0,0
@@ -1074,6 +1098,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1231,Burlöv,,Burlöv,168,40,322,76
 47,1231,Burlöv,,Burlöv,197,29,377,55
 48,1231,Burlöv,,Burlöv,242,45,463,86
+49,1231,Burlöv,,Burlöv,290,48,554,91
 6,1278,Båstad,,Båstad,0,0,0,0
 7,1278,Båstad,,Båstad,0,0,0,0
 8,1278,Båstad,,Båstad,0,0,0,0
@@ -1117,6 +1142,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1278,Båstad,,Båstad,151,46,229,69
 47,1278,Båstad,,Båstad,202,50,305,76
 48,1278,Båstad,,Båstad,239,37,361,56
+49,1278,Båstad,,Båstad,271,32,410,49
 6,1438,Dals-Ed,,Dals-Ed,0,0,0,0
 7,1438,Dals-Ed,,Dals-Ed,0,0,0,0
 8,1438,Dals-Ed,,Dals-Ed,0,0,0,0
@@ -1160,6 +1186,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1438,Dals-Ed,,Dals-Ed,189,21,91,10
 47,1438,Dals-Ed,,Dals-Ed,193,4,93,2
 48,1438,Dals-Ed,,Dals-Ed,204,10,98,5
+49,1438,Dals-Ed,,Dals-Ed,218,15,105,7
 6,0162,Danderyd,,Danderyd,0,0,0,0
 7,0162,Danderyd,,Danderyd,0,0,0,0
 8,0162,Danderyd,,Danderyd,0,0,0,0
@@ -1203,6 +1230,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0162,Danderyd,,Danderyd,241,42,791,137
 47,0162,Danderyd,,Danderyd,277,36,910,119
 48,0162,Danderyd,,Danderyd,323,46,1061,151
+49,0162,Danderyd,,Danderyd,362,39,1188,127
 6,1862,Degerfors,,Degerfors,0,0,0,0
 7,1862,Degerfors,,Degerfors,0,0,0,0
 8,1862,Degerfors,,Degerfors,0,0,0,0
@@ -1246,6 +1274,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1862,Degerfors,,Degerfors,213,34,206,33
 47,1862,Degerfors,,Degerfors,243,30,235,29
 48,1862,Degerfors,,Degerfors,270,27,261,26
+49,1862,Degerfors,,Degerfors,301,31,291,30
 6,2425,Dorotea,,Dorotea,0,0,0,0
 7,2425,Dorotea,,Dorotea,0,0,0,0
 8,2425,Dorotea,,Dorotea,0,0,0,0
@@ -1289,6 +1318,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2425,Dorotea,,Dorotea,,,<15,<15
 47,2425,Dorotea,,Dorotea,,,<15,<15
 48,2425,Dorotea,,Dorotea,,,<15,<15
+49,2425,Dorotea,,Dorotea,,,<15,<15
 6,1730,Eda,,Eda,0,0,0,0
 7,1730,Eda,,Eda,0,0,0,0
 8,1730,Eda,,Eda,0,0,0,0
@@ -1332,6 +1362,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1730,Eda,,Eda,51,5,44,4
 47,1730,Eda,,Eda,61,9,52,8
 48,1730,Eda,,Eda,69,8,59,7
+49,1730,Eda,,Eda,79,11,68,9
 6,0125,Ekerö,,Ekerö,0,0,0,0
 7,0125,Ekerö,,Ekerö,0,0,0,0
 8,0125,Ekerö,,Ekerö,0,0,0,0
@@ -1375,6 +1406,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0125,Ekerö,,Ekerö,187,39,537,111
 47,0125,Ekerö,,Ekerö,224,37,644,107
 48,0125,Ekerö,,Ekerö,272,47,780,136
+49,0125,Ekerö,,Ekerö,317,45,910,130
 6,0686,Eksjö,,Eksjö,0,0,0,0
 7,0686,Eksjö,,Eksjö,0,0,0,0
 8,0686,Eksjö,,Eksjö,0,0,0,0
@@ -1418,6 +1450,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0686,Eksjö,,Eksjö,181,30,321,54
 47,0686,Eksjö,,Eksjö,224,43,397,76
 48,0686,Eksjö,,Eksjö,269,46,478,81
+49,0686,Eksjö,,Eksjö,344,74,610,132
 6,0862,Emmaboda,,Emmaboda,0,0,0,0
 7,0862,Emmaboda,,Emmaboda,0,0,0,0
 8,0862,Emmaboda,,Emmaboda,0,0,0,0
@@ -1461,6 +1494,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0862,Emmaboda,,Emmaboda,72,19,68,18
 47,0862,Emmaboda,,Emmaboda,82,10,77,9
 48,0862,Emmaboda,,Emmaboda,87,5,82,5
+49,0862,Emmaboda,,Emmaboda,98,12,93,11
 6,0381,Enköping,,Enköping,0,0,0,0
 7,0381,Enköping,,Enköping,0,0,0,0
 8,0381,Enköping,,Enköping,0,0,0,0
@@ -1504,6 +1538,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0381,Enköping,,Enköping,174,25,788,113
 47,0381,Enköping,,Enköping,209,35,947,159
 48,0381,Enköping,,Enköping,253,44,1148,201
+49,0381,Enköping,,Enköping,310,56,1403,255
 6,0484,Eskilstuna,,Eskilstuna,0,0,0,0
 7,0484,Eskilstuna,,Eskilstuna,0,0,0,0
 8,0484,Eskilstuna,,Eskilstuna,0,0,0,0
@@ -1547,6 +1582,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0484,Eskilstuna,,Eskilstuna,193,33,2066,356
 47,0484,Eskilstuna,,Eskilstuna,231,38,2467,401
 48,0484,Eskilstuna,,Eskilstuna,262,31,2799,332
+49,0484,Eskilstuna,,Eskilstuna,287,25,3063,264
 6,1285,Eslöv,,Eslöv,0,0,0,0
 7,1285,Eslöv,,Eslöv,0,0,0,0
 8,1285,Eslöv,,Eslöv,0,0,0,0
@@ -1590,6 +1626,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1285,Eslöv,,Eslöv,91,17,309,56
 47,1285,Eslöv,,Eslöv,110,18,371,62
 48,1285,Eslöv,,Eslöv,136,26,459,88
+49,1285,Eslöv,,Eslöv,173,37,585,126
 6,1445,Essunga,,Essunga,0,0,0,0
 7,1445,Essunga,,Essunga,0,0,0,0
 8,1445,Essunga,,Essunga,0,0,0,0
@@ -1633,6 +1670,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1445,Essunga,,Essunga,111,4,63,2
 47,1445,Essunga,,Essunga,122,11,69,6
 48,1445,Essunga,,Essunga,136,14,77,8
+49,1445,Essunga,,Essunga,156,19,88,11
 6,1982,Fagersta,,Fagersta,0,0,0,0
 7,1982,Fagersta,,Fagersta,0,0,0,0
 8,1982,Fagersta,,Fagersta,0,0,0,0
@@ -1676,6 +1714,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1982,Fagersta,,Fagersta,99,14,132,19
 47,1982,Fagersta,,Fagersta,117,19,157,25
 48,1982,Fagersta,,Fagersta,138,21,185,28
+49,1982,Fagersta,,Fagersta,164,26,220,35
 6,1382,Falkenberg,,Falkenberg,0,0,0,0
 7,1382,Falkenberg,,Falkenberg,0,0,0,0
 8,1382,Falkenberg,,Falkenberg,0,0,0,0
@@ -1719,6 +1758,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1382,Falkenberg,,Falkenberg,109,21,496,94
 47,1382,Falkenberg,,Falkenberg,122,13,553,57
 48,1382,Falkenberg,,Falkenberg,141,19,640,87
+49,1382,Falkenberg,,Falkenberg,166,25,753,113
 6,1499,Falköping,,Falköping,0,0,0,0
 7,1499,Falköping,,Falköping,0,0,0,0
 8,1499,Falköping,,Falköping,0,0,0,0
@@ -1762,6 +1802,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1499,Falköping,,Falköping,180,53,597,177
 47,1499,Falköping,,Falköping,228,48,758,161
 48,1499,Falköping,,Falköping,268,40,892,134
+49,1499,Falköping,,Falköping,307,38,1019,127
 6,2080,Falun,,Falun,0,0,0,0
 7,2080,Falun,,Falun,0,0,0,0
 8,2080,Falun,,Falun,0,0,0,0
@@ -1805,6 +1846,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2080,Falun,,Falun,265,41,1573,241
 47,2080,Falun,,Falun,297,33,1767,194
 48,2080,Falun,,Falun,331,34,1967,200
+49,2080,Falun,,Falun,358,27,2125,158
 6,1782,Filipstad,,Filipstad,0,0,0,0
 7,1782,Filipstad,,Filipstad,0,0,0,0
 8,1782,Filipstad,,Filipstad,0,0,0,0
@@ -1848,6 +1890,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1782,Filipstad,,Filipstad,103,8,110,9
 47,1782,Filipstad,,Filipstad,125,22,133,23
 48,1782,Filipstad,,Filipstad,141,16,150,17
+49,1782,Filipstad,,Filipstad,156,15,166,16
 6,0562,Finspång,,Finspång,0,0,0,0
 7,0562,Finspång,,Finspång,0,0,0,0
 8,0562,Finspång,,Finspång,0,0,0,0
@@ -1891,6 +1934,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0562,Finspång,,Finspång,131,7,286,16
 47,0562,Finspång,,Finspång,139,9,305,19
 48,0562,Finspång,,Finspång,144,5,316,11
+49,0562,Finspång,,Finspång,151,7,331,15
 6,0482,Flen,,Flen,0,0,0,0
 7,0482,Flen,,Flen,0,0,0,0
 8,0482,Flen,,Flen,0,0,0,0
@@ -1934,6 +1978,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0482,Flen,,Flen,112,10,186,16
 47,0482,Flen,,Flen,122,10,203,17
 48,0482,Flen,,Flen,128,6,213,10
+49,0482,Flen,,Flen,142,13,235,22
 6,1763,Forshaga,,Forshaga,0,0,0,0
 7,1763,Forshaga,,Forshaga,0,0,0,0
 8,1763,Forshaga,,Forshaga,0,0,0,0
@@ -1977,6 +2022,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1763,Forshaga,,Forshaga,72,11,83,13
 47,1763,Forshaga,,Forshaga,83,11,96,13
 48,1763,Forshaga,,Forshaga,104,21,120,24
+49,1763,Forshaga,,Forshaga,136,31,156,36
 6,1439,Färgelanda,,Färgelanda,0,0,0,0
 7,1439,Färgelanda,,Färgelanda,0,0,0,0
 8,1439,Färgelanda,,Färgelanda,0,0,0,0
@@ -2020,6 +2066,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1439,Färgelanda,,Färgelanda,125,21,83,14
 47,1439,Färgelanda,,Färgelanda,137,12,91,8
 48,1439,Färgelanda,,Färgelanda,158,21,105,14
+49,1439,Färgelanda,,Färgelanda,176,18,117,12
 6,2026,Gagnef,,Gagnef,0,0,0,0
 7,2026,Gagnef,,Gagnef,0,0,0,0
 8,2026,Gagnef,,Gagnef,0,0,0,0
@@ -2063,6 +2110,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2026,Gagnef,,Gagnef,159,16,164,16
 47,2026,Gagnef,,Gagnef,176,16,181,17
 48,2026,Gagnef,,Gagnef,196,20,202,21
+49,2026,Gagnef,,Gagnef,208,12,214,12
 6,0662,Gislaved,,Gislaved,0,0,0,0
 7,0662,Gislaved,,Gislaved,0,0,0,0
 8,0662,Gislaved,,Gislaved,0,0,0,0
@@ -2106,6 +2154,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0662,Gislaved,,Gislaved,333,40,999,121
 47,0662,Gislaved,,Gislaved,358,24,1072,73
 48,0662,Gislaved,,Gislaved,374,16,1120,48
+49,0662,Gislaved,,Gislaved,391,17,1171,51
 6,0461,Gnesta,,Gnesta,0,0,0,0
 7,0461,Gnesta,,Gnesta,0,0,0,0
 8,0461,Gnesta,,Gnesta,0,0,0,0
@@ -2149,6 +2198,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0461,Gnesta,,Gnesta,142,12,161,14
 47,0461,Gnesta,,Gnesta,189,48,215,54
 48,0461,Gnesta,,Gnesta,212,23,241,26
+49,0461,Gnesta,,Gnesta,233,21,265,24
 6,0617,Gnosjö,,Gnosjö,0,0,0,0
 7,0617,Gnosjö,,Gnosjö,0,0,0,0
 8,0617,Gnosjö,,Gnosjö,0,0,0,0
@@ -2192,6 +2242,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0617,Gnosjö,,Gnosjö,293,24,285,23
 47,0617,Gnosjö,,Gnosjö,317,24,308,23
 48,0617,Gnosjö,,Gnosjö,347,30,337,29
+49,0617,Gnosjö,,Gnosjö,381,34,370,33
 6,0980,Gotland,,Gotland,0,0,0,0
 7,0980,Gotland,,Gotland,0,0,0,0
 8,0980,Gotland,,Gotland,0,0,0,0
@@ -2235,6 +2286,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0980,Gotland,,Gotland,134,36,797,213
 47,0980,Gotland,,Gotland,162,29,969,172
 48,0980,Gotland,,Gotland,200,38,1195,226
+49,0980,Gotland,,Gotland,253,52,1508,313
 6,1764,Grums,,Grums,0,0,0,0
 7,1764,Grums,,Grums,0,0,0,0
 8,1764,Grums,,Grums,0,0,0,0
@@ -2278,6 +2330,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1764,Grums,,Grums,129,12,117,11
 47,1764,Grums,,Grums,141,12,128,11
 48,1764,Grums,,Grums,157,15,142,14
+49,1764,Grums,,Grums,192,35,174,32
 6,1444,Grästorp,,Grästorp,0,0,0,0
 7,1444,Grästorp,,Grästorp,0,0,0,0
 8,1444,Grästorp,,Grästorp,0,0,0,0
@@ -2321,6 +2374,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1444,Grästorp,,Grästorp,146,32,83,18
 47,1444,Grästorp,,Grästorp,162,16,92,9
 48,1444,Grästorp,,Grästorp,176,14,100,8
+49,1444,Grästorp,,Grästorp,197,21,112,12
 6,1447,Gullspång,,Gullspång,0,0,0,0
 7,1447,Gullspång,,Gullspång,0,0,0,0
 8,1447,Gullspång,,Gullspång,0,0,0,0
@@ -2364,6 +2418,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1447,Gullspång,,Gullspång,76,9,40,5
 47,1447,Gullspång,,Gullspång,97,21,51,11
 48,1447,Gullspång,,Gullspång,119,23,63,12
+49,1447,Gullspång,,Gullspång,134,15,71,8
 6,2523,Gällivare,,Gällivare,0,0,0,0
 7,2523,Gällivare,,Gällivare,0,0,0,0
 8,2523,Gällivare,,Gällivare,0,0,0,0
@@ -2400,13 +2455,14 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 39,2523,Gällivare,,Gällivare,341,0,597,0
 40,2523,Gällivare,,Gällivare,343,2,601,4
 41,2523,Gällivare,,Gällivare,346,3,606,5
-42,2523,Gällivare,,Gällivare,353,7,618,12
-43,2523,Gällivare,,Gällivare,360,7,631,13
-44,2523,Gällivare,,Gällivare,363,3,637,6
-45,2523,Gällivare,,Gällivare,372,9,652,15
-46,2523,Gällivare,,Gällivare,376,4,659,7
-47,2523,Gällivare,,Gällivare,383,7,671,12
-48,2523,Gällivare,,Gällivare,391,8,685,14
+42,2523,Gällivare,,Gällivare,353,7,619,13
+43,2523,Gällivare,,Gällivare,361,7,632,13
+44,2523,Gällivare,,Gällivare,364,3,638,6
+45,2523,Gällivare,,Gällivare,373,9,653,15
+46,2523,Gällivare,,Gällivare,377,4,660,7
+47,2523,Gällivare,,Gällivare,383,7,672,12
+48,2523,Gällivare,,Gällivare,391,8,686,14
+49,2523,Gällivare,,Gällivare,394,2,690,4
 6,2180,Gävle,,Gävle,0,0,0,0
 7,2180,Gävle,,Gävle,0,0,0,0
 8,2180,Gävle,,Gävle,0,0,0,0
@@ -2450,6 +2506,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2180,Gävle,,Gävle,194,30,1991,304
 47,2180,Gävle,,Gävle,228,33,2334,343
 48,2180,Gävle,,Gävle,271,43,2779,445
+49,2180,Gävle,,Gävle,318,47,3261,482
 6,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
 7,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
 8,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
@@ -2491,8 +2548,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1480,Göteborg,Angered,Göteborg Angered,191,16,1036,88
 45,1480,Göteborg,Angered,Göteborg Angered,212,22,1155,119
 46,1480,Göteborg,Angered,Göteborg Angered,238,25,1292,137
-47,1480,Göteborg,Angered,Göteborg Angered,263,26,1432,140
-48,1480,Göteborg,Angered,Göteborg Angered,294,31,1600,168
+47,1480,Göteborg,Angered,Göteborg Angered,263,26,1431,139
+48,1480,Göteborg,Angered,Göteborg Angered,294,31,1600,169
+49,1480,Göteborg,Angered,Göteborg Angered,322,28,1751,151
 6,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
 7,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
 8,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
@@ -2536,6 +2594,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,234,27,1500,173
 47,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,258,23,1650,150
 48,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,278,20,1781,131
+49,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,303,24,1937,156
 6,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
 7,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
 8,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
@@ -2579,6 +2638,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Centrum,Göteborg Centrum,263,27,1691,175
 47,1480,Göteborg,Centrum,Göteborg Centrum,286,22,1835,144
 48,1480,Göteborg,Centrum,Göteborg Centrum,305,19,1956,121
+49,1480,Göteborg,Centrum,Göteborg Centrum,327,23,2101,145
 6,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
 7,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
 8,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
@@ -2622,6 +2682,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Lundby,Göteborg Lundby,236,25,1299,137
 47,1480,Göteborg,Lundby,Göteborg Lundby,264,28,1455,156
 48,1480,Göteborg,Lundby,Göteborg Lundby,287,23,1582,127
+49,1480,Göteborg,Lundby,Göteborg Lundby,314,27,1729,147
 6,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
 7,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
 8,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
@@ -2664,7 +2725,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,227,31,1458,201
 46,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,250,23,1609,151
 47,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,280,30,1800,191
-48,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,311,31,1999,199
+48,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,311,31,2000,200
+49,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,336,25,2160,160
 6,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
 7,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
 8,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
@@ -2707,7 +2769,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,206,24,1070,127
 46,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,225,19,1167,97
 47,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,253,28,1311,144
-48,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,288,35,1491,180
+48,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,287,35,1490,179
+49,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,320,33,1660,170
 6,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
 7,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
 8,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
@@ -2747,10 +2810,11 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 42,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,134,4,724,23
 43,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,149,14,801,77
 44,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,179,31,966,165
-45,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,216,37,1165,199
-46,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,244,27,1312,147
-47,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,268,24,1443,131
-48,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,296,28,1596,153
+45,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,216,37,1164,198
+46,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,243,27,1311,147
+47,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,268,24,1442,131
+48,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,296,28,1595,153
+49,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,325,29,1753,158
 6,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
 7,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
 8,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
@@ -2794,6 +2858,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,194,21,1107,118
 47,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,216,23,1237,130
 48,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,244,27,1392,155
+49,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,269,26,1540,148
 6,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
 7,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
 8,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
@@ -2837,6 +2902,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,271,26,1662,160
 47,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,296,25,1818,156
 48,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,326,29,1998,180
+49,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,350,24,2145,147
 6,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
 7,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
 8,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
@@ -2880,6 +2946,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,249,25,1288,128
 47,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,276,27,1426,138
 48,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,302,27,1564,138
+49,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,325,23,1684,120
 6,1471,Götene,,Götene,0,0,0,0
 7,1471,Götene,,Götene,0,0,0,0
 8,1471,Götene,,Götene,0,0,0,0
@@ -2923,6 +2990,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1471,Götene,,Götene,84,12,111,16
 47,1471,Götene,,Götene,98,14,129,18
 48,1471,Götene,,Götene,108,11,143,14
+49,1471,Götene,,Götene,128,20,169,26
 6,0643,Habo,,Habo,0,0,0,0
 7,0643,Habo,,Habo,0,0,0,0
 8,0643,Habo,,Habo,0,0,0,0
@@ -2966,6 +3034,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0643,Habo,,Habo,147,18,183,23
 47,0643,Habo,,Habo,155,8,193,10
 48,0643,Habo,,Habo,175,20,218,25
+49,0643,Habo,,Habo,208,32,258,40
 6,1783,Hagfors,,Hagfors,0,0,0,0
 7,1783,Hagfors,,Hagfors,0,0,0,0
 8,1783,Hagfors,,Hagfors,0,0,0,0
@@ -3009,6 +3078,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1783,Hagfors,,Hagfors,52,3,60,3
 47,1783,Hagfors,,Hagfors,58,6,67,7
 48,1783,Hagfors,,Hagfors,65,7,75,8
+49,1783,Hagfors,,Hagfors,108,43,125,50
 6,1861,Hallsberg,,Hallsberg,0,0,0,0
 7,1861,Hallsberg,,Hallsberg,0,0,0,0
 8,1861,Hallsberg,,Hallsberg,0,0,0,0
@@ -3052,6 +3122,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1861,Hallsberg,,Hallsberg,169,37,270,59
 47,1861,Hallsberg,,Hallsberg,203,33,323,53
 48,1861,Hallsberg,,Hallsberg,228,25,363,40
+49,1861,Hallsberg,,Hallsberg,260,33,415,52
 6,1961,Hallstahammar,,Hallstahammar,0,0,0,0
 7,1961,Hallstahammar,,Hallstahammar,0,0,0,0
 8,1961,Hallstahammar,,Hallstahammar,0,0,0,0
@@ -3095,6 +3166,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1961,Hallstahammar,,Hallstahammar,156,21,255,35
 47,1961,Hallstahammar,,Hallstahammar,192,36,314,59
 48,1961,Hallstahammar,,Hallstahammar,236,43,385,71
+49,1961,Hallstahammar,,Hallstahammar,296,61,484,99
 6,1380,Halmstad,,Halmstad,0,0,0,0
 7,1380,Halmstad,,Halmstad,0,0,0,0
 8,1380,Halmstad,,Halmstad,0,0,0,0
@@ -3138,6 +3210,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1380,Halmstad,,Halmstad,135,24,1389,242
 47,1380,Halmstad,,Halmstad,148,13,1519,130
 48,1380,Halmstad,,Halmstad,167,19,1718,199
+49,1380,Halmstad,,Halmstad,197,30,2024,306
 6,1761,Hammarö,,Hammarö,0,0,0,0
 7,1761,Hammarö,,Hammarö,0,0,0,0
 8,1761,Hammarö,,Hammarö,0,0,0,0
@@ -3181,6 +3254,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1761,Hammarö,,Hammarö,91,14,151,23
 47,1761,Hammarö,,Hammarö,101,10,167,16
 48,1761,Hammarö,,Hammarö,114,13,189,22
+49,1761,Hammarö,,Hammarö,124,10,206,17
 6,0136,Haninge,,Haninge,0,0,0,0
 7,0136,Haninge,,Haninge,0,0,0,0
 8,0136,Haninge,,Haninge,0,0,0,0
@@ -3224,6 +3298,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0136,Haninge,,Haninge,203,36,1869,328
 47,0136,Haninge,,Haninge,244,41,2248,379
 48,0136,Haninge,,Haninge,284,40,2613,365
+49,0136,Haninge,,Haninge,327,43,3011,398
 6,2583,Haparanda,,Haparanda,0,0,0,0
 7,2583,Haparanda,,Haparanda,0,0,0,0
 8,2583,Haparanda,,Haparanda,0,0,0,0
@@ -3267,6 +3342,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2583,Haparanda,,Haparanda,107,14,104,14
 47,2583,Haparanda,,Haparanda,119,11,115,11
 48,2583,Haparanda,,Haparanda,126,7,122,7
+49,2583,Haparanda,,Haparanda,132,6,128,6
 6,0331,Heby,,Heby,0,0,0,0
 7,0331,Heby,,Heby,0,0,0,0
 8,0331,Heby,,Heby,0,0,0,0
@@ -3310,6 +3386,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0331,Heby,,Heby,124,26,174,36
 47,0331,Heby,,Heby,154,31,217,43
 48,0331,Heby,,Heby,192,38,270,53
+49,0331,Heby,,Heby,241,48,338,68
 6,2083,Hedemora,,Hedemora,0,0,0,0
 7,2083,Hedemora,,Hedemora,0,0,0,0
 8,2083,Hedemora,,Hedemora,0,0,0,0
@@ -3353,6 +3430,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2083,Hedemora,,Hedemora,122,21,189,33
 47,2083,Hedemora,,Hedemora,143,21,221,32
 48,2083,Hedemora,,Hedemora,157,14,243,22
+49,2083,Hedemora,,Hedemora,178,21,275,32
 6,1283,Helsingborg,,Helsingborg,0,0,0,0
 7,1283,Helsingborg,,Helsingborg,0,0,0,0
 8,1283,Helsingborg,,Helsingborg,0,0,0,0
@@ -3396,6 +3474,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1283,Helsingborg,,Helsingborg,177,40,2612,597
 47,1283,Helsingborg,,Helsingborg,225,49,3329,717
 48,1283,Helsingborg,,Helsingborg,294,69,4344,1015
+49,1283,Helsingborg,,Helsingborg,382,88,5638,1294
 6,1466,Herrljunga,,Herrljunga,0,0,0,0
 7,1466,Herrljunga,,Herrljunga,0,0,0,0
 8,1466,Herrljunga,,Herrljunga,0,0,0,0
@@ -3439,6 +3518,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1466,Herrljunga,,Herrljunga,151,14,143,13
 47,1466,Herrljunga,,Herrljunga,167,16,158,15
 48,1466,Herrljunga,,Herrljunga,175,8,166,8
+49,1466,Herrljunga,,Herrljunga,183,7,173,7
 6,1497,Hjo,,Hjo,0,0,0,0
 7,1497,Hjo,,Hjo,0,0,0,0
 8,1497,Hjo,,Hjo,0,0,0,0
@@ -3482,6 +3562,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1497,Hjo,,Hjo,83,21,76,19
 47,1497,Hjo,,Hjo,102,20,94,18
 48,1497,Hjo,,Hjo,118,16,109,15
+49,1497,Hjo,,Hjo,137,18,126,17
 6,2104,Hofors,,Hofors,0,0,0,0
 7,2104,Hofors,,Hofors,0,0,0,0
 8,2104,Hofors,,Hofors,0,0,0,0
@@ -3525,6 +3606,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2104,Hofors,,Hofors,218,24,209,23
 47,2104,Hofors,,Hofors,262,44,251,42
 48,2104,Hofors,,Hofors,304,42,291,40
+49,2104,Hofors,,Hofors,368,65,353,62
 6,0126,Huddinge,,Huddinge,0,0,0,0
 7,0126,Huddinge,,Huddinge,0,0,0,0
 8,0126,Huddinge,,Huddinge,0,0,0,0
@@ -3568,6 +3650,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0126,Huddinge,,Huddinge,233,35,2629,394
 47,0126,Huddinge,,Huddinge,284,51,3210,581
 48,0126,Huddinge,,Huddinge,341,57,3850,640
+49,0126,Huddinge,,Huddinge,395,54,4457,607
 6,2184,Hudiksvall,,Hudiksvall,0,0,0,0
 7,2184,Hudiksvall,,Hudiksvall,0,0,0,0
 8,2184,Hudiksvall,,Hudiksvall,0,0,0,0
@@ -3611,6 +3694,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2184,Hudiksvall,,Hudiksvall,166,25,626,93
 47,2184,Hudiksvall,,Hudiksvall,204,38,769,143
 48,2184,Hudiksvall,,Hudiksvall,251,47,944,175
+49,2184,Hudiksvall,,Hudiksvall,300,49,1127,183
 6,0860,Hultsfred,,Hultsfred,0,0,0,0
 7,0860,Hultsfred,,Hultsfred,0,0,0,0
 8,0860,Hultsfred,,Hultsfred,0,0,0,0
@@ -3654,6 +3738,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0860,Hultsfred,,Hultsfred,150,40,213,57
 47,0860,Hultsfred,,Hultsfred,179,30,255,42
 48,0860,Hultsfred,,Hultsfred,207,27,294,39
+49,0860,Hultsfred,,Hultsfred,237,30,337,43
 6,1315,Hylte,,Hylte,0,0,0,0
 7,1315,Hylte,,Hylte,0,0,0,0
 8,1315,Hylte,,Hylte,0,0,0,0
@@ -3697,6 +3782,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1315,Hylte,,Hylte,99,13,107,14
 47,1315,Hylte,,Hylte,107,8,116,9
 48,1315,Hylte,,Hylte,123,16,133,17
+49,1315,Hylte,,Hylte,141,18,152,19
 6,1863,Hällefors,,Hällefors,0,0,0,0
 7,1863,Hällefors,,Hällefors,0,0,0,0
 8,1863,Hällefors,,Hällefors,0,0,0,0
@@ -3740,6 +3826,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1863,Hällefors,,Hällefors,222,24,156,17
 47,1863,Hällefors,,Hällefors,234,11,164,8
 48,1863,Hällefors,,Hällefors,242,9,170,6
+49,1863,Hällefors,,Hällefors,250,7,175,5
 6,2361,Härjedalen,,Härjedalen,0,0,0,0
 7,2361,Härjedalen,,Härjedalen,0,0,0,0
 8,2361,Härjedalen,,Härjedalen,0,0,0,0
@@ -3783,6 +3870,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2361,Härjedalen,,Härjedalen,119,12,120,12
 47,2361,Härjedalen,,Härjedalen,130,11,131,11
 48,2361,Härjedalen,,Härjedalen,139,9,140,9
+49,2361,Härjedalen,,Härjedalen,157,18,158,18
 6,2280,Härnösand,,Härnösand,0,0,0,0
 7,2280,Härnösand,,Härnösand,0,0,0,0
 8,2280,Härnösand,,Härnösand,0,0,0,0
@@ -3825,7 +3913,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,2280,Härnösand,,Härnösand,73,9,184,22
 46,2280,Härnösand,,Härnösand,87,14,220,36
 47,2280,Härnösand,,Härnösand,110,23,278,58
-48,2280,Härnösand,,Härnösand,156,46,393,115
+48,2280,Härnösand,,Härnösand,156,46,394,116
+49,2280,Härnösand,,Härnösand,206,49,518,124
 6,1401,Härryda,,Härryda,0,0,0,0
 7,1401,Härryda,,Härryda,0,0,0,0
 8,1401,Härryda,,Härryda,0,0,0,0
@@ -3869,6 +3958,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1401,Härryda,,Härryda,184,22,699,83
 47,1401,Härryda,,Härryda,210,26,799,100
 48,1401,Härryda,,Härryda,237,27,901,102
+49,1401,Härryda,,Härryda,268,31,1019,118
 6,1293,Hässleholm,,Hässleholm,0,0,0,0
 7,1293,Hässleholm,,Hässleholm,0,0,0,0
 8,1293,Hässleholm,,Hässleholm,0,0,0,0
@@ -3910,8 +4000,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1293,Hässleholm,,Hässleholm,81,24,420,127
 45,1293,Hässleholm,,Hässleholm,102,22,534,114
 46,1293,Hässleholm,,Hässleholm,137,34,713,179
-47,1293,Hässleholm,,Hässleholm,159,22,829,116
-48,1293,Hässleholm,,Hässleholm,193,34,1008,179
+47,1293,Hässleholm,,Hässleholm,159,23,831,118
+48,1293,Hässleholm,,Hässleholm,194,34,1010,179
+49,1293,Hässleholm,,Hässleholm,225,31,1171,161
 6,0305,Håbo,,Håbo,0,0,0,0
 7,0305,Håbo,,Håbo,0,0,0,0
 8,0305,Håbo,,Håbo,0,0,0,0
@@ -3955,6 +4046,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0305,Håbo,,Håbo,181,53,398,117
 47,0305,Håbo,,Håbo,228,46,499,101
 48,0305,Håbo,,Håbo,269,42,591,92
+49,0305,Håbo,,Håbo,302,32,662,71
 6,1284,Höganäs,,Höganäs,0,0,0,0
 7,1284,Höganäs,,Höganäs,0,0,0,0
 8,1284,Höganäs,,Höganäs,0,0,0,0
@@ -3996,8 +4088,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1284,Höganäs,,Höganäs,71,7,191,20
 45,1284,Höganäs,,Höganäs,84,13,227,36
 46,1284,Höganäs,,Höganäs,114,30,308,81
-47,1284,Höganäs,,Höganäs,144,30,388,80
-48,1284,Höganäs,,Höganäs,187,43,504,116
+47,1284,Höganäs,,Höganäs,144,29,387,79
+48,1284,Höganäs,,Höganäs,187,43,503,116
+49,1284,Höganäs,,Höganäs,235,48,632,129
 6,0821,Högsby,,Högsby,0,0,0,0
 7,0821,Högsby,,Högsby,0,0,0,0
 8,0821,Högsby,,Högsby,0,0,0,0
@@ -4041,6 +4134,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0821,Högsby,,Högsby,74,19,44,11
 47,0821,Högsby,,Högsby,86,12,51,7
 48,0821,Högsby,,Högsby,98,12,58,7
+49,0821,Högsby,,Högsby,115,17,68,10
 6,1266,Hörby,,Hörby,0,0,0,0
 7,1266,Hörby,,Hörby,0,0,0,0
 8,1266,Hörby,,Hörby,0,0,0,0
@@ -4084,6 +4178,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1266,Hörby,,Hörby,68,20,107,32
 47,1266,Hörby,,Hörby,79,10,123,16
 48,1266,Hörby,,Hörby,100,22,157,34
+49,1266,Hörby,,Hörby,136,35,212,55
 6,1267,Höör,,Höör,0,0,0,0
 7,1267,Höör,,Höör,0,0,0,0
 8,1267,Höör,,Höör,0,0,0,0
@@ -4127,6 +4222,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1267,Höör,,Höör,52,11,87,18
 47,1267,Höör,,Höör,72,20,121,34
 48,1267,Höör,,Höör,92,19,153,32
+49,1267,Höör,,Höör,114,23,191,38
 6,2510,Jokkmokk,,Jokkmokk,0,0,0,0
 7,2510,Jokkmokk,,Jokkmokk,0,0,0,0
 8,2510,Jokkmokk,,Jokkmokk,0,0,0,0
@@ -4170,6 +4266,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2510,Jokkmokk,,Jokkmokk,122,24,60,12
 47,2510,Jokkmokk,,Jokkmokk,158,37,78,18
 48,2510,Jokkmokk,,Jokkmokk,185,26,91,13
+49,2510,Jokkmokk,,Jokkmokk,201,16,99,8
 6,0123,Järfälla,,Järfälla,0,0,0,0
 7,0123,Järfälla,,Järfälla,0,0,0,0
 8,0123,Järfälla,,Järfälla,0,0,0,0
@@ -4213,6 +4310,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0123,Järfälla,,Järfälla,197,30,1574,238
 47,0123,Järfälla,,Järfälla,230,33,1836,262
 48,0123,Järfälla,,Järfälla,270,40,2156,320
+49,0123,Järfälla,,Järfälla,309,40,2475,319
 6,0680,Jönköping,,Jönköping,,,<15,<15
 7,0680,Jönköping,,Jönköping,,,<15,<15
 8,0680,Jönköping,,Jönköping,,,<15,<15
@@ -4255,7 +4353,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0680,Jönköping,,Jönköping,240,22,3389,307
 46,0680,Jönköping,,Jönköping,273,33,3851,462
 47,0680,Jönköping,,Jönköping,307,34,4329,478
-48,0680,Jönköping,,Jönköping,333,26,4700,371
+48,0680,Jönköping,,Jönköping,333,26,4699,370
+49,0680,Jönköping,,Jönköping,356,23,5021,322
 6,2514,Kalix,,Kalix,0,0,0,0
 7,2514,Kalix,,Kalix,0,0,0,0
 8,2514,Kalix,,Kalix,0,0,0,0
@@ -4299,6 +4398,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2514,Kalix,,Kalix,64,9,101,14
 47,2514,Kalix,,Kalix,89,25,141,40
 48,2514,Kalix,,Kalix,121,33,193,52
+49,2514,Kalix,,Kalix,140,19,223,30
 6,0880,Kalmar,,Kalmar,0,0,0,0
 7,0880,Kalmar,,Kalmar,0,0,0,0
 8,0880,Kalmar,,Kalmar,0,0,0,0
@@ -4342,6 +4442,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0880,Kalmar,,Kalmar,87,13,607,92
 47,0880,Kalmar,,Kalmar,101,13,699,92
 48,0880,Kalmar,,Kalmar,124,23,860,161
+49,0880,Kalmar,,Kalmar,148,25,1031,171
 6,1446,Karlsborg,,Karlsborg,0,0,0,0
 7,1446,Karlsborg,,Karlsborg,0,0,0,0
 8,1446,Karlsborg,,Karlsborg,0,0,0,0
@@ -4385,6 +4486,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1446,Karlsborg,,Karlsborg,144,39,100,27
 47,1446,Karlsborg,,Karlsborg,179,35,124,24
 48,1446,Karlsborg,,Karlsborg,207,29,144,20
+49,1446,Karlsborg,,Karlsborg,239,32,166,22
 6,1082,Karlshamn,,Karlshamn,0,0,0,0
 7,1082,Karlshamn,,Karlshamn,0,0,0,0
 8,1082,Karlshamn,,Karlshamn,0,0,0,0
@@ -4428,6 +4530,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1082,Karlshamn,,Karlshamn,70,14,228,44
 47,1082,Karlshamn,,Karlshamn,81,10,262,34
 48,1082,Karlshamn,,Karlshamn,107,26,346,84
+49,1082,Karlshamn,,Karlshamn,137,30,444,98
 6,1883,Karlskoga,,Karlskoga,0,0,0,0
 7,1883,Karlskoga,,Karlskoga,0,0,0,0
 8,1883,Karlskoga,,Karlskoga,0,0,0,0
@@ -4471,6 +4574,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1883,Karlskoga,,Karlskoga,205,42,622,127
 47,1883,Karlskoga,,Karlskoga,249,44,757,135
 48,1883,Karlskoga,,Karlskoga,278,29,846,89
+49,1883,Karlskoga,,Karlskoga,302,24,919,73
 6,1080,Karlskrona,,Karlskrona,0,0,0,0
 7,1080,Karlskrona,,Karlskrona,0,0,0,0
 8,1080,Karlskrona,,Karlskrona,0,0,0,0
@@ -4488,32 +4592,33 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 20,1080,Karlskrona,,Karlskrona,11,2,73,15
 21,1080,Karlskrona,,Karlskrona,17,6,113,40
 22,1080,Karlskrona,,Karlskrona,25,8,169,56
-23,1080,Karlskrona,,Karlskrona,34,9,227,58
-24,1080,Karlskrona,,Karlskrona,43,9,288,61
-25,1080,Karlskrona,,Karlskrona,47,4,312,24
-26,1080,Karlskrona,,Karlskrona,50,3,331,19
-27,1080,Karlskrona,,Karlskrona,51,1,338,7
-28,1080,Karlskrona,,Karlskrona,51,0,341,3
-29,1080,Karlskrona,,Karlskrona,51,0,343,2
-30,1080,Karlskrona,,Karlskrona,52,0,345,2
-31,1080,Karlskrona,,Karlskrona,53,1,354,9
-32,1080,Karlskrona,,Karlskrona,55,2,368,14
-33,1080,Karlskrona,,Karlskrona,60,5,401,33
-34,1080,Karlskrona,,Karlskrona,62,2,411,10
-35,1080,Karlskrona,,Karlskrona,63,1,420,9
-36,1080,Karlskrona,,Karlskrona,63,0,423,3
-37,1080,Karlskrona,,Karlskrona,64,1,427,4
-38,1080,Karlskrona,,Karlskrona,66,2,438,11
-39,1080,Karlskrona,,Karlskrona,73,8,489,51
-40,1080,Karlskrona,,Karlskrona,78,5,522,33
-41,1080,Karlskrona,,Karlskrona,81,3,539,17
-42,1080,Karlskrona,,Karlskrona,82,2,549,10
-43,1080,Karlskrona,,Karlskrona,84,1,557,8
-44,1080,Karlskrona,,Karlskrona,93,9,619,62
-45,1080,Karlskrona,,Karlskrona,104,11,690,71
-46,1080,Karlskrona,,Karlskrona,116,12,772,82
-47,1080,Karlskrona,,Karlskrona,132,16,880,108
-48,1080,Karlskrona,,Karlskrona,151,19,1005,125
+23,1080,Karlskrona,,Karlskrona,34,9,226,57
+24,1080,Karlskrona,,Karlskrona,43,9,287,61
+25,1080,Karlskrona,,Karlskrona,47,4,311,24
+26,1080,Karlskrona,,Karlskrona,50,3,330,19
+27,1080,Karlskrona,,Karlskrona,51,1,337,7
+28,1080,Karlskrona,,Karlskrona,51,0,340,3
+29,1080,Karlskrona,,Karlskrona,51,0,342,2
+30,1080,Karlskrona,,Karlskrona,52,0,344,2
+31,1080,Karlskrona,,Karlskrona,53,1,353,9
+32,1080,Karlskrona,,Karlskrona,55,2,367,14
+33,1080,Karlskrona,,Karlskrona,60,5,400,33
+34,1080,Karlskrona,,Karlskrona,62,2,410,10
+35,1080,Karlskrona,,Karlskrona,63,1,419,9
+36,1080,Karlskrona,,Karlskrona,63,0,422,3
+37,1080,Karlskrona,,Karlskrona,64,1,426,4
+38,1080,Karlskrona,,Karlskrona,66,2,437,11
+39,1080,Karlskrona,,Karlskrona,73,8,488,51
+40,1080,Karlskrona,,Karlskrona,78,5,521,33
+41,1080,Karlskrona,,Karlskrona,81,3,538,17
+42,1080,Karlskrona,,Karlskrona,82,2,548,10
+43,1080,Karlskrona,,Karlskrona,83,1,556,8
+44,1080,Karlskrona,,Karlskrona,93,9,618,62
+45,1080,Karlskrona,,Karlskrona,103,11,689,71
+46,1080,Karlskrona,,Karlskrona,116,12,771,82
+47,1080,Karlskrona,,Karlskrona,132,16,879,108
+48,1080,Karlskrona,,Karlskrona,151,19,1004,125
+49,1080,Karlskrona,,Karlskrona,179,29,1194,190
 6,1780,Karlstad,,Karlstad,0,0,0,0
 7,1780,Karlstad,,Karlstad,0,0,0,0
 8,1780,Karlstad,,Karlstad,0,0,0,0
@@ -4557,6 +4662,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1780,Karlstad,,Karlstad,121,21,1136,197
 47,1780,Karlstad,,Karlstad,142,21,1336,200
 48,1780,Karlstad,,Karlstad,160,17,1500,164
+49,1780,Karlstad,,Karlstad,177,17,1658,158
 6,0483,Katrineholm,,Katrineholm,0,0,0,0
 7,0483,Katrineholm,,Katrineholm,0,0,0,0
 8,0483,Katrineholm,,Katrineholm,0,0,0,0
@@ -4600,6 +4706,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0483,Katrineholm,,Katrineholm,122,12,423,40
 47,0483,Katrineholm,,Katrineholm,134,12,464,41
 48,0483,Katrineholm,,Katrineholm,141,8,491,27
+49,0483,Katrineholm,,Katrineholm,144,3,502,11
 6,1715,Kil,,Kil,0,0,0,0
 7,1715,Kil,,Kil,0,0,0,0
 8,1715,Kil,,Kil,0,0,0,0
@@ -4643,6 +4750,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1715,Kil,,Kil,65,22,79,26
 47,1715,Kil,,Kil,84,18,101,22
 48,1715,Kil,,Kil,98,14,118,17
+49,1715,Kil,,Kil,117,20,142,24
 6,0513,Kinda,,Kinda,0,0,0,0
 7,0513,Kinda,,Kinda,0,0,0,0
 8,0513,Kinda,,Kinda,0,0,0,0
@@ -4686,6 +4794,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0513,Kinda,,Kinda,124,11,123,11
 47,0513,Kinda,,Kinda,131,7,130,7
 48,0513,Kinda,,Kinda,134,3,133,3
+49,0513,Kinda,,Kinda,142,8,141,8
 6,2584,Kiruna,,Kiruna,0,0,0,0
 7,2584,Kiruna,,Kiruna,0,0,0,0
 8,2584,Kiruna,,Kiruna,0,0,0,0
@@ -4729,6 +4838,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2584,Kiruna,,Kiruna,141,6,322,13
 47,2584,Kiruna,,Kiruna,157,16,359,37
 48,2584,Kiruna,,Kiruna,179,22,410,51
+49,2584,Kiruna,,Kiruna,209,29,477,67
 6,1276,Klippan,,Klippan,0,0,0,0
 7,1276,Klippan,,Klippan,0,0,0,0
 8,1276,Klippan,,Klippan,0,0,0,0
@@ -4772,6 +4882,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1276,Klippan,,Klippan,60,20,107,36
 47,1276,Klippan,,Klippan,77,17,137,30
 48,1276,Klippan,,Klippan,97,20,173,36
+49,1276,Klippan,,Klippan,140,43,249,76
 6,0330,Knivsta,,Knivsta,0,0,0,0
 7,0330,Knivsta,,Knivsta,0,0,0,0
 8,0330,Knivsta,,Knivsta,0,0,0,0
@@ -4815,6 +4926,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0330,Knivsta,,Knivsta,210,45,395,85
 47,0330,Knivsta,,Knivsta,247,38,466,71
 48,0330,Knivsta,,Knivsta,282,35,532,66
+49,0330,Knivsta,,Knivsta,300,18,565,33
 6,2282,Kramfors,,Kramfors,0,0,0,0
 7,2282,Kramfors,,Kramfors,0,0,0,0
 8,2282,Kramfors,,Kramfors,0,0,0,0
@@ -4858,6 +4970,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2282,Kramfors,,Kramfors,110,13,202,24
 47,2282,Kramfors,,Kramfors,124,13,226,24
 48,2282,Kramfors,,Kramfors,138,15,253,27
+49,2282,Kramfors,,Kramfors,149,11,273,20
 6,1290,Kristianstad,,Kristianstad,0,0,0,0
 7,1290,Kristianstad,,Kristianstad,0,0,0,0
 8,1290,Kristianstad,,Kristianstad,0,0,0,0
@@ -4900,7 +5013,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1290,Kristianstad,,Kristianstad,107,30,916,261
 46,1290,Kristianstad,,Kristianstad,154,47,1321,405
 47,1290,Kristianstad,,Kristianstad,194,40,1663,342
-48,1290,Kristianstad,,Kristianstad,243,49,2086,423
+48,1290,Kristianstad,,Kristianstad,243,49,2087,424
+49,1290,Kristianstad,,Kristianstad,308,65,2644,557
 6,1781,Kristinehamn,,Kristinehamn,0,0,0,0
 7,1781,Kristinehamn,,Kristinehamn,0,0,0,0
 8,1781,Kristinehamn,,Kristinehamn,0,0,0,0
@@ -4944,6 +5058,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1781,Kristinehamn,,Kristinehamn,106,17,256,42
 47,1781,Kristinehamn,,Kristinehamn,133,27,322,66
 48,1781,Kristinehamn,,Kristinehamn,161,28,391,69
+49,1781,Kristinehamn,,Kristinehamn,178,16,431,40
 6,2309,Krokom,,Krokom,0,0,0,0
 7,2309,Krokom,,Krokom,0,0,0,0
 8,2309,Krokom,,Krokom,0,0,0,0
@@ -4987,6 +5102,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2309,Krokom,,Krokom,121,7,181,10
 47,2309,Krokom,,Krokom,144,23,216,35
 48,2309,Krokom,,Krokom,168,24,252,36
+49,2309,Krokom,,Krokom,189,21,283,31
 6,1881,Kumla,,Kumla,0,0,0,0
 7,1881,Kumla,,Kumla,0,0,0,0
 8,1881,Kumla,,Kumla,0,0,0,0
@@ -5030,6 +5146,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1881,Kumla,,Kumla,256,35,556,77
 47,1881,Kumla,,Kumla,296,40,644,88
 48,1881,Kumla,,Kumla,322,26,701,57
+49,1881,Kumla,,Kumla,339,17,737,36
 6,1384,Kungsbacka,,Kungsbacka,0,0,0,0
 7,1384,Kungsbacka,,Kungsbacka,0,0,0,0
 8,1384,Kungsbacka,,Kungsbacka,0,0,0,0
@@ -5073,6 +5190,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1384,Kungsbacka,,Kungsbacka,169,36,1426,304
 47,1384,Kungsbacka,,Kungsbacka,191,22,1611,185
 48,1384,Kungsbacka,,Kungsbacka,220,29,1857,246
+49,1384,Kungsbacka,,Kungsbacka,256,36,2159,302
 6,1960,Kungsör,,Kungsör,0,0,0,0
 7,1960,Kungsör,,Kungsör,0,0,0,0
 8,1960,Kungsör,,Kungsör,0,0,0,0
@@ -5116,6 +5234,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1960,Kungsör,,Kungsör,211,47,183,41
 47,1960,Kungsör,,Kungsör,257,46,223,40
 48,1960,Kungsör,,Kungsör,297,40,258,35
+49,1960,Kungsör,,Kungsör,335,38,291,33
 6,1482,Kungälv,,Kungälv,0,0,0,0
 7,1482,Kungälv,,Kungälv,0,0,0,0
 8,1482,Kungälv,,Kungälv,0,0,0,0
@@ -5159,6 +5278,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1482,Kungälv,,Kungälv,178,19,826,89
 47,1482,Kungälv,,Kungälv,198,20,917,91
 48,1482,Kungälv,,Kungälv,219,21,1014,97
+49,1482,Kungälv,,Kungälv,248,29,1148,134
 6,1261,Kävlinge,,Kävlinge,0,0,0,0
 7,1261,Kävlinge,,Kävlinge,0,0,0,0
 8,1261,Kävlinge,,Kävlinge,0,0,0,0
@@ -5202,6 +5322,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1261,Kävlinge,,Kävlinge,85,29,271,92
 47,1261,Kävlinge,,Kävlinge,103,18,328,57
 48,1261,Kävlinge,,Kävlinge,125,22,397,69
+49,1261,Kävlinge,,Kävlinge,168,43,533,136
 6,1983,Köping,,Köping,0,0,0,0
 7,1983,Köping,,Köping,0,0,0,0
 8,1983,Köping,,Köping,0,0,0,0
@@ -5245,6 +5366,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1983,Köping,,Köping,240,32,629,84
 47,1983,Köping,,Köping,274,34,717,88
 48,1983,Köping,,Köping,304,31,797,80
+49,1983,Köping,,Köping,330,26,865,68
 6,1381,Laholm,,Laholm,0,0,0,0
 7,1381,Laholm,,Laholm,0,0,0,0
 8,1381,Laholm,,Laholm,0,0,0,0
@@ -5288,6 +5410,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1381,Laholm,,Laholm,128,21,331,54
 47,1381,Laholm,,Laholm,141,13,365,34
 48,1381,Laholm,,Laholm,159,19,413,48
+49,1381,Laholm,,Laholm,195,36,505,92
 6,1282,Landskrona,,Landskrona,0,0,0,0
 7,1282,Landskrona,,Landskrona,0,0,0,0
 8,1282,Landskrona,,Landskrona,0,0,0,0
@@ -5331,6 +5454,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1282,Landskrona,,Landskrona,117,33,540,153
 47,1282,Landskrona,,Landskrona,157,40,725,185
 48,1282,Landskrona,,Landskrona,196,39,905,180
+49,1282,Landskrona,,Landskrona,261,65,1205,300
 6,1860,Laxå,,Laxå,0,0,0,0
 7,1860,Laxå,,Laxå,0,0,0,0
 8,1860,Laxå,,Laxå,0,0,0,0
@@ -5374,6 +5498,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1860,Laxå,,Laxå,146,21,83,12
 47,1860,Laxå,,Laxå,164,18,93,10
 48,1860,Laxå,,Laxå,174,11,99,6
+49,1860,Laxå,,Laxå,194,19,110,11
 6,1814,Lekeberg,,Lekeberg,0,0,0,0
 7,1814,Lekeberg,,Lekeberg,0,0,0,0
 8,1814,Lekeberg,,Lekeberg,0,0,0,0
@@ -5417,6 +5542,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1814,Lekeberg,,Lekeberg,129,21,106,17
 47,1814,Lekeberg,,Lekeberg,149,21,123,17
 48,1814,Lekeberg,,Lekeberg,159,10,131,8
+49,1814,Lekeberg,,Lekeberg,169,10,139,8
 6,2029,Leksand,,Leksand,0,0,0,0
 7,2029,Leksand,,Leksand,0,0,0,0
 8,2029,Leksand,,Leksand,0,0,0,0
@@ -5460,6 +5586,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2029,Leksand,,Leksand,169,24,267,38
 47,2029,Leksand,,Leksand,196,27,310,43
 48,2029,Leksand,,Leksand,237,40,374,64
+49,2029,Leksand,,Leksand,290,54,459,85
 6,1441,Lerum,,Lerum,0,0,0,0
 7,1441,Lerum,,Lerum,0,0,0,0
 8,1441,Lerum,,Lerum,0,0,0,0
@@ -5503,6 +5630,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1441,Lerum,,Lerum,195,27,830,115
 47,1441,Lerum,,Lerum,221,26,942,112
 48,1441,Lerum,,Lerum,256,35,1089,147
+49,1441,Lerum,,Lerum,294,38,1250,161
 6,0761,Lessebo,,Lessebo,0,0,0,0
 7,0761,Lessebo,,Lessebo,0,0,0,0
 8,0761,Lessebo,,Lessebo,0,0,0,0
@@ -5546,6 +5674,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0761,Lessebo,,Lessebo,192,15,168,13
 47,0761,Lessebo,,Lessebo,215,23,188,20
 48,0761,Lessebo,,Lessebo,228,13,199,11
+49,0761,Lessebo,,Lessebo,240,13,210,11
 6,0186,Lidingö,,Lidingö,0,0,0,0
 7,0186,Lidingö,,Lidingö,0,0,0,0
 8,0186,Lidingö,,Lidingö,0,0,0,0
@@ -5589,6 +5718,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0186,Lidingö,,Lidingö,272,51,1308,247
 47,0186,Lidingö,,Lidingö,324,52,1557,249
 48,0186,Lidingö,,Lidingö,378,54,1818,261
+49,0186,Lidingö,,Lidingö,429,51,2064,246
 6,1494,Lidköping,,Lidköping,0,0,0,0
 7,1494,Lidköping,,Lidköping,0,0,0,0
 8,1494,Lidköping,,Lidköping,0,0,0,0
@@ -5632,6 +5762,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1494,Lidköping,,Lidköping,146,20,587,79
 47,1494,Lidköping,,Lidköping,163,17,654,67
 48,1494,Lidköping,,Lidköping,171,8,686,32
+49,1494,Lidköping,,Lidköping,182,10,728,42
 6,1462,Lilla Edet,,Lilla Edet,0,0,0,0
 7,1462,Lilla Edet,,Lilla Edet,0,0,0,0
 8,1462,Lilla Edet,,Lilla Edet,0,0,0,0
@@ -5675,6 +5806,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1462,Lilla Edet,,Lilla Edet,118,18,166,25
 47,1462,Lilla Edet,,Lilla Edet,138,20,194,28
 48,1462,Lilla Edet,,Lilla Edet,161,23,227,33
+49,1462,Lilla Edet,,Lilla Edet,177,16,250,23
 6,1885,Lindesberg,,Lindesberg,0,0,0,0
 7,1885,Lindesberg,,Lindesberg,0,0,0,0
 8,1885,Lindesberg,,Lindesberg,0,0,0,0
@@ -5718,6 +5850,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1885,Lindesberg,,Lindesberg,162,28,383,66
 47,1885,Lindesberg,,Lindesberg,201,39,475,92
 48,1885,Lindesberg,,Lindesberg,225,23,530,55
+49,1885,Lindesberg,,Lindesberg,249,25,588,58
 6,0580,Linköping,,Linköping,0,0,0,0
 7,0580,Linköping,,Linköping,0,0,0,0
 8,0580,Linköping,,Linköping,0,0,0,0
@@ -5761,6 +5894,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0580,Linköping,,Linköping,204,17,3327,279
 47,0580,Linköping,,Linköping,218,14,3553,226
 48,0580,Linköping,,Linköping,235,17,3834,281
+49,0580,Linköping,,Linköping,257,22,4195,361
 6,0781,Ljungby,,Ljungby,0,0,0,0
 7,0781,Ljungby,,Ljungby,0,0,0,0
 8,0781,Ljungby,,Ljungby,0,0,0,0
@@ -5804,6 +5938,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0781,Ljungby,,Ljungby,207,16,591,47
 47,0781,Ljungby,,Ljungby,227,20,648,57
 48,0781,Ljungby,,Ljungby,251,23,715,67
+49,0781,Ljungby,,Ljungby,276,25,786,71
 6,2161,Ljusdal,,Ljusdal,0,0,0,0
 7,2161,Ljusdal,,Ljusdal,0,0,0,0
 8,2161,Ljusdal,,Ljusdal,0,0,0,0
@@ -5847,6 +5982,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2161,Ljusdal,,Ljusdal,99,9,187,17
 47,2161,Ljusdal,,Ljusdal,123,24,233,46
 48,2161,Ljusdal,,Ljusdal,150,27,285,52
+49,2161,Ljusdal,,Ljusdal,192,42,364,79
 6,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
 7,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
 8,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
@@ -5890,6 +6026,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1864,Ljusnarsberg,,Ljusnarsberg,73,23,35,11
 47,1864,Ljusnarsberg,,Ljusnarsberg,78,4,37,2
 48,1864,Ljusnarsberg,,Ljusnarsberg,90,13,43,6
+49,1864,Ljusnarsberg,,Ljusnarsberg,107,17,51,8
 6,1262,Lomma,,Lomma,0,0,0,0
 7,1262,Lomma,,Lomma,0,0,0,0
 8,1262,Lomma,,Lomma,0,0,0,0
@@ -5933,6 +6070,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1262,Lomma,,Lomma,98,34,244,84
 47,1262,Lomma,,Lomma,121,23,301,57
 48,1262,Lomma,,Lomma,142,21,353,52
+49,1262,Lomma,,Lomma,180,37,446,93
 6,2085,Ludvika,,Ludvika,0,0,0,0
 7,2085,Ludvika,,Ludvika,0,0,0,0
 8,2085,Ludvika,,Ludvika,0,0,0,0
@@ -5976,6 +6114,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2085,Ludvika,,Ludvika,93,15,251,41
 47,2085,Ludvika,,Ludvika,111,17,298,47
 48,2085,Ludvika,,Ludvika,138,28,372,74
+49,2085,Ludvika,,Ludvika,164,26,442,70
 6,2580,Luleå,,Luleå,0,0,0,0
 7,2580,Luleå,,Luleå,0,0,0,0
 8,2580,Luleå,,Luleå,0,0,0,0
@@ -6019,6 +6158,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2580,Luleå,,Luleå,123,31,961,240
 47,2580,Luleå,,Luleå,153,30,1194,233
 48,2580,Luleå,,Luleå,193,40,1508,314
+49,2580,Luleå,,Luleå,220,27,1722,214
 6,1281,Lund,,Lund,0,0,0,0
 7,1281,Lund,,Lund,0,0,0,0
 8,1281,Lund,,Lund,0,0,0,0
@@ -6062,6 +6202,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1281,Lund,,Lund,98,22,1230,281
 47,1281,Lund,,Lund,116,18,1453,223
 48,1281,Lund,,Lund,143,27,1788,335
+49,1281,Lund,,Lund,186,42,2318,530
 6,2481,Lycksele,,Lycksele,0,0,0,0
 7,2481,Lycksele,,Lycksele,0,0,0,0
 8,2481,Lycksele,,Lycksele,0,0,0,0
@@ -6105,6 +6246,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2481,Lycksele,,Lycksele,140,58,171,71
 47,2481,Lycksele,,Lycksele,176,36,215,44
 48,2481,Lycksele,,Lycksele,197,21,241,26
+49,2481,Lycksele,,Lycksele,211,14,258,17
 6,1484,Lysekil,,Lysekil,0,0,0,0
 7,1484,Lysekil,,Lysekil,0,0,0,0
 8,1484,Lysekil,,Lysekil,0,0,0,0
@@ -6148,6 +6290,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1484,Lysekil,,Lysekil,102,6,149,9
 47,1484,Lysekil,,Lysekil,119,16,173,24
 48,1484,Lysekil,,Lysekil,137,19,200,27
+49,1484,Lysekil,,Lysekil,154,16,224,24
 6,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
 7,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
 8,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
@@ -6191,6 +6334,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Centrum,Malmö Centrum,157,32,876,180
 47,1280,Malmö,Centrum,Malmö Centrum,188,32,1054,178
 48,1280,Malmö,Centrum,Malmö Centrum,232,44,1298,244
+49,1280,Malmö,Centrum,Malmö Centrum,281,49,1570,272
 6,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
 7,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
 8,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
@@ -6233,7 +6377,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1280,Malmö,Fosie,Malmö Fosie,135,19,630,87
 46,1280,Malmö,Fosie,Malmö Fosie,171,36,798,168
 47,1280,Malmö,Fosie,Malmö Fosie,210,39,978,180
-48,1280,Malmö,Fosie,Malmö Fosie,268,58,1247,269
+48,1280,Malmö,Fosie,Malmö Fosie,268,58,1249,271
+49,1280,Malmö,Fosie,Malmö Fosie,337,68,1567,318
 6,1280,Malmö,Husie,Malmö Husie,0,0,0,0
 7,1280,Malmö,Husie,Malmö Husie,0,0,0,0
 8,1280,Malmö,Husie,Malmö Husie,0,0,0,0
@@ -6276,7 +6421,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1280,Malmö,Husie,Malmö Husie,110,17,260,39
 46,1280,Malmö,Husie,Malmö Husie,153,42,359,99
 47,1280,Malmö,Husie,Malmö Husie,192,40,452,93
-48,1280,Malmö,Husie,Malmö Husie,250,58,588,136
+48,1280,Malmö,Husie,Malmö Husie,250,58,589,137
+49,1280,Malmö,Husie,Malmö Husie,319,68,750,161
 6,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
 7,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
 8,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
@@ -6320,6 +6466,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Hyllie,Malmö Hyllie,152,31,591,121
 47,1280,Malmö,Hyllie,Malmö Hyllie,185,32,717,126
 48,1280,Malmö,Hyllie,Malmö Hyllie,241,56,936,219
+49,1280,Malmö,Hyllie,Malmö Hyllie,293,52,1138,202
 6,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
 7,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
 8,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
@@ -6363,6 +6510,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Kirseberg,Malmö Kirseberg,138,27,224,44
 47,1280,Malmö,Kirseberg,Malmö Kirseberg,167,30,272,48
 48,1280,Malmö,Kirseberg,Malmö Kirseberg,220,52,357,85
+49,1280,Malmö,Kirseberg,Malmö Kirseberg,286,67,465,108
 6,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
 7,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
 8,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
@@ -6405,7 +6553,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,100,24,529,126
 46,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,139,39,733,204
 47,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,178,39,936,203
-48,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,222,44,1167,231
+48,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,222,44,1168,232
+49,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,270,49,1424,256
 6,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
 7,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
 8,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
@@ -6449,6 +6598,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Oxie,Malmö Oxie,140,36,192,49
 47,1280,Malmö,Oxie,Malmö Oxie,183,43,251,59
 48,1280,Malmö,Oxie,Malmö Oxie,249,66,341,90
+49,1280,Malmö,Oxie,Malmö Oxie,320,71,438,97
 6,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
 7,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
 8,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
@@ -6492,6 +6642,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Rosengård,Malmö Rosengård,190,44,443,103
 47,1280,Malmö,Rosengård,Malmö Rosengård,230,41,538,95
 48,1280,Malmö,Rosengård,Malmö Rosengård,289,59,675,137
+49,1280,Malmö,Rosengård,Malmö Rosengård,364,75,851,176
 6,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
 7,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
 8,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
@@ -6534,7 +6685,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,128,22,468,79
 46,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,163,35,598,130
 47,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,193,30,707,109
-48,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,235,42,860,153
+48,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,235,42,861,154
+49,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,293,58,1073,212
 6,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
 7,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
 8,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
@@ -6578,6 +6730,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,148,33,525,118
 47,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,178,31,634,109
 48,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,213,35,757,123
+49,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,263,50,936,179
 6,2023,Malung,,Malung,0,0,0,0
 7,2023,Malung,,Malung,0,0,0,0
 8,2023,Malung,,Malung,0,0,0,0
@@ -6621,6 +6774,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2023,Malung,,Malung,142,36,144,37
 47,2023,Malung,,Malung,178,36,180,36
 48,2023,Malung,,Malung,241,63,244,64
+49,2023,Malung,,Malung,290,49,294,50
 6,2418,Malå,,Malå,0,0,0,0
 7,2418,Malå,,Malå,0,0,0,0
 8,2418,Malå,,Malå,0,0,0,0
@@ -6664,6 +6818,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2418,Malå,,Malå,62,16,19,5
 47,2418,Malå,,Malå,65,3,20,1
 48,2418,Malå,,Malå,72,7,22,2
+49,2418,Malå,,Malå,81,10,25,3
 6,1493,Mariestad,,Mariestad,0,0,0,0
 7,1493,Mariestad,,Mariestad,0,0,0,0
 8,1493,Mariestad,,Mariestad,0,0,0,0
@@ -6707,6 +6862,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1493,Mariestad,,Mariestad,112,10,276,24
 47,1493,Mariestad,,Mariestad,123,11,303,27
 48,1493,Mariestad,,Mariestad,139,15,341,38
+49,1493,Mariestad,,Mariestad,158,19,388,47
 6,1463,Mark,,Mark,0,0,0,0
 7,1463,Mark,,Mark,0,0,0,0
 8,1463,Mark,,Mark,0,0,0,0
@@ -6750,6 +6906,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1463,Mark,,Mark,207,18,718,61
 47,1463,Mark,,Mark,222,15,770,52
 48,1463,Mark,,Mark,238,16,826,56
+49,1463,Mark,,Mark,251,14,873,47
 6,0767,Markaryd,,Markaryd,0,0,0,0
 7,0767,Markaryd,,Markaryd,0,0,0,0
 8,0767,Markaryd,,Markaryd,0,0,0,0
@@ -6793,6 +6950,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0767,Markaryd,,Markaryd,158,10,163,10
 47,0767,Markaryd,,Markaryd,167,9,172,9
 48,0767,Markaryd,,Markaryd,182,16,188,16
+49,0767,Markaryd,,Markaryd,200,17,206,18
 6,1461,Mellerud,,Mellerud,0,0,0,0
 7,1461,Mellerud,,Mellerud,0,0,0,0
 8,1461,Mellerud,,Mellerud,0,0,0,0
@@ -6836,6 +6994,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1461,Mellerud,,Mellerud,81,4,75,4
 47,1461,Mellerud,,Mellerud,101,20,94,19
 48,1461,Mellerud,,Mellerud,122,21,114,20
+49,1461,Mellerud,,Mellerud,161,39,150,36
 6,0586,Mjölby,,Mjölby,0,0,0,0
 7,0586,Mjölby,,Mjölby,0,0,0,0
 8,0586,Mjölby,,Mjölby,0,0,0,0
@@ -6879,6 +7038,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0586,Mjölby,,Mjölby,214,27,593,76
 47,0586,Mjölby,,Mjölby,223,10,620,27
 48,0586,Mjölby,,Mjölby,235,12,652,32
+49,0586,Mjölby,,Mjölby,247,12,686,34
 6,2062,Mora,,Mora,0,0,0,0
 7,2062,Mora,,Mora,0,0,0,0
 8,2062,Mora,,Mora,0,0,0,0
@@ -6922,6 +7082,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2062,Mora,,Mora,153,23,314,48
 47,2062,Mora,,Mora,177,24,363,49
 48,2062,Mora,,Mora,206,29,422,59
+49,2062,Mora,,Mora,234,27,478,56
 6,0583,Motala,,Motala,0,0,0,0
 7,0583,Motala,,Motala,0,0,0,0
 8,0583,Motala,,Motala,0,0,0,0
@@ -6965,6 +7126,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0583,Motala,,Motala,148,24,646,103
 47,0583,Motala,,Motala,169,21,737,91
 48,0583,Motala,,Motala,188,20,823,86
+49,0583,Motala,,Motala,207,19,905,82
 6,0642,Mullsjö,,Mullsjö,0,0,0,0
 7,0642,Mullsjö,,Mullsjö,0,0,0,0
 8,0642,Mullsjö,,Mullsjö,0,0,0,0
@@ -7008,6 +7170,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0642,Mullsjö,,Mullsjö,137,21,100,15
 47,0642,Mullsjö,,Mullsjö,159,22,116,16
 48,0642,Mullsjö,,Mullsjö,171,12,125,9
+49,0642,Mullsjö,,Mullsjö,180,8,131,6
 6,1430,Munkedal,,Munkedal,0,0,0,0
 7,1430,Munkedal,,Munkedal,0,0,0,0
 8,1430,Munkedal,,Munkedal,0,0,0,0
@@ -7051,6 +7214,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1430,Munkedal,,Munkedal,98,7,103,7
 47,1430,Munkedal,,Munkedal,123,25,129,26
 48,1430,Munkedal,,Munkedal,135,12,142,13
+49,1430,Munkedal,,Munkedal,157,22,165,23
 6,1762,Munkfors,,Munkfors,0,0,0,0
 7,1762,Munkfors,,Munkfors,0,0,0,0
 8,1762,Munkfors,,Munkfors,0,0,0,0
@@ -7094,6 +7258,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1762,Munkfors,,Munkfors,233,11,87,4
 47,1762,Munkfors,,Munkfors,238,5,89,2
 48,1762,Munkfors,,Munkfors,243,5,91,2
+49,1762,Munkfors,,Munkfors,251,8,94,3
 6,1481,Mölndal,,Mölndal,0,0,0,0
 7,1481,Mölndal,,Mölndal,0,0,0,0
 8,1481,Mölndal,,Mölndal,0,0,0,0
@@ -7135,8 +7300,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1481,Mölndal,,Mölndal,148,21,1026,147
 45,1481,Mölndal,,Mölndal,175,27,1214,188
 46,1481,Mölndal,,Mölndal,206,31,1426,212
-47,1481,Mölndal,,Mölndal,234,28,1620,194
-48,1481,Mölndal,,Mölndal,256,22,1775,155
+47,1481,Mölndal,,Mölndal,234,28,1621,195
+48,1481,Mölndal,,Mölndal,256,22,1776,155
+49,1481,Mölndal,,Mölndal,282,26,1957,181
 6,0861,Mönsterås,,Mönsterås,0,0,0,0
 7,0861,Mönsterås,,Mönsterås,0,0,0,0
 8,0861,Mönsterås,,Mönsterås,0,0,0,0
@@ -7180,6 +7346,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0861,Mönsterås,,Mönsterås,83,25,111,33
 47,0861,Mönsterås,,Mönsterås,98,16,132,21
 48,0861,Mönsterås,,Mönsterås,118,19,158,26
+49,0861,Mönsterås,,Mönsterås,130,12,174,16
 6,0840,Mörbylånga,,Mörbylånga,0,0,0,0
 7,0840,Mörbylånga,,Mörbylånga,0,0,0,0
 8,0840,Mörbylånga,,Mörbylånga,0,0,0,0
@@ -7223,6 +7390,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0840,Mörbylånga,,Mörbylånga,90,20,138,31
 47,0840,Mörbylånga,,Mörbylånga,106,16,162,24
 48,0840,Mörbylånga,,Mörbylånga,127,20,193,31
+49,0840,Mörbylånga,,Mörbylånga,149,22,227,34
 6,0182,Nacka,,Nacka,0,0,0,0
 7,0182,Nacka,,Nacka,0,0,0,0
 8,0182,Nacka,,Nacka,0,0,0,0
@@ -7265,7 +7433,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0182,Nacka,,Nacka,199,38,2096,397
 46,0182,Nacka,,Nacka,241,42,2540,444
 47,0182,Nacka,,Nacka,287,46,3024,484
-48,0182,Nacka,,Nacka,335,48,3524,500
+48,0182,Nacka,,Nacka,335,48,3525,501
+49,0182,Nacka,,Nacka,373,38,3926,401
 6,1884,Nora,,Nora,0,0,0,0
 7,1884,Nora,,Nora,0,0,0,0
 8,1884,Nora,,Nora,0,0,0,0
@@ -7309,6 +7478,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1884,Nora,,Nora,91,26,98,28
 47,1884,Nora,,Nora,115,23,123,25
 48,1884,Nora,,Nora,125,10,134,11
+49,1884,Nora,,Nora,134,9,144,10
 6,1962,Norberg,,Norberg,0,0,0,0
 7,1962,Norberg,,Norberg,0,0,0,0
 8,1962,Norberg,,Norberg,0,0,0,0
@@ -7352,6 +7522,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1962,Norberg,,Norberg,111,30,63,17
 47,1962,Norberg,,Norberg,169,58,96,33
 48,1962,Norberg,,Norberg,223,54,127,31
+49,1962,Norberg,,Norberg,255,32,145,18
 6,2132,Nordanstig,,Nordanstig,0,0,0,0
 7,2132,Nordanstig,,Nordanstig,0,0,0,0
 8,2132,Nordanstig,,Nordanstig,0,0,0,0
@@ -7395,6 +7566,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2132,Nordanstig,,Nordanstig,107,15,101,14
 47,2132,Nordanstig,,Nordanstig,136,30,129,28
 48,2132,Nordanstig,,Nordanstig,154,18,146,17
+49,2132,Nordanstig,,Nordanstig,254,100,241,95
 6,2401,Nordmaling,,Nordmaling,0,0,0,0
 7,2401,Nordmaling,,Nordmaling,0,0,0,0
 8,2401,Nordmaling,,Nordmaling,0,0,0,0
@@ -7438,6 +7610,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2401,Nordmaling,,Nordmaling,56,8,40,6
 47,2401,Nordmaling,,Nordmaling,80,24,57,17
 48,2401,Nordmaling,,Nordmaling,84,4,60,3
+49,2401,Nordmaling,,Nordmaling,90,6,64,4
 6,0581,Norrköping,,Norrköping,0,0,0,0
 7,0581,Norrköping,,Norrköping,0,0,0,0
 8,0581,Norrköping,,Norrköping,0,0,0,0
@@ -7481,6 +7654,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0581,Norrköping,,Norrköping,167,16,2395,232
 47,0581,Norrköping,,Norrköping,181,13,2586,191
 48,0581,Norrköping,,Norrköping,193,12,2760,174
+49,0581,Norrköping,,Norrköping,211,18,3022,262
 6,0188,Norrtälje,,Norrtälje,0,0,0,0
 7,0188,Norrtälje,,Norrtälje,0,0,0,0
 8,0188,Norrtälje,,Norrtälje,0,0,0,0
@@ -7524,6 +7698,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0188,Norrtälje,,Norrtälje,134,23,842,141
 47,0188,Norrtälje,,Norrtälje,165,31,1033,191
 48,0188,Norrtälje,,Norrtälje,198,33,1237,204
+49,0188,Norrtälje,,Norrtälje,224,27,1405,168
 6,2417,Norsjö,,Norsjö,0,0,0,0
 7,2417,Norsjö,,Norsjö,0,0,0,0
 8,2417,Norsjö,,Norsjö,0,0,0,0
@@ -7567,6 +7742,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2417,Norsjö,,Norsjö,60,20,24,8
 47,2417,Norsjö,,Norsjö,75,15,30,6
 48,2417,Norsjö,,Norsjö,90,15,36,6
+49,2417,Norsjö,,Norsjö,110,20,44,8
 6,0881,Nybro,,Nybro,0,0,0,0
 7,0881,Nybro,,Nybro,0,0,0,0
 8,0881,Nybro,,Nybro,0,0,0,0
@@ -7610,6 +7786,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0881,Nybro,,Nybro,69,18,141,36
 47,0881,Nybro,,Nybro,89,19,180,39
 48,0881,Nybro,,Nybro,111,22,225,45
+49,0881,Nybro,,Nybro,125,14,253,28
 6,0140,Nykvarn,,Nykvarn,0,0,0,0
 7,0140,Nykvarn,,Nykvarn,0,0,0,0
 8,0140,Nykvarn,,Nykvarn,0,0,0,0
@@ -7653,6 +7830,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0140,Nykvarn,,Nykvarn,150,30,165,33
 47,0140,Nykvarn,,Nykvarn,185,35,204,39
 48,0140,Nykvarn,,Nykvarn,216,31,238,34
+49,0140,Nykvarn,,Nykvarn,263,47,290,52
 6,0480,Nyköping,,Nyköping,0,0,0,0
 7,0480,Nyköping,,Nyköping,0,0,0,0
 8,0480,Nyköping,,Nyköping,0,0,0,0
@@ -7696,6 +7874,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0480,Nyköping,,Nyköping,133,24,753,138
 47,0480,Nyköping,,Nyköping,150,17,848,95
 48,0480,Nyköping,,Nyköping,165,15,931,83
+49,0480,Nyköping,,Nyköping,182,17,1029,98
 6,0192,Nynäshamn,,Nynäshamn,0,0,0,0
 7,0192,Nynäshamn,,Nynäshamn,0,0,0,0
 8,0192,Nynäshamn,,Nynäshamn,0,0,0,0
@@ -7739,6 +7918,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0192,Nynäshamn,,Nynäshamn,123,25,351,72
 47,0192,Nynäshamn,,Nynäshamn,159,36,453,102
 48,0192,Nynäshamn,,Nynäshamn,197,38,563,110
+49,0192,Nynäshamn,,Nynäshamn,246,49,702,139
 6,0682,Nässjö,,Nässjö,0,0,0,0
 7,0682,Nässjö,,Nässjö,0,0,0,0
 8,0682,Nässjö,,Nässjö,0,0,0,0
@@ -7781,7 +7961,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0682,Nässjö,,Nässjö,203,29,639,93
 46,0682,Nässjö,,Nässjö,229,27,723,84
 47,0682,Nässjö,,Nässjö,270,41,851,128
-48,0682,Nässjö,,Nässjö,311,41,981,130
+48,0682,Nässjö,,Nässjö,311,41,980,129
+49,0682,Nässjö,,Nässjö,350,40,1105,125
 6,2101,Ockelbo,,Ockelbo,0,0,0,0
 7,2101,Ockelbo,,Ockelbo,0,0,0,0
 8,2101,Ockelbo,,Ockelbo,0,0,0,0
@@ -7825,6 +8006,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2101,Ockelbo,,Ockelbo,174,17,103,10
 47,2101,Ockelbo,,Ockelbo,195,20,115,12
 48,2101,Ockelbo,,Ockelbo,234,39,138,23
+49,2101,Ockelbo,,Ockelbo,264,30,156,18
 6,Okänd,Okänd,Okänd,Okänd,,,0,0
 7,Okänd,Okänd,Okänd,Okänd,,,0,0
 8,Okänd,Okänd,Okänd,Okänd,,,0,0
@@ -7863,11 +8045,12 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 41,Okänd,Okänd,Okänd,Okänd,,,1144,62
 42,Okänd,Okänd,Okänd,Okänd,,,1253,109
 43,Okänd,Okänd,Okänd,Okänd,,,1415,162
-44,Okänd,Okänd,Okänd,Okänd,,,1679,264
-45,Okänd,Okänd,Okänd,Okänd,,,2038,359
-46,Okänd,Okänd,Okänd,Okänd,,,2384,346
-47,Okänd,Okänd,Okänd,Okänd,,,2753,369
-48,Okänd,Okänd,Okänd,Okänd,,,3192,439
+44,Okänd,Okänd,Okänd,Okänd,,,1678,263
+45,Okänd,Okänd,Okänd,Okänd,,,2034,356
+46,Okänd,Okänd,Okänd,Okänd,,,2378,344
+47,Okänd,Okänd,Okänd,Okänd,,,2739,361
+48,Okänd,Okänd,Okänd,Okänd,,,3163,424
+49,Okänd,Okänd,Okänd,Okänd,,,3650,487
 6,1060,Olofström,,Olofström,0,0,0,0
 7,1060,Olofström,,Olofström,0,0,0,0
 8,1060,Olofström,,Olofström,0,0,0,0
@@ -7911,6 +8094,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1060,Olofström,,Olofström,60,18,80,24
 47,1060,Olofström,,Olofström,89,29,119,39
 48,1060,Olofström,,Olofström,139,50,186,67
+49,1060,Olofström,,Olofström,181,42,243,57
 6,2034,Orsa,,Orsa,0,0,0,0
 7,2034,Orsa,,Orsa,0,0,0,0
 8,2034,Orsa,,Orsa,0,0,0,0
@@ -7954,6 +8138,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2034,Orsa,,Orsa,74,14,51,10
 47,2034,Orsa,,Orsa,95,22,66,15
 48,2034,Orsa,,Orsa,119,23,82,16
+49,2034,Orsa,,Orsa,145,26,100,18
 6,1421,Orust,,Orust,0,0,0,0
 7,1421,Orust,,Orust,0,0,0,0
 8,1421,Orust,,Orust,0,0,0,0
@@ -7997,6 +8182,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1421,Orust,,Orust,80,12,121,18
 47,1421,Orust,,Orust,100,20,152,31
 48,1421,Orust,,Orust,112,12,170,18
+49,1421,Orust,,Orust,121,9,184,14
 6,1273,Osby,,Osby,0,0,0,0
 7,1273,Osby,,Osby,0,0,0,0
 8,1273,Osby,,Osby,0,0,0,0
@@ -8038,8 +8224,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1273,Osby,,Osby,42,5,56,6
 45,1273,Osby,,Osby,57,14,75,19
 46,1273,Osby,,Osby,98,42,130,55
-47,1273,Osby,,Osby,139,40,183,53
-48,1273,Osby,,Osby,182,44,241,58
+47,1273,Osby,,Osby,139,41,184,54
+48,1273,Osby,,Osby,183,44,242,58
+49,1273,Osby,,Osby,226,42,298,56
 6,0882,Oskarshamn,,Oskarshamn,0,0,0,0
 7,0882,Oskarshamn,,Oskarshamn,0,0,0,0
 8,0882,Oskarshamn,,Oskarshamn,0,0,0,0
@@ -8083,6 +8270,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0882,Oskarshamn,,Oskarshamn,86,31,234,84
 47,0882,Oskarshamn,,Oskarshamn,104,17,281,47
 48,0882,Oskarshamn,,Oskarshamn,126,22,341,60
+49,0882,Oskarshamn,,Oskarshamn,153,27,415,74
 6,2121,Ovanåker,,Ovanåker,0,0,0,0
 7,2121,Ovanåker,,Ovanåker,0,0,0,0
 8,2121,Ovanåker,,Ovanåker,0,0,0,0
@@ -8126,6 +8314,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2121,Ovanåker,,Ovanåker,176,67,205,78
 47,2121,Ovanåker,,Ovanåker,227,51,265,60
 48,2121,Ovanåker,,Ovanåker,272,45,318,53
+49,2121,Ovanåker,,Ovanåker,331,58,386,68
 6,0481,Oxelösund,,Oxelösund,0,0,0,0
 7,0481,Oxelösund,,Oxelösund,0,0,0,0
 8,0481,Oxelösund,,Oxelösund,0,0,0,0
@@ -8169,6 +8358,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0481,Oxelösund,,Oxelösund,97,11,116,13
 47,0481,Oxelösund,,Oxelösund,111,14,133,17
 48,0481,Oxelösund,,Oxelösund,126,15,151,18
+49,0481,Oxelösund,,Oxelösund,141,15,169,18
 6,2521,Pajala,,Pajala,0,0,0,0
 7,2521,Pajala,,Pajala,0,0,0,0
 8,2521,Pajala,,Pajala,0,0,0,0
@@ -8212,6 +8402,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2521,Pajala,,Pajala,83,5,50,3
 47,2521,Pajala,,Pajala,89,7,54,4
 48,2521,Pajala,,Pajala,99,10,60,6
+49,2521,Pajala,,Pajala,104,5,63,3
 6,1402,Partille,,Partille,0,0,0,0
 7,1402,Partille,,Partille,0,0,0,0
 8,1402,Partille,,Partille,0,0,0,0
@@ -8254,7 +8445,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1402,Partille,,Partille,220,31,866,122
 46,1402,Partille,,Partille,248,28,975,109
 47,1402,Partille,,Partille,272,23,1067,92
-48,1402,Partille,,Partille,303,31,1190,123
+48,1402,Partille,,Partille,303,31,1189,122
+49,1402,Partille,,Partille,331,29,1301,112
 6,1275,Perstorp,,Perstorp,0,0,0,0
 7,1275,Perstorp,,Perstorp,0,0,0,0
 8,1275,Perstorp,,Perstorp,0,0,0,0
@@ -8298,6 +8490,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1275,Perstorp,,Perstorp,113,29,85,22
 47,1275,Perstorp,,Perstorp,128,15,96,11
 48,1275,Perstorp,,Perstorp,148,20,111,15
+49,1275,Perstorp,,Perstorp,174,25,130,19
 6,2581,Piteå,,Piteå,0,0,0,0
 7,2581,Piteå,,Piteå,0,0,0,0
 8,2581,Piteå,,Piteå,0,0,0,0
@@ -8341,6 +8534,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2581,Piteå,,Piteå,132,32,558,135
 47,2581,Piteå,,Piteå,167,35,706,148
 48,2581,Piteå,,Piteå,212,45,896,190
+49,2581,Piteå,,Piteå,249,37,1051,155
 6,2303,Ragunda,,Ragunda,0,0,0,0
 7,2303,Ragunda,,Ragunda,0,0,0,0
 8,2303,Ragunda,,Ragunda,0,0,0,0
@@ -8384,6 +8578,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2303,Ragunda,,Ragunda,83,9,44,5
 47,2303,Ragunda,,Ragunda,97,13,51,7
 48,2303,Ragunda,,Ragunda,108,11,57,6
+49,2303,Ragunda,,Ragunda,134,26,71,14
 6,2409,Robertsfors,,Robertsfors,0,0,0,0
 7,2409,Robertsfors,,Robertsfors,0,0,0,0
 8,2409,Robertsfors,,Robertsfors,0,0,0,0
@@ -8427,6 +8622,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2409,Robertsfors,,Robertsfors,74,9,50,6
 47,2409,Robertsfors,,Robertsfors,92,18,62,12
 48,2409,Robertsfors,,Robertsfors,108,16,73,11
+49,2409,Robertsfors,,Robertsfors,130,22,88,15
 6,1081,Ronneby,,Ronneby,0,0,0,0
 7,1081,Ronneby,,Ronneby,0,0,0,0
 8,1081,Ronneby,,Ronneby,0,0,0,0
@@ -8470,6 +8666,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1081,Ronneby,,Ronneby,75,10,222,29
 47,1081,Ronneby,,Ronneby,89,14,263,41
 48,1081,Ronneby,,Ronneby,108,19,320,57
+49,1081,Ronneby,,Ronneby,127,19,376,56
 6,2031,Rättvik,,Rättvik,0,0,0,0
 7,2031,Rättvik,,Rättvik,0,0,0,0
 8,2031,Rättvik,,Rättvik,0,0,0,0
@@ -8513,6 +8710,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2031,Rättvik,,Rättvik,151,19,165,21
 47,2031,Rättvik,,Rättvik,164,14,180,15
 48,2031,Rättvik,,Rättvik,185,21,203,23
+49,2031,Rättvik,,Rättvik,213,27,233,30
 6,1981,Sala,,Sala,0,0,0,0
 7,1981,Sala,,Sala,0,0,0,0
 8,1981,Sala,,Sala,0,0,0,0
@@ -8556,6 +8754,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1981,Sala,,Sala,211,35,483,79
 47,1981,Sala,,Sala,242,31,555,72
 48,1981,Sala,,Sala,280,37,640,85
+49,1981,Sala,,Sala,308,28,704,64
 6,0128,Salem,,Salem,0,0,0,0
 7,0128,Salem,,Salem,0,0,0,0
 8,0128,Salem,,Salem,0,0,0,0
@@ -8599,6 +8798,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0128,Salem,,Salem,222,36,372,60
 47,0128,Salem,,Salem,278,56,465,93
 48,0128,Salem,,Salem,331,53,554,89
+49,0128,Salem,,Salem,379,48,634,80
 6,2181,Sandviken,,Sandviken,0,0,0,0
 7,2181,Sandviken,,Sandviken,0,0,0,0
 8,2181,Sandviken,,Sandviken,0,0,0,0
@@ -8642,6 +8842,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2181,Sandviken,,Sandviken,209,21,819,82
 47,2181,Sandviken,,Sandviken,237,28,929,110
 48,2181,Sandviken,,Sandviken,267,30,1047,118
+49,2181,Sandviken,,Sandviken,292,25,1147,100
 6,0191,Sigtuna,,Sigtuna,0,0,0,0
 7,0191,Sigtuna,,Sigtuna,0,0,0,0
 8,0191,Sigtuna,,Sigtuna,0,0,0,0
@@ -8685,6 +8886,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0191,Sigtuna,,Sigtuna,158,24,774,119
 47,0191,Sigtuna,,Sigtuna,181,23,886,112
 48,0191,Sigtuna,,Sigtuna,218,37,1066,180
+49,0191,Sigtuna,,Sigtuna,252,34,1232,166
 6,1291,Simrishamn,,Simrishamn,0,0,0,0
 7,1291,Simrishamn,,Simrishamn,0,0,0,0
 8,1291,Simrishamn,,Simrishamn,0,0,0,0
@@ -8728,6 +8930,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1291,Simrishamn,,Simrishamn,77,17,147,33
 47,1291,Simrishamn,,Simrishamn,90,14,173,26
 48,1291,Simrishamn,,Simrishamn,112,22,215,42
+49,1291,Simrishamn,,Simrishamn,138,26,265,50
 6,1265,Sjöbo,,Sjöbo,0,0,0,0
 7,1265,Sjöbo,,Sjöbo,0,0,0,0
 8,1265,Sjöbo,,Sjöbo,0,0,0,0
@@ -8771,6 +8974,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1265,Sjöbo,,Sjöbo,49,10,95,20
 47,1265,Sjöbo,,Sjöbo,59,9,113,18
 48,1265,Sjöbo,,Sjöbo,74,15,142,29
+49,1265,Sjöbo,,Sjöbo,100,26,192,50
 6,1495,Skara,,Skara,0,0,0,0
 7,1495,Skara,,Skara,0,0,0,0
 8,1495,Skara,,Skara,0,0,0,0
@@ -8814,6 +9018,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1495,Skara,,Skara,180,21,340,39
 47,1495,Skara,,Skara,202,22,381,41
 48,1495,Skara,,Skara,216,13,406,25
+49,1495,Skara,,Skara,232,16,437,31
 6,2482,Skellefteå,,Skellefteå,0,0,0,0
 7,2482,Skellefteå,,Skellefteå,0,0,0,0
 8,2482,Skellefteå,,Skellefteå,0,0,0,0
@@ -8856,7 +9061,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,2482,Skellefteå,,Skellefteå,73,22,527,162
 46,2482,Skellefteå,,Skellefteå,100,28,727,200
 47,2482,Skellefteå,,Skellefteå,152,52,1103,376
-48,2482,Skellefteå,,Skellefteå,222,70,1610,507
+48,2482,Skellefteå,,Skellefteå,222,70,1611,508
+49,2482,Skellefteå,,Skellefteå,276,54,2000,389
 6,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
 7,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
 8,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
@@ -8900,6 +9106,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1904,Skinnskatteberg,,Skinnskatteberg,82,23,36,10
 47,1904,Skinnskatteberg,,Skinnskatteberg,96,14,42,6
 48,1904,Skinnskatteberg,,Skinnskatteberg,134,39,59,17
+49,1904,Skinnskatteberg,,Skinnskatteberg,180,46,79,20
 6,1264,Skurup,,Skurup,0,0,0,0
 7,1264,Skurup,,Skurup,0,0,0,0
 8,1264,Skurup,,Skurup,0,0,0,0
@@ -8943,6 +9150,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1264,Skurup,,Skurup,111,24,176,38
 47,1264,Skurup,,Skurup,143,33,228,52
 48,1264,Skurup,,Skurup,180,37,286,58
+49,1264,Skurup,,Skurup,214,34,340,54
 6,1496,Skövde,,Skövde,0,0,0,0
 7,1496,Skövde,,Skövde,0,0,0,0
 8,1496,Skövde,,Skövde,0,0,0,0
@@ -8986,6 +9194,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1496,Skövde,,Skövde,197,24,1110,135
 47,1496,Skövde,,Skövde,230,33,1295,185
 48,1496,Skövde,,Skövde,265,35,1493,198
+49,1496,Skövde,,Skövde,304,39,1715,222
 6,2061,Smedjebacken,,Smedjebacken,0,0,0,0
 7,2061,Smedjebacken,,Smedjebacken,0,0,0,0
 8,2061,Smedjebacken,,Smedjebacken,0,0,0,0
@@ -9029,6 +9238,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2061,Smedjebacken,,Smedjebacken,122,19,133,21
 47,2061,Smedjebacken,,Smedjebacken,138,16,150,17
 48,2061,Smedjebacken,,Smedjebacken,147,9,160,10
+49,2061,Smedjebacken,,Smedjebacken,162,16,177,17
 6,2283,Sollefteå,,Sollefteå,0,0,0,0
 7,2283,Sollefteå,,Sollefteå,0,0,0,0
 8,2283,Sollefteå,,Sollefteå,0,0,0,0
@@ -9072,6 +9282,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2283,Sollefteå,,Sollefteå,82,11,157,22
 47,2283,Sollefteå,,Sollefteå,98,16,187,30
 48,2283,Sollefteå,,Sollefteå,109,11,208,21
+49,2283,Sollefteå,,Sollefteå,148,40,284,76
 6,0163,Sollentuna,,Sollentuna,0,0,0,0
 7,0163,Sollentuna,,Sollentuna,0,0,0,0
 8,0163,Sollentuna,,Sollentuna,0,0,0,0
@@ -9115,6 +9326,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0163,Sollentuna,,Sollentuna,204,38,1509,279
 47,0163,Sollentuna,,Sollentuna,239,34,1762,253
 48,0163,Sollentuna,,Sollentuna,284,46,2101,339
+49,0163,Sollentuna,,Sollentuna,335,51,2477,376
 6,0184,Solna,,Solna,0,0,0,0
 7,0184,Solna,,Solna,0,0,0,0
 8,0184,Solna,,Solna,0,0,0,0
@@ -9158,6 +9370,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0184,Solna,,Solna,223,36,1841,299
 47,0184,Solna,,Solna,262,38,2156,315
 48,0184,Solna,,Solna,310,48,2554,398
+49,0184,Solna,,Solna,346,36,2852,298
 6,2422,Sorsele,,Sorsele,0,0,0,0
 7,2422,Sorsele,,Sorsele,0,0,0,0
 8,2422,Sorsele,,Sorsele,0,0,0,0
@@ -9201,6 +9414,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2422,Sorsele,,Sorsele,68,20,17,5
 47,2422,Sorsele,,Sorsele,72,4,18,1
 48,2422,Sorsele,,Sorsele,72,0,18,0
+49,2422,Sorsele,,Sorsele,80,8,20,2
 6,1427,Sotenäs,,Sotenäs,0,0,0,0
 7,1427,Sotenäs,,Sotenäs,0,0,0,0
 8,1427,Sotenäs,,Sotenäs,0,0,0,0
@@ -9244,6 +9458,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1427,Sotenäs,,Sotenäs,194,21,176,19
 47,1427,Sotenäs,,Sotenäs,220,25,199,23
 48,1427,Sotenäs,,Sotenäs,236,17,214,15
+49,1427,Sotenäs,,Sotenäs,249,13,226,12
 6,1230,Staffanstorp,,Staffanstorp,0,0,0,0
 7,1230,Staffanstorp,,Staffanstorp,0,0,0,0
 8,1230,Staffanstorp,,Staffanstorp,0,0,0,0
@@ -9287,6 +9502,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1230,Staffanstorp,,Staffanstorp,88,16,224,40
 47,1230,Staffanstorp,,Staffanstorp,112,24,285,61
 48,1230,Staffanstorp,,Staffanstorp,142,30,361,76
+49,1230,Staffanstorp,,Staffanstorp,181,39,459,98
 6,1415,Stenungsund,,Stenungsund,0,0,0,0
 7,1415,Stenungsund,,Stenungsund,0,0,0,0
 8,1415,Stenungsund,,Stenungsund,0,0,0,0
@@ -9330,6 +9546,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1415,Stenungsund,,Stenungsund,148,25,396,66
 47,1415,Stenungsund,,Stenungsund,173,25,464,68
 48,1415,Stenungsund,,Stenungsund,193,19,516,52
+49,1415,Stenungsund,,Stenungsund,223,31,598,82
 6,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
 7,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
 8,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
@@ -9373,6 +9590,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Bromma,Stockholm Bromma,243,51,1961,413
 47,0180,Stockholm,Bromma,Stockholm Bromma,281,38,2265,304
 48,0180,Stockholm,Bromma,Stockholm Bromma,328,48,2651,386
+49,0180,Stockholm,Bromma,Stockholm Bromma,370,42,2988,337
 6,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
 7,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
 8,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
@@ -9416,6 +9634,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,246,39,2528,402
 47,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,283,38,2915,387
 48,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,333,49,3422,507
+49,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,378,45,3888,466
 6,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
 7,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
 8,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
@@ -9459,6 +9678,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Farsta,Stockholm Farsta,254,46,1514,274
 47,0180,Stockholm,Farsta,Stockholm Farsta,304,49,1808,294
 48,0180,Stockholm,Farsta,Stockholm Farsta,350,46,2082,274
+49,0180,Stockholm,Farsta,Stockholm Farsta,400,50,2379,297
 6,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
 7,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
 8,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
@@ -9502,6 +9722,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,242,40,2220,367
 47,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,280,38,2566,346
 48,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,326,46,2990,424
+49,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,364,38,3335,345
 6,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
 7,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
 8,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
@@ -9545,6 +9766,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,195,35,1497,267
 47,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,229,33,1751,254
 48,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,273,44,2091,340
+49,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,312,39,2390,299
 6,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
 7,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
 8,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
@@ -9587,7 +9809,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,233,43,1662,308
 46,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,284,51,2025,363
 47,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,324,40,2310,285
-48,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,368,44,2622,312
+48,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,368,44,2623,313
+49,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,407,39,2900,277
 6,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
 7,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
 8,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
@@ -9631,6 +9854,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Norrmalm,Stockholm Norrmalm,330,57,2417,416
 47,0180,Stockholm,Norrmalm,Stockholm Norrmalm,368,39,2700,283
 48,0180,Stockholm,Norrmalm,Stockholm Norrmalm,415,47,3044,344
+49,0180,Stockholm,Norrmalm,Stockholm Norrmalm,458,43,3357,313
 6,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
 7,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
 8,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
@@ -9674,6 +9898,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,208,24,1065,124
 47,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,242,35,1242,177
 48,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,279,36,1427,185
+49,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,314,35,1606,179
 6,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
 7,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
 8,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
@@ -9716,7 +9941,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,208,33,968,154
 46,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,247,39,1149,181
 47,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,280,32,1299,150
-48,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,331,51,1537,238
+48,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,331,51,1538,239
+49,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,368,37,1711,173
 6,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
 7,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
 8,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
@@ -9760,6 +9986,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Skärholmen,Stockholm Skärholmen,243,29,920,108
 47,0180,Stockholm,Skärholmen,Stockholm Skärholmen,283,39,1069,149
 48,0180,Stockholm,Skärholmen,Stockholm Skärholmen,340,57,1284,215
+49,0180,Stockholm,Skärholmen,Stockholm Skärholmen,387,47,1462,178
 6,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
 7,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
 8,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
@@ -9803,6 +10030,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,206,35,800,136
 47,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,241,36,940,140
 48,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,281,40,1095,155
+49,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,319,38,1242,147
 6,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
 7,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
 8,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
@@ -9846,6 +10074,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Södermalm,Stockholm Södermalm,278,49,3640,638
 47,0180,Stockholm,Södermalm,Stockholm Södermalm,318,40,4165,525
 48,0180,Stockholm,Södermalm,Stockholm Södermalm,363,45,4754,589
+49,0180,Stockholm,Södermalm,Stockholm Södermalm,404,41,5294,540
 6,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
 7,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
 8,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
@@ -9889,6 +10118,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0180,Stockholm,Älvsjö,Stockholm Älvsjö,250,43,788,135
 47,0180,Stockholm,Älvsjö,Stockholm Älvsjö,286,36,902,114
 48,0180,Stockholm,Älvsjö,Stockholm Älvsjö,332,46,1046,144
+49,0180,Stockholm,Älvsjö,Stockholm Älvsjö,372,41,1174,128
 6,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
 7,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
 8,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
@@ -9931,7 +10161,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,0180,Stockholm,Östermalm,Stockholm Östermalm,241,41,1887,321
 46,0180,Stockholm,Östermalm,Stockholm Östermalm,290,49,2272,385
 47,0180,Stockholm,Östermalm,Stockholm Östermalm,326,36,2557,285
-48,0180,Stockholm,Östermalm,Stockholm Östermalm,373,46,2920,363
+48,0180,Stockholm,Östermalm,Stockholm Östermalm,373,46,2921,364
+49,0180,Stockholm,Östermalm,Stockholm Östermalm,413,41,3239,318
 6,1760,Storfors,,Storfors,0,0,0,0
 7,1760,Storfors,,Storfors,0,0,0,0
 8,1760,Storfors,,Storfors,0,0,0,0
@@ -9975,6 +10206,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1760,Storfors,,Storfors,80,10,32,4
 47,1760,Storfors,,Storfors,100,20,40,8
 48,1760,Storfors,,Storfors,147,47,59,19
+49,1760,Storfors,,Storfors,172,25,69,10
 6,2421,Storuman,,Storuman,0,0,0,0
 7,2421,Storuman,,Storuman,0,0,0,0
 8,2421,Storuman,,Storuman,0,0,0,0
@@ -10018,6 +10250,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2421,Storuman,,Storuman,198,67,116,39
 47,2421,Storuman,,Storuman,234,36,137,21
 48,2421,Storuman,,Storuman,270,36,158,21
+49,2421,Storuman,,Storuman,284,14,166,8
 6,0486,Strängnäs,,Strängnäs,0,0,0,0
 7,0486,Strängnäs,,Strängnäs,0,0,0,0
 8,0486,Strängnäs,,Strängnäs,0,0,0,0
@@ -10061,6 +10294,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0486,Strängnäs,,Strängnäs,124,27,454,99
 47,0486,Strängnäs,,Strängnäs,150,25,547,93
 48,0486,Strängnäs,,Strängnäs,172,22,629,82
+49,0486,Strängnäs,,Strängnäs,197,25,720,91
 6,1486,Strömstad,,Strömstad,0,0,0,0
 7,1486,Strömstad,,Strömstad,0,0,0,0
 8,1486,Strömstad,,Strömstad,0,0,0,0
@@ -10104,6 +10338,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1486,Strömstad,,Strömstad,113,11,150,15
 47,1486,Strömstad,,Strömstad,120,6,158,8
 48,1486,Strömstad,,Strömstad,127,8,168,10
+49,1486,Strömstad,,Strömstad,135,8,178,10
 6,2313,Strömsund,,Strömsund,0,0,0,0
 7,2313,Strömsund,,Strömsund,0,0,0,0
 8,2313,Strömsund,,Strömsund,0,0,0,0
@@ -10147,6 +10382,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2313,Strömsund,,Strömsund,34,4,39,5
 47,2313,Strömsund,,Strömsund,55,22,64,25
 48,2313,Strömsund,,Strömsund,64,9,74,10
+49,2313,Strömsund,,Strömsund,86,22,100,26
 6,0183,Sundbyberg,,Sundbyberg,0,0,0,0
 7,0183,Sundbyberg,,Sundbyberg,0,0,0,0
 8,0183,Sundbyberg,,Sundbyberg,0,0,0,0
@@ -10190,6 +10426,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0183,Sundbyberg,,Sundbyberg,228,40,1197,208
 47,0183,Sundbyberg,,Sundbyberg,267,39,1402,205
 48,0183,Sundbyberg,,Sundbyberg,316,48,1655,253
+49,0183,Sundbyberg,,Sundbyberg,367,51,1924,269
 6,2281,Sundsvall,,Sundsvall,0,0,0,0
 7,2281,Sundsvall,,Sundsvall,0,0,0,0
 8,2281,Sundsvall,,Sundsvall,0,0,0,0
@@ -10233,6 +10470,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2281,Sundsvall,,Sundsvall,183,38,1817,375
 47,2281,Sundsvall,,Sundsvall,240,57,2384,567
 48,2281,Sundsvall,,Sundsvall,309,70,3076,692
+49,2281,Sundsvall,,Sundsvall,370,60,3677,601
 6,1766,Sunne,,Sunne,0,0,0,0
 7,1766,Sunne,,Sunne,0,0,0,0
 8,1766,Sunne,,Sunne,0,0,0,0
@@ -10276,6 +10514,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1766,Sunne,,Sunne,79,18,105,24
 47,1766,Sunne,,Sunne,91,12,121,16
 48,1766,Sunne,,Sunne,97,6,129,8
+49,1766,Sunne,,Sunne,104,7,138,9
 6,1907,Surahammar,,Surahammar,0,0,0,0
 7,1907,Surahammar,,Surahammar,0,0,0,0
 8,1907,Surahammar,,Surahammar,0,0,0,0
@@ -10319,6 +10558,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1907,Surahammar,,Surahammar,144,41,146,41
 47,1907,Surahammar,,Surahammar,193,48,195,49
 48,1907,Surahammar,,Surahammar,246,53,249,54
+49,1907,Surahammar,,Surahammar,308,61,311,62
 6,1214,Svalöv,,Svalöv,0,0,0,0
 7,1214,Svalöv,,Svalöv,0,0,0,0
 8,1214,Svalöv,,Svalöv,0,0,0,0
@@ -10362,6 +10602,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1214,Svalöv,,Svalöv,88,26,125,37
 47,1214,Svalöv,,Svalöv,122,34,174,49
 48,1214,Svalöv,,Svalöv,157,35,224,50
+49,1214,Svalöv,,Svalöv,198,41,282,58
 6,1263,Svedala,,Svedala,0,0,0,0
 7,1263,Svedala,,Svedala,0,0,0,0
 8,1263,Svedala,,Svedala,0,0,0,0
@@ -10405,6 +10646,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1263,Svedala,,Svedala,101,24,225,53
 47,1263,Svedala,,Svedala,132,31,294,69
 48,1263,Svedala,,Svedala,169,36,375,81
+49,1263,Svedala,,Svedala,215,46,477,102
 6,1465,Svenljunga,,Svenljunga,0,0,0,0
 7,1465,Svenljunga,,Svenljunga,0,0,0,0
 8,1465,Svenljunga,,Svenljunga,0,0,0,0
@@ -10448,6 +10690,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1465,Svenljunga,,Svenljunga,142,23,153,25
 47,1465,Svenljunga,,Svenljunga,188,46,203,50
 48,1465,Svenljunga,,Svenljunga,212,24,229,26
+49,1465,Svenljunga,,Svenljunga,235,22,253,24
 6,1785,Säffle,,Säffle,0,0,0,0
 7,1785,Säffle,,Säffle,0,0,0,0
 8,1785,Säffle,,Säffle,0,0,0,0
@@ -10491,6 +10734,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1785,Säffle,,Säffle,51,14,79,21
 47,1785,Säffle,,Säffle,68,17,105,26
 48,1785,Säffle,,Säffle,80,12,124,19
+49,1785,Säffle,,Säffle,98,17,151,27
 6,2082,Säter,,Säter,0,0,0,0
 7,2082,Säter,,Säter,0,0,0,0
 8,2082,Säter,,Säter,0,0,0,0
@@ -10534,6 +10778,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2082,Säter,,Säter,185,23,205,26
 47,2082,Säter,,Säter,195,10,216,11
 48,2082,Säter,,Säter,207,13,230,14
+49,2082,Säter,,Säter,232,24,257,27
 6,0684,Sävsjö,,Sävsjö,0,0,0,0
 7,0684,Sävsjö,,Sävsjö,0,0,0,0
 8,0684,Sävsjö,,Sävsjö,0,0,0,0
@@ -10577,6 +10822,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0684,Sävsjö,,Sävsjö,220,56,257,65
 47,0684,Sävsjö,,Sävsjö,280,60,327,70
 48,0684,Sävsjö,,Sävsjö,325,45,379,52
+49,0684,Sävsjö,,Sävsjö,353,28,412,33
 6,2182,Söderhamn,,Söderhamn,0,0,0,0
 7,2182,Söderhamn,,Söderhamn,0,0,0,0
 8,2182,Söderhamn,,Söderhamn,0,0,0,0
@@ -10620,6 +10866,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2182,Söderhamn,,Söderhamn,192,31,492,80
 47,2182,Söderhamn,,Söderhamn,240,48,615,123
 48,2182,Söderhamn,,Söderhamn,304,64,779,164
+49,2182,Söderhamn,,Söderhamn,387,83,992,213
 6,0582,Söderköping,,Söderköping,0,0,0,0
 7,0582,Söderköping,,Söderköping,0,0,0,0
 8,0582,Söderköping,,Söderköping,0,0,0,0
@@ -10663,6 +10910,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0582,Söderköping,,Söderköping,114,8,167,12
 47,0582,Söderköping,,Söderköping,122,8,178,11
 48,0582,Söderköping,,Söderköping,129,8,189,11
+49,0582,Söderköping,,Söderköping,138,9,202,13
 6,0181,Södertälje,,Södertälje,0,0,0,0
 7,0181,Södertälje,,Södertälje,0,0,0,0
 8,0181,Södertälje,,Södertälje,0,0,0,0
@@ -10706,6 +10954,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0181,Södertälje,,Södertälje,295,54,2916,532
 47,0181,Södertälje,,Södertälje,354,59,3502,586
 48,0181,Södertälje,,Södertälje,417,64,4132,630
+49,0181,Södertälje,,Södertälje,483,66,4785,653
 6,1083,Sölvesborg,,Sölvesborg,0,0,0,0
 7,1083,Sölvesborg,,Sölvesborg,0,0,0,0
 8,1083,Sölvesborg,,Sölvesborg,0,0,0,0
@@ -10749,6 +10998,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1083,Sölvesborg,,Sölvesborg,103,24,179,42
 47,1083,Sölvesborg,,Sölvesborg,120,17,209,30
 48,1083,Sölvesborg,,Sölvesborg,136,17,238,29
+49,1083,Sölvesborg,,Sölvesborg,164,28,286,48
 6,1435,Tanum,,Tanum,0,0,0,0
 7,1435,Tanum,,Tanum,0,0,0,0
 8,1435,Tanum,,Tanum,0,0,0,0
@@ -10792,6 +11042,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1435,Tanum,,Tanum,80,8,103,10
 47,1435,Tanum,,Tanum,88,8,113,10
 48,1435,Tanum,,Tanum,98,10,126,13
+49,1435,Tanum,,Tanum,114,16,147,21
 6,1472,Tibro,,Tibro,0,0,0,0
 7,1472,Tibro,,Tibro,0,0,0,0
 8,1472,Tibro,,Tibro,0,0,0,0
@@ -10835,6 +11086,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1472,Tibro,,Tibro,320,96,360,108
 47,1472,Tibro,,Tibro,395,75,444,84
 48,1472,Tibro,,Tibro,436,41,490,46
+49,1472,Tibro,,Tibro,472,36,531,41
 6,1498,Tidaholm,,Tidaholm,0,0,0,0
 7,1498,Tidaholm,,Tidaholm,0,0,0,0
 8,1498,Tidaholm,,Tidaholm,0,0,0,0
@@ -10878,6 +11130,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1498,Tidaholm,,Tidaholm,153,22,196,28
 47,1498,Tidaholm,,Tidaholm,190,37,244,48
 48,1498,Tidaholm,,Tidaholm,241,51,310,66
+49,1498,Tidaholm,,Tidaholm,278,37,357,47
 6,0360,Tierp,,Tierp,0,0,0,0
 7,0360,Tierp,,Tierp,0,0,0,0
 8,0360,Tierp,,Tierp,0,0,0,0
@@ -10921,6 +11174,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0360,Tierp,,Tierp,150,18,318,39
 47,0360,Tierp,,Tierp,172,22,364,46
 48,0360,Tierp,,Tierp,202,30,427,63
+49,0360,Tierp,,Tierp,231,29,488,61
 6,2262,Timrå,,Timrå,0,0,0,0
 7,2262,Timrå,,Timrå,0,0,0,0
 8,2262,Timrå,,Timrå,0,0,0,0
@@ -10964,6 +11218,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2262,Timrå,,Timrå,175,27,315,48
 47,2262,Timrå,,Timrå,215,40,387,72
 48,2262,Timrå,,Timrå,289,74,520,133
+49,2262,Timrå,,Timrå,358,68,643,123
 6,0763,Tingsryd,,Tingsryd,0,0,0,0
 7,0763,Tingsryd,,Tingsryd,0,0,0,0
 8,0763,Tingsryd,,Tingsryd,0,0,0,0
@@ -11007,6 +11262,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0763,Tingsryd,,Tingsryd,165,13,205,16
 47,0763,Tingsryd,,Tingsryd,175,10,217,12
 48,0763,Tingsryd,,Tingsryd,202,27,250,33
+49,0763,Tingsryd,,Tingsryd,209,7,259,9
 6,1419,Tjörn,,Tjörn,0,0,0,0
 7,1419,Tjörn,,Tjörn,0,0,0,0
 8,1419,Tjörn,,Tjörn,0,0,0,0
@@ -11050,6 +11306,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1419,Tjörn,,Tjörn,101,10,162,16
 47,1419,Tjörn,,Tjörn,116,15,186,24
 48,1419,Tjörn,,Tjörn,127,11,203,17
+49,1419,Tjörn,,Tjörn,145,19,233,30
 6,1270,Tomelilla,,Tomelilla,0,0,0,0
 7,1270,Tomelilla,,Tomelilla,0,0,0,0
 8,1270,Tomelilla,,Tomelilla,0,0,0,0
@@ -11093,6 +11350,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1270,Tomelilla,,Tomelilla,93,40,127,55
 47,1270,Tomelilla,,Tomelilla,118,25,161,34
 48,1270,Tomelilla,,Tomelilla,149,31,203,42
+49,1270,Tomelilla,,Tomelilla,167,18,228,25
 6,1737,Torsby,,Torsby,0,0,0,0
 7,1737,Torsby,,Torsby,0,0,0,0
 8,1737,Torsby,,Torsby,0,0,0,0
@@ -11136,6 +11394,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1737,Torsby,,Torsby,67,17,78,20
 47,1737,Torsby,,Torsby,84,17,98,20
 48,1737,Torsby,,Torsby,89,4,103,5
+49,1737,Torsby,,Torsby,99,10,115,12
 6,0834,Torsås,,Torsås,0,0,0,0
 7,0834,Torsås,,Torsås,0,0,0,0
 8,0834,Torsås,,Torsås,0,0,0,0
@@ -11179,6 +11438,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0834,Torsås,,Torsås,74,3,53,2
 47,0834,Torsås,,Torsås,83,8,59,6
 48,0834,Torsås,,Torsås,111,28,79,20
+49,0834,Torsås,,Torsås,126,15,90,11
 6,1452,Tranemo,,Tranemo,0,0,0,0
 7,1452,Tranemo,,Tranemo,0,0,0,0
 8,1452,Tranemo,,Tranemo,0,0,0,0
@@ -11222,6 +11482,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1452,Tranemo,,Tranemo,239,20,285,24
 47,1452,Tranemo,,Tranemo,265,26,316,31
 48,1452,Tranemo,,Tranemo,304,39,363,47
+49,1452,Tranemo,,Tranemo,319,15,381,18
 6,0687,Tranås,,Tranås,0,0,0,0
 7,0687,Tranås,,Tranås,0,0,0,0
 8,0687,Tranås,,Tranås,0,0,0,0
@@ -11265,6 +11526,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0687,Tranås,,Tranås,138,31,262,58
 47,0687,Tranås,,Tranås,162,24,307,45
 48,0687,Tranås,,Tranås,180,18,342,35
+49,0687,Tranås,,Tranås,186,6,353,11
 6,1287,Trelleborg,,Trelleborg,0,0,0,0
 7,1287,Trelleborg,,Trelleborg,0,0,0,0
 8,1287,Trelleborg,,Trelleborg,0,0,0,0
@@ -11308,6 +11570,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1287,Trelleborg,,Trelleborg,105,28,475,125
 47,1287,Trelleborg,,Trelleborg,129,24,585,110
 48,1287,Trelleborg,,Trelleborg,166,37,753,168
+49,1287,Trelleborg,,Trelleborg,209,43,948,195
 6,1488,Trollhättan,,Trollhättan,0,0,0,0
 7,1488,Trollhättan,,Trollhättan,0,0,0,0
 8,1488,Trollhättan,,Trollhättan,0,0,0,0
@@ -11351,6 +11614,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1488,Trollhättan,,Trollhättan,174,22,1028,132
 47,1488,Trollhättan,,Trollhättan,207,33,1223,195
 48,1488,Trollhättan,,Trollhättan,241,34,1422,199
+49,1488,Trollhättan,,Trollhättan,270,29,1593,171
 6,0488,Trosa,,Trosa,0,0,0,0
 7,0488,Trosa,,Trosa,0,0,0,0
 8,0488,Trosa,,Trosa,0,0,0,0
@@ -11394,6 +11658,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0488,Trosa,,Trosa,172,28,237,38
 47,0488,Trosa,,Trosa,220,48,303,66
 48,0488,Trosa,,Trosa,239,18,328,25
+49,0488,Trosa,,Trosa,261,23,359,31
 6,0138,Tyresö,,Tyresö,0,0,0,0
 7,0138,Tyresö,,Tyresö,0,0,0,0
 8,0138,Tyresö,,Tyresö,0,0,0,0
@@ -11437,6 +11702,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0138,Tyresö,,Tyresö,241,42,1166,205
 47,0138,Tyresö,,Tyresö,278,36,1342,176
 48,0138,Tyresö,,Tyresö,320,42,1546,204
+49,0138,Tyresö,,Tyresö,368,48,1780,234
 6,0160,Täby,,Täby,0,0,0,0
 7,0160,Täby,,Täby,0,0,0,0
 8,0160,Täby,,Täby,0,0,0,0
@@ -11480,6 +11746,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0160,Täby,,Täby,217,39,1558,282
 47,0160,Täby,,Täby,253,37,1822,264
 48,0160,Täby,,Täby,300,46,2153,331
+49,0160,Täby,,Täby,343,43,2465,312
 6,1473,Töreboda,,Töreboda,0,0,0,0
 7,1473,Töreboda,,Töreboda,0,0,0,0
 8,1473,Töreboda,,Töreboda,0,0,0,0
@@ -11523,6 +11790,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1473,Töreboda,,Töreboda,234,17,217,16
 47,1473,Töreboda,,Töreboda,253,19,235,18
 48,1473,Töreboda,,Töreboda,261,9,243,8
+49,1473,Töreboda,,Töreboda,269,8,250,7
 6,1485,Uddevalla,,Uddevalla,0,0,0,0
 7,1485,Uddevalla,,Uddevalla,0,0,0,0
 8,1485,Uddevalla,,Uddevalla,0,0,0,0
@@ -11562,10 +11830,11 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 42,1485,Uddevalla,,Uddevalla,90,3,511,16
 43,1485,Uddevalla,,Uddevalla,99,8,559,48
 44,1485,Uddevalla,,Uddevalla,108,10,613,54
-45,1485,Uddevalla,,Uddevalla,127,19,718,105
-46,1485,Uddevalla,,Uddevalla,155,29,880,162
-47,1485,Uddevalla,,Uddevalla,201,45,1137,257
-48,1485,Uddevalla,,Uddevalla,233,33,1323,186
+45,1485,Uddevalla,,Uddevalla,126,18,717,104
+46,1485,Uddevalla,,Uddevalla,155,29,879,162
+47,1485,Uddevalla,,Uddevalla,200,45,1134,255
+48,1485,Uddevalla,,Uddevalla,233,33,1320,186
+49,1485,Uddevalla,,Uddevalla,261,28,1480,160
 6,1491,Ulricehamn,,Ulricehamn,0,0,0,0
 7,1491,Ulricehamn,,Ulricehamn,0,0,0,0
 8,1491,Ulricehamn,,Ulricehamn,0,0,0,0
@@ -11609,6 +11878,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1491,Ulricehamn,,Ulricehamn,189,24,467,60
 47,1491,Ulricehamn,,Ulricehamn,227,38,561,94
 48,1491,Ulricehamn,,Ulricehamn,253,26,624,63
+49,1491,Ulricehamn,,Ulricehamn,268,15,662,38
 6,2480,Umeå,,Umeå,0,0,0,0
 7,2480,Umeå,,Umeå,0,0,0,0
 8,2480,Umeå,,Umeå,0,0,0,0
@@ -11652,6 +11922,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2480,Umeå,,Umeå,108,22,1387,288
 47,2480,Umeå,,Umeå,126,19,1630,243
 48,2480,Umeå,,Umeå,147,21,1895,265
+49,2480,Umeå,,Umeå,172,25,2216,321
 6,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
 7,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
 8,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
@@ -11695,6 +11966,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0114,Upplands Väsby,,Upplands Väsby,219,42,1026,198
 47,0114,Upplands Väsby,,Upplands Väsby,256,37,1200,174
 48,0114,Upplands Väsby,,Upplands Väsby,302,46,1415,215
+49,0114,Upplands Väsby,,Upplands Väsby,343,41,1606,191
 6,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
 7,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
 8,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
@@ -11738,6 +12010,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0139,Upplands-Bro,,Upplands-Bro,173,39,507,114
 47,0139,Upplands-Bro,,Upplands-Bro,213,40,625,118
 48,0139,Upplands-Bro,,Upplands-Bro,265,52,777,152
+49,0139,Upplands-Bro,,Upplands-Bro,309,44,906,129
 6,0380,Uppsala,,Uppsala,0,0,0,0
 7,0380,Uppsala,,Uppsala,0,0,0,0
 8,0380,Uppsala,,Uppsala,0,0,0,0
@@ -11781,6 +12054,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0380,Uppsala,,Uppsala,256,36,5908,825
 47,0380,Uppsala,,Uppsala,294,38,6784,876
 48,0380,Uppsala,,Uppsala,329,35,7582,798
+49,0380,Uppsala,,Uppsala,364,35,8393,811
 6,0760,Uppvidinge,,Uppvidinge,0,0,0,0
 7,0760,Uppvidinge,,Uppvidinge,0,0,0,0
 8,0760,Uppvidinge,,Uppvidinge,0,0,0,0
@@ -11821,9 +12095,10 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 43,0760,Uppvidinge,,Uppvidinge,63,5,60,5
 44,0760,Uppvidinge,,Uppvidinge,92,29,88,28
 45,0760,Uppvidinge,,Uppvidinge,160,68,153,65
-46,0760,Uppvidinge,,Uppvidinge,268,108,257,104
-47,0760,Uppvidinge,,Uppvidinge,332,64,318,61
-48,0760,Uppvidinge,,Uppvidinge,389,57,373,55
+46,0760,Uppvidinge,,Uppvidinge,267,107,256,103
+47,0760,Uppvidinge,,Uppvidinge,331,64,317,61
+48,0760,Uppvidinge,,Uppvidinge,388,57,372,55
+49,0760,Uppvidinge,,Uppvidinge,421,33,404,32
 6,0584,Vadstena,,Vadstena,0,0,0,0
 7,0584,Vadstena,,Vadstena,0,0,0,0
 8,0584,Vadstena,,Vadstena,0,0,0,0
@@ -11867,6 +12142,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0584,Vadstena,,Vadstena,171,31,127,23
 47,0584,Vadstena,,Vadstena,188,18,140,13
 48,0584,Vadstena,,Vadstena,205,16,152,12
+49,0584,Vadstena,,Vadstena,225,20,167,15
 6,0665,Vaggeryd,,Vaggeryd,0,0,0,0
 7,0665,Vaggeryd,,Vaggeryd,0,0,0,0
 8,0665,Vaggeryd,,Vaggeryd,0,0,0,0
@@ -11910,6 +12186,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0665,Vaggeryd,,Vaggeryd,216,18,308,25
 47,0665,Vaggeryd,,Vaggeryd,233,17,332,24
 48,0665,Vaggeryd,,Vaggeryd,246,13,351,19
+49,0665,Vaggeryd,,Vaggeryd,270,25,386,35
 6,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
 7,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
 8,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
@@ -11953,6 +12230,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0563,Valdemarsvik,,Valdemarsvik,112,4,88,3
 47,0563,Valdemarsvik,,Valdemarsvik,116,4,91,3
 48,0563,Valdemarsvik,,Valdemarsvik,121,5,95,4
+49,0563,Valdemarsvik,,Valdemarsvik,127,6,100,5
 6,0115,Vallentuna,,Vallentuna,0,0,0,0
 7,0115,Vallentuna,,Vallentuna,0,0,0,0
 8,0115,Vallentuna,,Vallentuna,0,0,0,0
@@ -11996,6 +12274,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0115,Vallentuna,,Vallentuna,187,32,636,110
 47,0115,Vallentuna,,Vallentuna,217,31,740,104
 48,0115,Vallentuna,,Vallentuna,256,39,874,134
+49,0115,Vallentuna,,Vallentuna,300,43,1021,147
 6,2021,Vansbro,,Vansbro,0,0,0,0
 7,2021,Vansbro,,Vansbro,0,0,0,0
 8,2021,Vansbro,,Vansbro,0,0,0,0
@@ -12039,6 +12318,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2021,Vansbro,,Vansbro,106,19,72,13
 47,2021,Vansbro,,Vansbro,110,4,75,3
 48,2021,Vansbro,,Vansbro,115,4,78,3
+49,2021,Vansbro,,Vansbro,123,9,84,6
 6,1470,Vara,,Vara,0,0,0,0
 7,1470,Vara,,Vara,0,0,0,0
 8,1470,Vara,,Vara,0,0,0,0
@@ -12080,8 +12360,9 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 44,1470,Vara,,Vara,85,4,136,7
 45,1470,Vara,,Vara,97,12,156,20
 46,1470,Vara,,Vara,114,17,183,27
-47,1470,Vara,,Vara,141,27,226,43
-48,1470,Vara,,Vara,149,8,239,13
+47,1470,Vara,,Vara,140,26,225,42
+48,1470,Vara,,Vara,149,8,238,13
+49,1470,Vara,,Vara,155,6,248,10
 6,1383,Varberg,,Varberg,0,0,0,0
 7,1383,Varberg,,Varberg,0,0,0,0
 8,1383,Varberg,,Varberg,0,0,0,0
@@ -12125,6 +12406,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1383,Varberg,,Varberg,190,33,1225,213
 47,1383,Varberg,,Varberg,207,18,1339,114
 48,1383,Varberg,,Varberg,231,24,1494,155
+49,1383,Varberg,,Varberg,264,33,1704,210
 6,0187,Vaxholm,,Vaxholm,0,0,0,0
 7,0187,Vaxholm,,Vaxholm,0,0,0,0
 8,0187,Vaxholm,,Vaxholm,0,0,0,0
@@ -12168,6 +12450,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0187,Vaxholm,,Vaxholm,225,45,270,54
 47,0187,Vaxholm,,Vaxholm,280,55,336,66
 48,0187,Vaxholm,,Vaxholm,315,35,378,42
+49,0187,Vaxholm,,Vaxholm,356,41,427,49
 6,1233,Vellinge,,Vellinge,0,0,0,0
 7,1233,Vellinge,,Vellinge,0,0,0,0
 8,1233,Vellinge,,Vellinge,0,0,0,0
@@ -12211,6 +12494,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1233,Vellinge,,Vellinge,108,23,395,83
 47,1233,Vellinge,,Vellinge,134,26,490,95
 48,1233,Vellinge,,Vellinge,169,35,620,130
+49,1233,Vellinge,,Vellinge,212,43,776,156
 6,0685,Vetlanda,,Vetlanda,0,0,0,0
 7,0685,Vetlanda,,Vetlanda,0,0,0,0
 8,0685,Vetlanda,,Vetlanda,0,0,0,0
@@ -12254,6 +12538,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0685,Vetlanda,,Vetlanda,266,65,731,179
 47,0685,Vetlanda,,Vetlanda,336,70,923,192
 48,0685,Vetlanda,,Vetlanda,387,51,1063,140
+49,0685,Vetlanda,,Vetlanda,433,46,1190,127
 6,2462,Vilhelmina,,Vilhelmina,0,0,0,0
 7,2462,Vilhelmina,,Vilhelmina,0,0,0,0
 8,2462,Vilhelmina,,Vilhelmina,0,0,0,0
@@ -12297,6 +12582,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2462,Vilhelmina,,Vilhelmina,60,19,40,13
 47,2462,Vilhelmina,,Vilhelmina,70,10,47,7
 48,2462,Vilhelmina,,Vilhelmina,81,10,54,7
+49,2462,Vilhelmina,,Vilhelmina,85,4,57,3
 6,0884,Vimmerby,,Vimmerby,0,0,0,0
 7,0884,Vimmerby,,Vimmerby,0,0,0,0
 8,0884,Vimmerby,,Vimmerby,0,0,0,0
@@ -12340,6 +12626,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0884,Vimmerby,,Vimmerby,52,13,81,20
 47,0884,Vimmerby,,Vimmerby,75,23,117,36
 48,0884,Vimmerby,,Vimmerby,107,33,168,51
+49,0884,Vimmerby,,Vimmerby,145,38,227,59
 6,2404,Vindeln,,Vindeln,0,0,0,0
 7,2404,Vindeln,,Vindeln,0,0,0,0
 8,2404,Vindeln,,Vindeln,0,0,0,0
@@ -12383,6 +12670,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2404,Vindeln,,Vindeln,87,6,47,3
 47,2404,Vindeln,,Vindeln,96,9,52,5
 48,2404,Vindeln,,Vindeln,111,15,60,8
+49,2404,Vindeln,,Vindeln,114,4,62,2
 6,0428,Vingåker,,Vingåker,0,0,0,0
 7,0428,Vingåker,,Vingåker,0,0,0,0
 8,0428,Vingåker,,Vingåker,0,0,0,0
@@ -12426,6 +12714,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0428,Vingåker,,Vingåker,123,3,112,3
 47,0428,Vingåker,,Vingåker,128,5,117,5
 48,0428,Vingåker,,Vingåker,138,10,126,9
+49,0428,Vingåker,,Vingåker,143,4,130,4
 6,1487,Vänersborg,,Vänersborg,0,0,0,0
 7,1487,Vänersborg,,Vänersborg,0,0,0,0
 8,1487,Vänersborg,,Vänersborg,0,0,0,0
@@ -12469,6 +12758,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1487,Vänersborg,,Vänersborg,124,11,492,43
 47,1487,Vänersborg,,Vänersborg,142,18,563,71
 48,1487,Vänersborg,,Vänersborg,156,14,617,54
+49,1487,Vänersborg,,Vänersborg,170,15,675,58
 6,2460,Vännäs,,Vännäs,0,0,0,0
 7,2460,Vännäs,,Vännäs,0,0,0,0
 8,2460,Vännäs,,Vännäs,0,0,0,0
@@ -12512,6 +12802,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2460,Vännäs,,Vännäs,54,15,48,13
 47,2460,Vännäs,,Vännäs,65,11,58,10
 48,2460,Vännäs,,Vännäs,76,10,67,9
+49,2460,Vännäs,,Vännäs,88,12,78,11
 6,0120,Värmdö,,Värmdö,0,0,0,0
 7,0120,Värmdö,,Värmdö,0,0,0,0
 8,0120,Värmdö,,Värmdö,0,0,0,0
@@ -12555,6 +12846,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0120,Värmdö,,Värmdö,187,33,843,150
 47,0120,Värmdö,,Värmdö,227,40,1023,180
 48,0120,Värmdö,,Värmdö,266,38,1195,172
+49,0120,Värmdö,,Värmdö,305,39,1372,177
 6,0683,Värnamo,,Värnamo,0,0,0,0
 7,0683,Värnamo,,Värnamo,0,0,0,0
 8,0683,Värnamo,,Värnamo,0,0,0,0
@@ -12598,6 +12890,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0683,Värnamo,,Värnamo,329,38,1138,133
 47,0683,Värnamo,,Värnamo,366,36,1264,126
 48,0683,Värnamo,,Värnamo,390,24,1348,84
+49,0683,Värnamo,,Värnamo,422,32,1458,110
 6,0883,Västervik,,Västervik,0,0,0,0
 7,0883,Västervik,,Västervik,0,0,0,0
 8,0883,Västervik,,Västervik,0,0,0,0
@@ -12641,6 +12934,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0883,Västervik,,Västervik,86,21,317,78
 47,0883,Västervik,,Västervik,117,31,430,113
 48,0883,Västervik,,Västervik,164,46,600,170
+49,0883,Västervik,,Västervik,201,38,738,138
 6,1980,Västerås,,Västerås,0,0,0,0
 7,1980,Västerås,,Västerås,0,0,0,0
 8,1980,Västerås,,Västerås,0,0,0,0
@@ -12684,6 +12978,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1980,Västerås,,Västerås,242,43,3730,668
 47,1980,Västerås,,Västerås,294,51,4522,792
 48,1980,Västerås,,Västerås,350,57,5394,872
+49,1980,Västerås,,Västerås,408,58,6280,886
 6,0780,Växjö,,Växjö,0,0,0,0
 7,0780,Växjö,,Växjö,0,0,0,0
 8,0780,Växjö,,Växjö,0,0,0,0
@@ -12727,6 +13022,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0780,Växjö,,Växjö,201,43,1888,405
 47,0780,Växjö,,Växjö,235,35,2216,328
 48,0780,Växjö,,Växjö,272,37,2560,344
+49,0780,Växjö,,Växjö,303,31,2855,295
 6,1442,Vårgårda,,Vårgårda,0,0,0,0
 7,1442,Vårgårda,,Vårgårda,0,0,0,0
 8,1442,Vårgårda,,Vårgårda,0,0,0,0
@@ -12770,6 +13066,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1442,Vårgårda,,Vårgårda,171,31,202,37
 47,1442,Vårgårda,,Vårgårda,194,23,229,27
 48,1442,Vårgårda,,Vårgårda,218,25,258,29
+49,1442,Vårgårda,,Vårgårda,245,26,289,31
 6,0512,Ydre,,Ydre,0,0,0,0
 7,0512,Ydre,,Ydre,0,0,0,0
 8,0512,Ydre,,Ydre,0,0,0,0
@@ -12813,6 +13110,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0512,Ydre,,Ydre,91,19,34,7
 47,0512,Ydre,,Ydre,107,16,40,6
 48,0512,Ydre,,Ydre,120,13,45,5
+49,0512,Ydre,,Ydre,136,16,51,6
 6,1286,Ystad,,Ystad,0,0,0,0
 7,1286,Ystad,,Ystad,0,0,0,0
 8,1286,Ystad,,Ystad,0,0,0,0
@@ -12856,6 +13154,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1286,Ystad,,Ystad,98,34,298,105
 47,1286,Ystad,,Ystad,122,25,374,76
 48,1286,Ystad,,Ystad,149,27,456,82
+49,1286,Ystad,,Ystad,180,31,551,95
 6,0765,Älmhult,,Älmhult,0,0,0,0
 7,0765,Älmhult,,Älmhult,0,0,0,0
 8,0765,Älmhult,,Älmhult,0,0,0,0
@@ -12899,6 +13198,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0765,Älmhult,,Älmhult,244,30,431,53
 47,0765,Älmhult,,Älmhult,259,15,458,27
 48,0765,Älmhult,,Älmhult,287,27,506,48
+49,0765,Älmhult,,Älmhult,316,29,557,51
 6,2039,Älvdalen,,Älvdalen,0,0,0,0
 7,2039,Älvdalen,,Älvdalen,0,0,0,0
 8,2039,Älvdalen,,Älvdalen,0,0,0,0
@@ -12942,6 +13242,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2039,Älvdalen,,Älvdalen,77,21,54,15
 47,2039,Älvdalen,,Älvdalen,108,31,76,22
 48,2039,Älvdalen,,Älvdalen,139,31,98,22
+49,2039,Älvdalen,,Älvdalen,166,27,117,19
 6,0319,Älvkarleby,,Älvkarleby,0,0,0,0
 7,0319,Älvkarleby,,Älvkarleby,0,0,0,0
 8,0319,Älvkarleby,,Älvkarleby,0,0,0,0
@@ -12985,6 +13286,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0319,Älvkarleby,,Älvkarleby,196,32,185,30
 47,0319,Älvkarleby,,Älvkarleby,219,23,207,22
 48,0319,Älvkarleby,,Älvkarleby,237,18,224,17
+49,0319,Älvkarleby,,Älvkarleby,260,23,246,22
 6,2560,Älvsbyn,,Älvsbyn,0,0,0,0
 7,2560,Älvsbyn,,Älvsbyn,0,0,0,0
 8,2560,Älvsbyn,,Älvsbyn,0,0,0,0
@@ -13028,6 +13330,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2560,Älvsbyn,,Älvsbyn,61,33,49,27
 47,2560,Älvsbyn,,Älvsbyn,145,84,117,68
 48,2560,Älvsbyn,,Älvsbyn,262,117,211,94
+49,2560,Älvsbyn,,Älvsbyn,304,42,245,34
 6,1292,Ängelholm,,Ängelholm,0,0,0,0
 7,1292,Ängelholm,,Ängelholm,0,0,0,0
 8,1292,Ängelholm,,Ängelholm,0,0,0,0
@@ -13071,6 +13374,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1292,Ängelholm,,Ängelholm,190,58,809,246
 47,1292,Ängelholm,,Ängelholm,229,39,973,164
 48,1292,Ängelholm,,Ängelholm,259,30,1102,129
+49,1292,Ängelholm,,Ängelholm,291,32,1238,136
 6,1492,Åmål,,Åmål,0,0,0,0
 7,1492,Åmål,,Åmål,0,0,0,0
 8,1492,Åmål,,Åmål,0,0,0,0
@@ -13114,6 +13418,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1492,Åmål,,Åmål,109,22,138,28
 47,1492,Åmål,,Åmål,129,20,163,25
 48,1492,Åmål,,Åmål,148,19,187,24
+49,1492,Åmål,,Åmål,174,26,220,33
 6,2260,Ånge,,Ånge,0,0,0,0
 7,2260,Ånge,,Ånge,0,0,0,0
 8,2260,Ånge,,Ånge,0,0,0,0
@@ -13157,6 +13462,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2260,Ånge,,Ånge,109,28,102,26
 47,2260,Ånge,,Ånge,146,36,136,34
 48,2260,Ånge,,Ånge,195,49,182,46
+49,2260,Ånge,,Ånge,247,52,230,48
 6,2321,Åre,,Åre,0,0,0,0
 7,2321,Åre,,Åre,0,0,0,0
 8,2321,Åre,,Åre,0,0,0,0
@@ -13200,6 +13506,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2321,Åre,,Åre,192,20,225,23
 47,2321,Åre,,Åre,234,42,274,49
 48,2321,Åre,,Åre,260,26,305,31
+49,2321,Åre,,Åre,285,25,334,29
 6,1765,Årjäng,,Årjäng,0,0,0,0
 7,1765,Årjäng,,Årjäng,0,0,0,0
 8,1765,Årjäng,,Årjäng,0,0,0,0
@@ -13243,6 +13550,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1765,Årjäng,,Årjäng,43,5,43,5
 47,1765,Årjäng,,Årjäng,66,23,66,23
 48,1765,Årjäng,,Årjäng,142,76,143,77
+49,1765,Årjäng,,Årjäng,212,70,213,70
 6,2463,Åsele,,Åsele,0,0,0,0
 7,2463,Åsele,,Åsele,0,0,0,0
 8,2463,Åsele,,Åsele,0,0,0,0
@@ -13286,6 +13594,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2463,Åsele,,Åsele,,,<15,<15
 47,2463,Åsele,,Åsele,72,21,20,6
 48,2463,Åsele,,Åsele,72,0,20,0
+49,2463,Åsele,,Åsele,86,14,24,4
 6,1277,Åstorp,,Åstorp,0,0,0,0
 7,1277,Åstorp,,Åstorp,0,0,0,0
 8,1277,Åstorp,,Åstorp,0,0,0,0
@@ -13329,6 +13638,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1277,Åstorp,,Åstorp,104,33,165,52
 47,1277,Åstorp,,Åstorp,141,38,225,60
 48,1277,Åstorp,,Åstorp,185,44,295,70
+49,1277,Åstorp,,Åstorp,250,65,399,104
 6,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
 7,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
 8,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
@@ -13372,6 +13682,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0561,Åtvidaberg,,Åtvidaberg,130,8,150,9
 47,0561,Åtvidaberg,,Åtvidaberg,137,7,158,8
 48,0561,Åtvidaberg,,Åtvidaberg,143,6,165,7
+49,0561,Åtvidaberg,,Åtvidaberg,158,15,182,17
 6,1407,Öckerö,,Öckerö,0,0,0,0
 7,1407,Öckerö,,Öckerö,0,0,0,0
 8,1407,Öckerö,,Öckerö,0,0,0,0
@@ -13415,6 +13726,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1407,Öckerö,,Öckerö,183,18,236,23
 47,1407,Öckerö,,Öckerö,201,18,259,23
 48,1407,Öckerö,,Öckerö,220,19,284,25
+49,1407,Öckerö,,Öckerö,235,15,303,19
 6,0509,Ödeshög,,Ödeshög,0,0,0,0
 7,0509,Ödeshög,,Ödeshög,0,0,0,0
 8,0509,Ödeshög,,Ödeshög,0,0,0,0
@@ -13458,6 +13770,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0509,Ödeshög,,Ödeshög,84,11,45,6
 47,0509,Ödeshög,,Ödeshög,96,11,51,6
 48,0509,Ödeshög,,Ödeshög,105,9,56,5
+49,0509,Ödeshög,,Ödeshög,107,2,57,1
 6,1880,Örebro,,Örebro,0,0,0,0
 7,1880,Örebro,,Örebro,0,0,0,0
 8,1880,Örebro,,Örebro,0,0,0,0
@@ -13500,7 +13813,8 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 45,1880,Örebro,,Örebro,269,51,4188,797
 46,1880,Örebro,,Örebro,318,49,4951,763
 47,1880,Örebro,,Örebro,364,46,5660,709
-48,1880,Örebro,,Örebro,399,35,6212,552
+48,1880,Örebro,,Örebro,399,35,6211,551
+49,1880,Örebro,,Örebro,426,27,6638,427
 6,1257,Örkelljunga,,Örkelljunga,0,0,0,0
 7,1257,Örkelljunga,,Örkelljunga,0,0,0,0
 8,1257,Örkelljunga,,Örkelljunga,0,0,0,0
@@ -13544,6 +13858,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1257,Örkelljunga,,Örkelljunga,68,25,70,26
 47,1257,Örkelljunga,,Örkelljunga,95,27,98,28
 48,1257,Örkelljunga,,Örkelljunga,125,30,129,31
+49,1257,Örkelljunga,,Örkelljunga,174,49,179,50
 6,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
 7,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
 8,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
@@ -13587,6 +13902,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2284,Örnsköldsvik,,Örnsköldsvik,57,10,320,55
 47,2284,Örnsköldsvik,,Örnsköldsvik,79,22,442,122
 48,2284,Örnsköldsvik,,Örnsköldsvik,108,29,607,165
+49,2284,Örnsköldsvik,,Örnsköldsvik,141,33,789,182
 6,2380,Östersund,,Östersund,0,0,0,0
 7,2380,Östersund,,Östersund,0,0,0,0
 8,2380,Östersund,,Östersund,0,0,0,0
@@ -13630,6 +13946,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2380,Östersund,,Östersund,186,31,1189,200
 47,2380,Östersund,,Östersund,230,43,1465,276
 48,2380,Östersund,,Östersund,264,34,1682,217
+49,2380,Östersund,,Östersund,288,25,1839,157
 6,0117,Österåker,,Österåker,0,0,0,0
 7,0117,Österåker,,Österåker,0,0,0,0
 8,0117,Österåker,,Österåker,0,0,0,0
@@ -13673,6 +13990,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0117,Österåker,,Österåker,199,42,908,192
 47,0117,Österåker,,Österåker,235,35,1069,161
 48,0117,Österåker,,Österåker,274,39,1248,179
+49,0117,Österåker,,Österåker,317,43,1444,196
 6,0382,Östhammar,,Östhammar,0,0,0,0
 7,0382,Östhammar,,Östhammar,0,0,0,0
 8,0382,Östhammar,,Östhammar,0,0,0,0
@@ -13716,6 +14034,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,0382,Östhammar,,Östhammar,144,25,321,55
 47,0382,Östhammar,,Östhammar,176,31,391,70
 48,0382,Östhammar,,Östhammar,202,26,449,58
+49,0382,Östhammar,,Östhammar,224,22,499,50
 6,1256,Östra Göinge,,Östra Göinge,0,0,0,0
 7,1256,Östra Göinge,,Östra Göinge,0,0,0,0
 8,1256,Östra Göinge,,Östra Göinge,0,0,0,0
@@ -13759,6 +14078,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,1256,Östra Göinge,,Östra Göinge,149,27,224,41
 47,1256,Östra Göinge,,Östra Göinge,167,17,250,26
 48,1256,Östra Göinge,,Östra Göinge,204,37,306,56
+49,1256,Östra Göinge,,Östra Göinge,260,56,390,84
 6,2513,Överkalix,,Överkalix,0,0,0,0
 7,2513,Överkalix,,Överkalix,0,0,0,0
 8,2513,Överkalix,,Överkalix,0,0,0,0
@@ -13802,6 +14122,7 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2513,Överkalix,,Överkalix,54,12,18,4
 47,2513,Överkalix,,Överkalix,54,0,18,0
 48,2513,Överkalix,,Överkalix,57,3,19,1
+49,2513,Överkalix,,Överkalix,66,9,22,3
 6,2518,Övertorneå,,Övertorneå,0,0,0,0
 7,2518,Övertorneå,,Övertorneå,0,0,0,0
 8,2518,Övertorneå,,Övertorneå,0,0,0,0
@@ -13845,3 +14166,4 @@ veckonummer,KnKod,KnNamn,Stadsdel,Kommun_stadsdel,tot_antal_fall_per10000inv,ant
 46,2518,Övertorneå,,Övertorneå,79,14,34,6
 47,2518,Övertorneå,,Övertorneå,93,14,40,6
 48,2518,Övertorneå,,Övertorneå,98,5,42,2
+49,2518,Övertorneå,,Övertorneå,105,7,45,3
