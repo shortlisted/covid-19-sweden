@@ -1,12 +1,12 @@
-Åldersgrupp,Totalt_antal_fall,Totalt_antal_intensivvårdade,Totalt_antal_avlidna,,
-Ålder_0_9,10342,22,7,,
-Ålder_10_19,66883,36,3,,
-Ålder_20_29,113422,145,18,,
-Ålder_30_39,113722,203,33,,
-Ålder_40_49,116270,494,82,,
-Ålder_50_59,106423,1117,269,,
-Ålder_60_69,56203,1471,738,,
-Ålder_70_79,27610,1315,2679,,
-Ålder_80_89,21036,336,5350,,
-Ålder_90_plus,10119,7,3534,,
-Uppgift saknas,69,0,0,,
+Åldersgrupp,Totalt_antal_fall,Totalt_antal_intensivvårdade,Totalt_antal_avlidna
+Ålder_0_9,10501,22,7
+Ålder_10_19,67630,36,3
+Ålder_20_29,114247,145,18
+Ålder_30_39,114738,204,34
+Ålder_40_49,117386,495,84
+Ålder_50_59,107301,1122,272
+Ålder_60_69,56602,1478,743
+Ålder_70_79,27746,1320,2696
+Ålder_80_89,21114,337,5388
+Ålder_90_plus,10137,7,3548
+Uppgift saknas,68,0,0
