@@ -1,22 +1,22 @@
-Region,Totalt_antal_fall,Fall_per_100000_inv,Totalt_antal_intensivvårdade,Totalt_antal_avlidna,
-Blekinge,7774,4871,35,113,
-Dalarna,14214,4936,101,303,
-Gotland,2661,4458,24,45,
-Gävleborg,20052,6977,154,487,
-Halland,22021,6596,105,258,
-Jämtland Härjedalen,6445,4927,47,113,
-Jönköping,25149,6917,229,495,
-Kalmar,10711,4364,62,207,
-Kronoberg,13486,6694,82,285,
-Norrbotten,11436,4573,117,214,
-Skåne,106493,7729,459,1506,
-Stockholm,148324,6240,1543,3840,
-Sörmland,12573,4226,224,395,
-Uppsala,23266,6063,244,476,
-Värmland,8622,3053,68,163,
-Västerbotten,12988,4780,78,125,
-Västernorrland,14388,5864,112,393,
-Västmanland,17738,6430,89,317,
-Västra Götaland,109509,6345,951,2036,
-Örebro,17333,5687,136,285,
-Östergötland,21839,4692,219,542,
+Region,Totalt_antal_fall,Fall_per_100000_inv,Totalt_antal_intensivvårdade,Totalt_antal_avlidna
+Blekinge,7797,4885,35,113
+Dalarna,14292,4963,101,303
+Gotland,2664,4463,24,45
+Gävleborg,20286,7059,154,487
+Halland,22211,6653,105,262
+Jämtland Härjedalen,6485,4958,47,113
+Jönköping,25319,6963,230,498
+Kalmar,10801,4401,62,207
+Kronoberg,13547,6724,82,286
+Norrbotten,11640,4654,120,216
+Skåne,107075,7771,459,1506
+Stockholm,149331,6282,1543,3851
+Sörmland,12638,4247,225,395
+Uppsala,23408,6100,245,476
+Värmland,8700,3081,68,163
+Västerbotten,13205,4859,81,127
+Västernorrland,14450,5890,112,393
+Västmanland,17817,6459,89,324
+Västra Götaland,110128,6381,958,2053
+Örebro,17384,5703,136,285
+Östergötland,21988,4724,219,546
