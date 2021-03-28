@@ -57,6 +57,7 @@
 2021,3,1440,Ale,,Ale,609,29,1912,90
 2021,4,1440,Ale,,Ale,645,36,2026,114
 2021,5,1440,Ale,,Ale,689,44,2165,139
+2021,6,1440,Ale,,Ale,742,53,2330,165
 2020,1,1489,Alingsås,,Alingsås,0,0,0,0
 2020,2,1489,Alingsås,,Alingsås,0,0,0,0
 2020,3,1489,Alingsås,,Alingsås,0,0,0,0
@@ -115,6 +116,7 @@
 2021,3,1489,Alingsås,,Alingsås,556,18,2302,74
 2021,4,1489,Alingsås,,Alingsås,571,15,2365,63
 2021,5,1489,Alingsås,,Alingsås,582,11,2412,47
+2021,6,1489,Alingsås,,Alingsås,597,14,2471,59
 2020,1,0764,Alvesta,,Alvesta,0,0,0,0
 2020,2,0764,Alvesta,,Alvesta,0,0,0,0
 2020,3,0764,Alvesta,,Alvesta,0,0,0,0
@@ -173,6 +175,7 @@
 2021,3,0764,Alvesta,,Alvesta,553,21,1114,42
 2021,4,0764,Alvesta,,Alvesta,569,16,1146,32
 2021,5,0764,Alvesta,,Alvesta,576,7,1160,14
+2021,6,0764,Alvesta,,Alvesta,593,17,1194,34
 2020,1,0604,Aneby,,Aneby,0,0,0,0
 2020,2,0604,Aneby,,Aneby,0,0,0,0
 2020,3,0604,Aneby,,Aneby,0,0,0,0
@@ -231,6 +234,7 @@
 2021,3,0604,Aneby,,Aneby,482,13,330,9
 2021,4,0604,Aneby,,Aneby,505,23,346,16
 2021,5,0604,Aneby,,Aneby,521,16,357,11
+2021,6,0604,Aneby,,Aneby,532,10,364,7
 2020,1,1984,Arboga,,Arboga,0,0,0,0
 2020,2,1984,Arboga,,Arboga,0,0,0,0
 2020,3,1984,Arboga,,Arboga,0,0,0,0
@@ -289,6 +293,7 @@
 2021,3,1984,Arboga,,Arboga,417,9,587,12
 2021,4,1984,Arboga,,Arboga,429,13,605,18
 2021,5,1984,Arboga,,Arboga,441,11,621,16
+2021,6,1984,Arboga,,Arboga,451,11,636,15
 2020,1,2506,Arjeplog,,Arjeplog,0,0,0,0
 2020,2,2506,Arjeplog,,Arjeplog,0,0,0,0
 2020,3,2506,Arjeplog,,Arjeplog,0,0,0,0
@@ -347,6 +352,7 @@
 2021,3,2506,Arjeplog,,Arjeplog,144,50,40,14
 2021,4,2506,Arjeplog,,Arjeplog,180,36,50,10
 2021,5,2506,Arjeplog,,Arjeplog,223,43,62,12
+2021,6,2506,Arjeplog,,Arjeplog,255,32,71,9
 2020,1,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
 2020,2,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
 2020,3,2505,Arvidsjaur,,Arvidsjaur,0,0,0,0
@@ -405,6 +411,7 @@
 2021,3,2505,Arvidsjaur,,Arvidsjaur,111,14,69,9
 2021,4,2505,Arvidsjaur,,Arvidsjaur,140,29,87,18
 2021,5,2505,Arvidsjaur,,Arvidsjaur,156,16,97,10
+2021,6,2505,Arvidsjaur,,Arvidsjaur,170,14,106,9
 2020,1,1784,Arvika,,Arvika,0,0,0,0
 2020,2,1784,Arvika,,Arvika,0,0,0,0
 2020,3,1784,Arvika,,Arvika,0,0,0,0
@@ -463,6 +470,7 @@
 2021,3,1784,Arvika,,Arvika,273,16,712,41
 2021,4,1784,Arvika,,Arvika,287,13,747,35
 2021,5,1784,Arvika,,Arvika,310,23,807,60
+2021,6,1784,Arvika,,Arvika,323,13,842,35
 2020,1,1882,Askersund,,Askersund,0,0,0,0
 2020,2,1882,Askersund,,Askersund,0,0,0,0
 2020,3,1882,Askersund,,Askersund,0,0,0,0
@@ -521,6 +529,7 @@
 2021,3,1882,Askersund,,Askersund,272,17,310,19
 2021,4,1882,Askersund,,Askersund,287,14,326,16
 2021,5,1882,Askersund,,Askersund,294,8,335,9
+2021,6,1882,Askersund,,Askersund,309,14,351,16
 2020,1,2084,Avesta,,Avesta,0,0,0,0
 2020,2,2084,Avesta,,Avesta,0,0,0,0
 2020,3,2084,Avesta,,Avesta,0,0,0,0
@@ -579,6 +588,7 @@
 2021,3,2084,Avesta,,Avesta,523,11,1213,26
 2021,4,2084,Avesta,,Avesta,530,6,1228,15
 2021,5,2084,Avesta,,Avesta,535,5,1239,11
+2021,6,2084,Avesta,,Avesta,538,4,1248,9
 2020,1,1460,Bengtsfors,,Bengtsfors,0,0,0,0
 2020,2,1460,Bengtsfors,,Bengtsfors,0,0,0,0
 2020,3,1460,Bengtsfors,,Bengtsfors,0,0,0,0
@@ -637,6 +647,7 @@
 2021,3,1460,Bengtsfors,,Bengtsfors,472,40,460,39
 2021,4,1460,Bengtsfors,,Bengtsfors,489,17,477,17
 2021,5,1460,Bengtsfors,,Bengtsfors,507,17,494,17
+2021,6,1460,Bengtsfors,,Bengtsfors,520,13,507,13
 2020,1,2326,Berg,,Berg,0,0,0,0
 2020,2,2326,Berg,,Berg,0,0,0,0
 2020,3,2326,Berg,,Berg,0,0,0,0
@@ -695,6 +706,7 @@
 2021,3,2326,Berg,,Berg,313,31,221,22
 2021,4,2326,Berg,,Berg,334,21,236,15
 2021,5,2326,Berg,,Berg,382,48,270,34
+2021,6,2326,Berg,,Berg,405,23,286,16
 2020,1,2403,Bjurholm,,Bjurholm,0,0,0,0
 2020,2,2403,Bjurholm,,Bjurholm,0,0,0,0
 2020,3,2403,Bjurholm,,Bjurholm,0,0,0,0
@@ -753,6 +765,7 @@
 2021,3,2403,Bjurholm,,Bjurholm,71,12,17,3
 2021,4,2403,Bjurholm,,Bjurholm,112,42,27,10
 2021,5,2403,Bjurholm,,Bjurholm,133,21,32,5
+2021,6,2403,Bjurholm,,Bjurholm,150,17,36,4
 2020,1,1260,Bjuv,,Bjuv,0,0,0,0
 2020,2,1260,Bjuv,,Bjuv,0,0,0,0
 2020,3,1260,Bjuv,,Bjuv,0,0,0,0
@@ -811,6 +824,7 @@
 2021,3,1260,Bjuv,,Bjuv,788,43,1239,67
 2021,4,1260,Bjuv,,Bjuv,811,23,1275,36
 2021,5,1260,Bjuv,,Bjuv,828,17,1301,26
+2021,6,1260,Bjuv,,Bjuv,857,29,1347,46
 2020,1,2582,Boden,,Boden,0,0,0,0
 2020,2,2582,Boden,,Boden,0,0,0,0
 2020,3,2582,Boden,,Boden,0,0,0,0
@@ -869,6 +883,7 @@
 2021,3,2582,Boden,,Boden,470,19,1319,52
 2021,4,2582,Boden,,Boden,483,13,1356,37
 2021,5,2582,Boden,,Boden,493,10,1385,29
+2021,6,2582,Boden,,Boden,508,15,1426,41
 2020,1,1443,Bollebygd,,Bollebygd,0,0,0,0
 2020,2,1443,Bollebygd,,Bollebygd,0,0,0,0
 2020,3,1443,Bollebygd,,Bollebygd,0,0,0,0
@@ -927,6 +942,7 @@
 2021,3,1443,Bollebygd,,Bollebygd,543,29,516,28
 2021,4,1443,Bollebygd,,Bollebygd,579,36,550,34
 2021,5,1443,Bollebygd,,Bollebygd,600,21,570,20
+2021,6,1443,Bollebygd,,Bollebygd,609,8,578,8
 2020,1,2183,Bollnäs,,Bollnäs,0,0,0,0
 2020,2,2183,Bollnäs,,Bollnäs,0,0,0,0
 2020,3,2183,Bollnäs,,Bollnäs,0,0,0,0
@@ -985,6 +1001,7 @@
 2021,3,2183,Bollnäs,,Bollnäs,577,22,1552,58
 2021,4,2183,Bollnäs,,Bollnäs,595,17,1599,47
 2021,5,2183,Bollnäs,,Bollnäs,620,25,1667,68
+2021,6,2183,Bollnäs,,Bollnäs,636,16,1711,44
 2020,1,0885,Borgholm,,Borgholm,0,0,0,0
 2020,2,0885,Borgholm,,Borgholm,0,0,0,0
 2020,3,0885,Borgholm,,Borgholm,0,0,0,0
@@ -1043,6 +1060,7 @@
 2021,3,0885,Borgholm,,Borgholm,256,5,277,5
 2021,4,0885,Borgholm,,Borgholm,261,6,283,6
 2021,5,0885,Borgholm,,Borgholm,265,4,287,4
+2021,6,0885,Borgholm,,Borgholm,266,1,288,1
 2020,1,2081,Borlänge,,Borlänge,0,0,0,0
 2020,2,2081,Borlänge,,Borlänge,0,0,0,0
 2020,3,2081,Borlänge,,Borlänge,0,0,0,0
@@ -1101,6 +1119,7 @@
 2021,3,2081,Borlänge,,Borlänge,348,10,1828,53
 2021,4,2081,Borlänge,,Borlänge,355,8,1869,41
 2021,5,2081,Borlänge,,Borlänge,361,6,1899,30
+2021,6,2081,Borlänge,,Borlänge,369,7,1938,39
 2020,1,1490,Borås,,Borås,0,0,0,0
 2020,2,1490,Borås,,Borås,0,0,0,0
 2020,3,1490,Borås,,Borås,0,0,0,0
@@ -1159,6 +1178,7 @@
 2021,3,1490,Borås,,Borås,607,25,6866,278
 2021,4,1490,Borås,,Borås,630,23,7125,259
 2021,5,1490,Borås,,Borås,650,20,7354,229
+2021,6,1490,Borås,,Borås,671,21,7596,242
 2020,1,0127,Botkyrka,,Botkyrka,0,0,0,0
 2020,2,0127,Botkyrka,,Botkyrka,0,0,0,0
 2020,3,0127,Botkyrka,,Botkyrka,0,0,0,0
@@ -1217,6 +1237,7 @@
 2021,3,0127,Botkyrka,,Botkyrka,581,15,5499,144
 2021,4,0127,Botkyrka,,Botkyrka,600,18,5672,173
 2021,5,0127,Botkyrka,,Botkyrka,616,16,5823,151
+2021,6,0127,Botkyrka,,Botkyrka,630,14,5958,135
 2020,1,0560,Boxholm,,Boxholm,0,0,0,0
 2020,2,0560,Boxholm,,Boxholm,0,0,0,0
 2020,3,0560,Boxholm,,Boxholm,0,0,0,0
@@ -1275,6 +1296,7 @@
 2021,3,0560,Boxholm,,Boxholm,298,24,163,13
 2021,4,0560,Boxholm,,Boxholm,316,18,173,10
 2021,5,0560,Boxholm,,Boxholm,329,13,180,7
+2021,6,0560,Boxholm,,Boxholm,351,22,192,12
 2020,1,1272,Bromölla,,Bromölla,0,0,0,0
 2020,2,1272,Bromölla,,Bromölla,0,0,0,0
 2020,3,1272,Bromölla,,Bromölla,0,0,0,0
@@ -1333,6 +1355,7 @@
 2021,3,1272,Bromölla,,Bromölla,399,26,513,33
 2021,4,1272,Bromölla,,Bromölla,423,25,545,32
 2021,5,1272,Bromölla,,Bromölla,460,37,592,47
+2021,6,1272,Bromölla,,Bromölla,471,11,606,14
 2020,1,2305,Bräcke,,Bräcke,0,0,0,0
 2020,2,2305,Bräcke,,Bräcke,0,0,0,0
 2020,3,2305,Bräcke,,Bräcke,0,0,0,0
@@ -1391,6 +1414,7 @@
 2021,3,2305,Bräcke,,Bräcke,570,29,359,18
 2021,4,2305,Bräcke,,Bräcke,583,13,367,8
 2021,5,2305,Bräcke,,Bräcke,591,8,372,5
+2021,6,2305,Bräcke,,Bräcke,595,5,375,3
 2020,1,1231,Burlöv,,Burlöv,0,0,0,0
 2020,2,1231,Burlöv,,Burlöv,0,0,0,0
 2020,3,1231,Burlöv,,Burlöv,0,0,0,0
@@ -1434,21 +1458,22 @@
 2020,41,1231,Burlöv,,Burlöv,59,4,112,8
 2020,42,1231,Burlöv,,Burlöv,67,9,129,17
 2020,43,1231,Burlöv,,Burlöv,88,20,168,39
-2020,44,1231,Burlöv,,Burlöv,108,20,207,39
-2020,45,1231,Burlöv,,Burlöv,129,20,246,39
-2020,46,1231,Burlöv,,Burlöv,168,40,322,76
-2020,47,1231,Burlöv,,Burlöv,197,29,377,55
-2020,48,1231,Burlöv,,Burlöv,242,45,463,86
-2020,49,1231,Burlöv,,Burlöv,290,48,554,91
-2020,50,1231,Burlöv,,Burlöv,375,85,716,162
-2020,51,1231,Burlöv,,Burlöv,447,73,855,139
-2020,52,1231,Burlöv,,Burlöv,522,75,998,143
-2020,53,1231,Burlöv,,Burlöv,611,89,1168,170
-2021,1,1231,Burlöv,,Burlöv,682,71,1303,135
-2021,2,1231,Burlöv,,Burlöv,752,71,1438,135
-2021,3,1231,Burlöv,,Burlöv,814,61,1555,117
-2021,4,1231,Burlöv,,Burlöv,855,41,1634,79
-2021,5,1231,Burlöv,,Burlöv,888,33,1698,64
+2020,44,1231,Burlöv,,Burlöv,108,20,206,38
+2020,45,1231,Burlöv,,Burlöv,128,20,245,39
+2020,46,1231,Burlöv,,Burlöv,168,40,321,76
+2020,47,1231,Burlöv,,Burlöv,197,29,376,55
+2020,48,1231,Burlöv,,Burlöv,242,45,462,86
+2020,49,1231,Burlöv,,Burlöv,289,48,553,91
+2020,50,1231,Burlöv,,Burlöv,374,85,715,162
+2020,51,1231,Burlöv,,Burlöv,447,73,854,139
+2020,52,1231,Burlöv,,Burlöv,522,75,997,143
+2020,53,1231,Burlöv,,Burlöv,611,89,1167,170
+2021,1,1231,Burlöv,,Burlöv,681,71,1302,135
+2021,2,1231,Burlöv,,Burlöv,752,71,1437,135
+2021,3,1231,Burlöv,,Burlöv,813,61,1554,117
+2021,4,1231,Burlöv,,Burlöv,854,41,1633,79
+2021,5,1231,Burlöv,,Burlöv,888,33,1697,64
+2021,6,1231,Burlöv,,Burlöv,913,25,1745,48
 2020,1,1278,Båstad,,Båstad,0,0,0,0
 2020,2,1278,Båstad,,Båstad,0,0,0,0
 2020,3,1278,Båstad,,Båstad,0,0,0,0
@@ -1507,6 +1532,7 @@
 2021,3,1278,Båstad,,Båstad,560,30,847,46
 2021,4,1278,Båstad,,Båstad,573,13,867,20
 2021,5,1278,Båstad,,Båstad,592,19,896,29
+2021,6,1278,Båstad,,Båstad,609,17,922,26
 2020,1,1438,Dals-Ed,,Dals-Ed,0,0,0,0
 2020,2,1438,Dals-Ed,,Dals-Ed,0,0,0,0
 2020,3,1438,Dals-Ed,,Dals-Ed,0,0,0,0
@@ -1565,6 +1591,7 @@
 2021,3,1438,Dals-Ed,,Dals-Ed,364,15,175,7
 2021,4,1438,Dals-Ed,,Dals-Ed,370,6,178,3
 2021,5,1438,Dals-Ed,,Dals-Ed,380,10,183,5
+2021,6,1438,Dals-Ed,,Dals-Ed,389,8,187,4
 2020,1,0162,Danderyd,,Danderyd,0,0,0,0
 2020,2,0162,Danderyd,,Danderyd,0,0,0,0
 2020,3,0162,Danderyd,,Danderyd,0,0,0,0
@@ -1623,6 +1650,7 @@
 2021,3,0162,Danderyd,,Danderyd,571,20,1877,66
 2021,4,0162,Danderyd,,Danderyd,584,13,1919,42
 2021,5,0162,Danderyd,,Danderyd,595,11,1955,36
+2021,6,0162,Danderyd,,Danderyd,613,18,2014,59
 2020,1,1862,Degerfors,,Degerfors,0,0,0,0
 2020,2,1862,Degerfors,,Degerfors,0,0,0,0
 2020,3,1862,Degerfors,,Degerfors,0,0,0,0
@@ -1681,6 +1709,7 @@
 2021,3,1862,Degerfors,,Degerfors,438,8,423,8
 2021,4,1862,Degerfors,,Degerfors,443,5,428,5
 2021,5,1862,Degerfors,,Degerfors,450,7,435,7
+2021,6,1862,Degerfors,,Degerfors,457,7,442,7
 2020,1,2425,Dorotea,,Dorotea,0,0,0,0
 2020,2,2425,Dorotea,,Dorotea,0,0,0,0
 2020,3,2425,Dorotea,,Dorotea,0,0,0,0
@@ -1739,6 +1768,7 @@
 2021,3,2425,Dorotea,,Dorotea,192,8,49,2
 2021,4,2425,Dorotea,,Dorotea,192,0,49,0
 2021,5,2425,Dorotea,,Dorotea,196,4,50,1
+2021,6,2425,Dorotea,,Dorotea,196,0,50,0
 2020,1,1730,Eda,,Eda,0,0,0,0
 2020,2,1730,Eda,,Eda,0,0,0,0
 2020,3,1730,Eda,,Eda,0,0,0,0
@@ -1797,6 +1827,7 @@
 2021,3,1730,Eda,,Eda,180,9,154,8
 2021,4,1730,Eda,,Eda,194,14,166,12
 2021,5,1730,Eda,,Eda,207,13,177,11
+2021,6,1730,Eda,,Eda,224,18,192,15
 2020,1,0125,Ekerö,,Ekerö,0,0,0,0
 2020,2,0125,Ekerö,,Ekerö,0,0,0,0
 2020,3,0125,Ekerö,,Ekerö,0,0,0,0
@@ -1855,6 +1886,7 @@
 2021,3,0125,Ekerö,,Ekerö,519,14,1489,39
 2021,4,0125,Ekerö,,Ekerö,528,9,1515,26
 2021,5,0125,Ekerö,,Ekerö,532,4,1526,11
+2021,6,0125,Ekerö,,Ekerö,540,8,1550,24
 2020,1,0686,Eksjö,,Eksjö,0,0,0,0
 2020,2,0686,Eksjö,,Eksjö,0,0,0,0
 2020,3,0686,Eksjö,,Eksjö,0,0,0,0
@@ -1913,6 +1945,7 @@
 2021,3,0686,Eksjö,,Eksjö,744,25,1320,45
 2021,4,0686,Eksjö,,Eksjö,770,26,1367,47
 2021,5,0686,Eksjö,,Eksjö,791,21,1405,38
+2021,6,0686,Eksjö,,Eksjö,815,23,1446,41
 2020,1,0862,Emmaboda,,Emmaboda,0,0,0,0
 2020,2,0862,Emmaboda,,Emmaboda,0,0,0,0
 2020,3,0862,Emmaboda,,Emmaboda,0,0,0,0
@@ -1971,6 +2004,7 @@
 2021,3,0862,Emmaboda,,Emmaboda,293,11,277,10
 2021,4,0862,Emmaboda,,Emmaboda,299,5,282,5
 2021,5,0862,Emmaboda,,Emmaboda,305,6,288,6
+2021,6,0862,Emmaboda,,Emmaboda,319,14,301,13
 2020,1,0381,Enköping,,Enköping,0,0,0,0
 2020,2,0381,Enköping,,Enköping,0,0,0,0
 2020,3,0381,Enköping,,Enköping,0,0,0,0
@@ -2029,6 +2063,7 @@
 2021,3,0381,Enköping,,Enköping,620,15,2806,66
 2021,4,0381,Enköping,,Enköping,639,20,2896,90
 2021,5,0381,Enköping,,Enköping,658,18,2979,83
+2021,6,0381,Enköping,,Enköping,676,18,3062,83
 2020,1,0484,Eskilstuna,,Eskilstuna,0,0,0,0
 2020,2,0484,Eskilstuna,,Eskilstuna,0,0,0,0
 2020,3,0484,Eskilstuna,,Eskilstuna,0,0,0,0
@@ -2087,6 +2122,7 @@
 2021,3,0484,Eskilstuna,,Eskilstuna,482,16,5153,174
 2021,4,0484,Eskilstuna,,Eskilstuna,493,11,5272,119
 2021,5,0484,Eskilstuna,,Eskilstuna,506,12,5404,132
+2021,6,0484,Eskilstuna,,Eskilstuna,518,12,5534,130
 2020,1,1285,Eslöv,,Eslöv,0,0,0,0
 2020,2,1285,Eslöv,,Eslöv,0,0,0,0
 2020,3,1285,Eslöv,,Eslöv,0,0,0,0
@@ -2145,6 +2181,7 @@
 2021,3,1285,Eslöv,,Eslöv,545,40,1843,135
 2021,4,1285,Eslöv,,Eslöv,578,33,1953,110
 2021,5,1285,Eslöv,,Eslöv,606,28,2048,95
+2021,6,1285,Eslöv,,Eslöv,625,19,2113,65
 2020,1,1445,Essunga,,Essunga,0,0,0,0
 2020,2,1445,Essunga,,Essunga,0,0,0,0
 2020,3,1445,Essunga,,Essunga,0,0,0,0
@@ -2203,6 +2240,7 @@
 2021,3,1445,Essunga,,Essunga,274,12,155,7
 2021,4,1445,Essunga,,Essunga,283,9,160,5
 2021,5,1445,Essunga,,Essunga,299,16,169,9
+2021,6,1445,Essunga,,Essunga,308,9,174,5
 2020,1,1982,Fagersta,,Fagersta,0,0,0,0
 2020,2,1982,Fagersta,,Fagersta,0,0,0,0
 2020,3,1982,Fagersta,,Fagersta,0,0,0,0
@@ -2261,6 +2299,7 @@
 2021,3,1982,Fagersta,,Fagersta,512,15,685,20
 2021,4,1982,Fagersta,,Fagersta,524,13,702,17
 2021,5,1982,Fagersta,,Fagersta,538,13,720,18
+2021,6,1982,Fagersta,,Fagersta,552,14,739,19
 2020,1,1382,Falkenberg,,Falkenberg,0,0,0,0
 2020,2,1382,Falkenberg,,Falkenberg,0,0,0,0
 2020,3,1382,Falkenberg,,Falkenberg,0,0,0,0
@@ -2319,6 +2358,7 @@
 2021,3,1382,Falkenberg,,Falkenberg,395,29,1791,133
 2021,4,1382,Falkenberg,,Falkenberg,417,22,1892,101
 2021,5,1382,Falkenberg,,Falkenberg,445,28,2017,125
+2021,6,1382,Falkenberg,,Falkenberg,480,36,2179,162
 2020,1,1499,Falköping,,Falköping,0,0,0,0
 2020,2,1499,Falköping,,Falköping,0,0,0,0
 2020,3,1499,Falköping,,Falköping,0,0,0,0
@@ -2377,6 +2417,7 @@
 2021,3,1499,Falköping,,Falköping,554,22,1843,73
 2021,4,1499,Falköping,,Falköping,580,25,1927,84
 2021,5,1499,Falköping,,Falköping,596,17,1982,55
+2021,6,1499,Falköping,,Falköping,606,10,2014,32
 2020,1,2080,Falun,,Falun,0,0,0,0
 2020,2,2080,Falun,,Falun,0,0,0,0
 2020,3,2080,Falun,,Falun,0,0,0,0
@@ -2435,6 +2476,7 @@
 2021,3,2080,Falun,,Falun,488,18,2900,105
 2021,4,2080,Falun,,Falun,500,11,2968,68
 2021,5,2080,Falun,,Falun,510,10,3030,62
+2021,6,2080,Falun,,Falun,517,7,3072,42
 2020,1,1782,Filipstad,,Filipstad,0,0,0,0
 2020,2,1782,Filipstad,,Filipstad,0,0,0,0
 2020,3,1782,Filipstad,,Filipstad,0,0,0,0
@@ -2493,6 +2535,7 @@
 2021,3,1782,Filipstad,,Filipstad,267,4,284,4
 2021,4,1782,Filipstad,,Filipstad,271,4,288,4
 2021,5,1782,Filipstad,,Filipstad,275,5,293,5
+2021,6,1782,Filipstad,,Filipstad,281,6,299,6
 2020,1,0562,Finspång,,Finspång,0,0,0,0
 2020,2,0562,Finspång,,Finspång,0,0,0,0
 2020,3,0562,Finspång,,Finspång,0,0,0,0
@@ -2551,6 +2594,7 @@
 2021,3,0562,Finspång,,Finspång,276,15,605,33
 2021,4,0562,Finspång,,Finspång,295,19,647,42
 2021,5,0562,Finspång,,Finspång,301,6,660,13
+2021,6,0562,Finspång,,Finspång,306,5,670,10
 2020,1,0482,Flen,,Flen,0,0,0,0
 2020,2,0482,Flen,,Flen,0,0,0,0
 2020,3,0482,Flen,,Flen,0,0,0,0
@@ -2609,6 +2653,7 @@
 2021,3,0482,Flen,,Flen,244,5,404,9
 2021,4,0482,Flen,,Flen,253,9,419,15
 2021,5,0482,Flen,,Flen,262,10,435,16
+2021,6,0482,Flen,,Flen,283,21,470,35
 2020,1,1763,Forshaga,,Forshaga,0,0,0,0
 2020,2,1763,Forshaga,,Forshaga,0,0,0,0
 2020,3,1763,Forshaga,,Forshaga,0,0,0,0
@@ -2667,6 +2712,7 @@
 2021,3,1763,Forshaga,,Forshaga,235,4,270,5
 2021,4,1763,Forshaga,,Forshaga,240,5,276,6
 2021,5,1763,Forshaga,,Forshaga,251,11,289,13
+2021,6,1763,Forshaga,,Forshaga,260,9,299,10
 2020,1,1439,Färgelanda,,Färgelanda,0,0,0,0
 2020,2,1439,Färgelanda,,Färgelanda,0,0,0,0
 2020,3,1439,Färgelanda,,Färgelanda,0,0,0,0
@@ -2725,6 +2771,7 @@
 2021,3,1439,Färgelanda,,Färgelanda,469,36,311,24
 2021,4,1439,Färgelanda,,Färgelanda,485,17,322,11
 2021,5,1439,Färgelanda,,Färgelanda,523,38,347,25
+2021,6,1439,Färgelanda,,Färgelanda,532,9,353,6
 2020,1,2026,Gagnef,,Gagnef,0,0,0,0
 2020,2,2026,Gagnef,,Gagnef,0,0,0,0
 2020,3,2026,Gagnef,,Gagnef,0,0,0,0
@@ -2783,6 +2830,7 @@
 2021,3,2026,Gagnef,,Gagnef,374,12,385,12
 2021,4,2026,Gagnef,,Gagnef,380,7,392,7
 2021,5,2026,Gagnef,,Gagnef,383,3,395,3
+2021,6,2026,Gagnef,,Gagnef,387,4,399,4
 2020,1,0662,Gislaved,,Gislaved,0,0,0,0
 2020,2,0662,Gislaved,,Gislaved,0,0,0,0
 2020,3,0662,Gislaved,,Gislaved,0,0,0,0
@@ -2841,6 +2889,7 @@
 2021,3,0662,Gislaved,,Gislaved,604,24,1811,71
 2021,4,0662,Gislaved,,Gislaved,634,30,1900,89
 2021,5,0662,Gislaved,,Gislaved,657,23,1969,69
+2021,6,0662,Gislaved,,Gislaved,687,30,2059,90
 2020,1,0461,Gnesta,,Gnesta,0,0,0,0
 2020,2,0461,Gnesta,,Gnesta,0,0,0,0
 2020,3,0461,Gnesta,,Gnesta,0,0,0,0
@@ -2899,6 +2948,7 @@
 2021,3,0461,Gnesta,,Gnesta,370,18,421,20
 2021,4,0461,Gnesta,,Gnesta,387,17,440,19
 2021,5,0461,Gnesta,,Gnesta,400,13,455,15
+2021,6,0461,Gnesta,,Gnesta,411,11,467,12
 2020,1,0617,Gnosjö,,Gnosjö,0,0,0,0
 2020,2,0617,Gnosjö,,Gnosjö,0,0,0,0
 2020,3,0617,Gnosjö,,Gnosjö,0,0,0,0
@@ -2957,6 +3007,7 @@
 2021,3,0617,Gnosjö,,Gnosjö,579,12,562,12
 2021,4,0617,Gnosjö,,Gnosjö,596,18,579,17
 2021,5,0617,Gnosjö,,Gnosjö,606,10,589,10
+2021,6,0617,Gnosjö,,Gnosjö,625,19,607,18
 2020,1,0980,Gotland,,Gotland,0,0,0,0
 2020,2,0980,Gotland,,Gotland,0,0,0,0
 2020,3,0980,Gotland,,Gotland,0,0,0,0
@@ -3010,11 +3061,12 @@
 2020,51,0980,Gotland,,Gotland,326,33,1945,199
 2020,52,0980,Gotland,,Gotland,345,19,2061,116
 2020,53,0980,Gotland,,Gotland,363,17,2165,104
-2021,1,0980,Gotland,,Gotland,384,21,2292,127
-2021,2,0980,Gotland,,Gotland,398,14,2375,83
-2021,3,0980,Gotland,,Gotland,407,9,2430,55
-2021,4,0980,Gotland,,Gotland,413,6,2465,35
-2021,5,0980,Gotland,,Gotland,417,4,2488,23
+2021,1,0980,Gotland,,Gotland,384,21,2290,125
+2021,2,0980,Gotland,,Gotland,398,14,2373,83
+2021,3,0980,Gotland,,Gotland,407,9,2428,55
+2021,4,0980,Gotland,,Gotland,413,6,2463,35
+2021,5,0980,Gotland,,Gotland,417,4,2486,23
+2021,6,0980,Gotland,,Gotland,422,5,2517,31
 2020,1,1764,Grums,,Grums,0,0,0,0
 2020,2,1764,Grums,,Grums,0,0,0,0
 2020,3,1764,Grums,,Grums,0,0,0,0
@@ -3073,6 +3125,7 @@
 2021,3,1764,Grums,,Grums,264,3,239,3
 2021,4,1764,Grums,,Grums,273,9,247,8
 2021,5,1764,Grums,,Grums,281,8,254,7
+2021,6,1764,Grums,,Grums,298,18,270,16
 2020,1,1444,Grästorp,,Grästorp,0,0,0,0
 2020,2,1444,Grästorp,,Grästorp,0,0,0,0
 2020,3,1444,Grästorp,,Grästorp,0,0,0,0
@@ -3131,6 +3184,7 @@
 2021,3,1444,Grästorp,,Grästorp,490,12,279,7
 2021,4,1444,Grästorp,,Grästorp,502,12,286,7
 2021,5,1444,Grästorp,,Grästorp,511,9,291,5
+2021,6,1444,Grästorp,,Grästorp,516,5,294,3
 2020,1,1447,Gullspång,,Gullspång,0,0,0,0
 2020,2,1447,Gullspång,,Gullspång,0,0,0,0
 2020,3,1447,Gullspång,,Gullspång,0,0,0,0
@@ -3189,6 +3243,7 @@
 2021,3,1447,Gullspång,,Gullspång,305,15,161,8
 2021,4,1447,Gullspång,,Gullspång,348,44,184,23
 2021,5,1447,Gullspång,,Gullspång,407,59,215,31
+2021,6,1447,Gullspång,,Gullspång,430,23,227,12
 2020,1,2523,Gällivare,,Gällivare,0,0,0,0
 2020,2,2523,Gällivare,,Gällivare,0,0,0,0
 2020,3,2523,Gällivare,,Gällivare,0,0,0,0
@@ -3247,6 +3302,7 @@
 2021,3,2523,Gällivare,,Gällivare,468,21,821,36
 2021,4,2523,Gällivare,,Gällivare,475,6,832,11
 2021,5,2523,Gällivare,,Gällivare,485,11,851,19
+2021,6,2523,Gällivare,,Gällivare,501,15,878,27
 2020,1,2180,Gävle,,Gävle,0,0,0,0
 2020,2,2180,Gävle,,Gävle,0,0,0,0
 2020,3,2180,Gävle,,Gävle,0,0,0,0
@@ -3305,6 +3361,7 @@
 2021,3,2180,Gävle,,Gävle,625,22,6399,221
 2021,4,2180,Gävle,,Gävle,644,19,6598,199
 2021,5,2180,Gävle,,Gävle,669,25,6855,257
+2021,6,2180,Gävle,,Gävle,703,33,7197,342
 2020,1,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
 2020,2,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
 2020,3,1480,Göteborg,Angered,Göteborg Angered,0,0,0,0
@@ -3363,6 +3420,7 @@
 2021,3,1480,Göteborg,Angered,Göteborg Angered,655,27,3561,145
 2021,4,1480,Göteborg,Angered,Göteborg Angered,682,26,3705,144
 2021,5,1480,Göteborg,Angered,Göteborg Angered,710,29,3862,157
+2021,6,1480,Göteborg,Angered,Göteborg Angered,740,30,4025,163
 2020,1,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
 2020,2,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
 2020,3,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
@@ -3421,6 +3479,7 @@
 2021,3,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,603,28,3860,180
 2021,4,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,630,27,4036,176
 2021,5,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,654,24,4188,152
+2021,6,1480,Göteborg,Askim-Frölunda-Högsbo,Göteborg Askim-Frölunda-Högsbo,682,28,4369,181
 2020,1,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
 2020,2,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
 2020,3,1480,Göteborg,Centrum,Göteborg Centrum,0,0,0,0
@@ -3479,6 +3538,7 @@
 2021,3,1480,Göteborg,Centrum,Göteborg Centrum,599,27,3847,171
 2021,4,1480,Göteborg,Centrum,Göteborg Centrum,625,25,4009,162
 2021,5,1480,Göteborg,Centrum,Göteborg Centrum,646,22,4147,138
+2021,6,1480,Göteborg,Centrum,Göteborg Centrum,669,22,4291,144
 2020,1,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
 2020,2,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
 2020,3,1480,Göteborg,Lundby,Göteborg Lundby,0,0,0,0
@@ -3537,6 +3597,7 @@
 2021,3,1480,Göteborg,Lundby,Göteborg Lundby,613,33,3379,180
 2021,4,1480,Göteborg,Lundby,Göteborg Lundby,647,34,3566,187
 2021,5,1480,Göteborg,Lundby,Göteborg Lundby,669,22,3686,120
+2021,6,1480,Göteborg,Lundby,Göteborg Lundby,703,34,3873,187
 2020,1,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
 2020,2,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
 2020,3,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,0,0,0,0
@@ -3595,6 +3656,7 @@
 2021,3,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,631,26,4055,166
 2021,4,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,656,25,4216,161
 2021,5,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,681,26,4380,164
+2021,6,1480,Göteborg,Majorna-Linné,Göteborg Majorna-Linné,709,28,4559,179
 2020,1,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
 2020,2,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
 2020,3,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,0,0,0,0
@@ -3653,6 +3715,7 @@
 2021,3,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,657,28,3404,144
 2021,4,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,689,33,3574,170
 2021,5,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,724,34,3752,178
+2021,6,1480,Göteborg,Norra Hisingen,Göteborg Norra Hisingen,766,42,3971,219
 2020,1,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
 2020,2,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
 2020,3,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,0,0,0,0
@@ -3711,6 +3774,7 @@
 2021,3,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,656,24,3535,128
 2021,4,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,682,26,3674,139
 2021,5,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,711,29,3831,157
+2021,6,1480,Göteborg,Västra Göteborg,Göteborg Västra Göteborg,751,40,4046,215
 2020,1,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
 2020,2,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
 2020,3,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,0,0,0,0
@@ -3769,6 +3833,7 @@
 2021,3,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,601,29,3436,164
 2021,4,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,636,35,3638,202
 2021,5,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,663,26,3789,151
+2021,6,1480,Göteborg,Västra Hisingen,Göteborg Västra Hisingen,694,31,3967,178
 2020,1,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
 2020,2,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
 2020,3,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,0,0,0,0
@@ -3826,7 +3891,8 @@
 2021,2,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,648,37,3976,226
 2021,3,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,674,26,4134,158
 2021,4,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,697,23,4272,138
-2021,5,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,719,22,4407,135
+2021,5,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,718,22,4406,134
+2021,6,1480,Göteborg,Örgryte-Härlanda,Göteborg Örgryte-Härlanda,744,25,4560,154
 2020,1,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
 2020,2,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
 2020,3,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,0,0,0,0
@@ -3884,7 +3950,8 @@
 2021,2,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,586,44,3034,227
 2021,3,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,615,29,3183,149
 2021,4,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,644,29,3332,149
-2021,5,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,670,26,3467,135
+2021,5,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,670,26,3466,134
+2021,6,1480,Göteborg,Östra Göteborg,Göteborg Östra Göteborg,704,34,3643,177
 2020,1,1471,Götene,,Götene,0,0,0,0
 2020,2,1471,Götene,,Götene,0,0,0,0
 2020,3,1471,Götene,,Götene,0,0,0,0
@@ -3943,6 +4010,7 @@
 2021,3,1471,Götene,,Götene,303,20,400,26
 2021,4,1471,Götene,,Götene,322,19,425,25
 2021,5,1471,Götene,,Götene,347,25,458,33
+2021,6,1471,Götene,,Götene,377,30,498,40
 2020,1,0643,Habo,,Habo,0,0,0,0
 2020,2,0643,Habo,,Habo,0,0,0,0
 2020,3,0643,Habo,,Habo,0,0,0,0
@@ -4001,6 +4069,7 @@
 2021,3,0643,Habo,,Habo,417,22,518,27
 2021,4,0643,Habo,,Habo,431,14,536,18
 2021,5,0643,Habo,,Habo,438,6,544,8
+2021,6,0643,Habo,,Habo,450,12,559,15
 2020,1,1783,Hagfors,,Hagfors,0,0,0,0
 2020,2,1783,Hagfors,,Hagfors,0,0,0,0
 2020,3,1783,Hagfors,,Hagfors,0,0,0,0
@@ -4059,6 +4128,7 @@
 2021,3,1783,Hagfors,,Hagfors,289,1,335,1
 2021,4,1783,Hagfors,,Hagfors,292,3,339,4
 2021,5,1783,Hagfors,,Hagfors,296,4,344,5
+2021,6,1783,Hagfors,,Hagfors,301,4,349,5
 2020,1,1861,Hallsberg,,Hallsberg,0,0,0,0
 2020,2,1861,Hallsberg,,Hallsberg,0,0,0,0
 2020,3,1861,Hallsberg,,Hallsberg,0,0,0,0
@@ -4117,6 +4187,7 @@
 2021,3,1861,Hallsberg,,Hallsberg,497,24,792,38
 2021,4,1861,Hallsberg,,Hallsberg,511,14,814,22
 2021,5,1861,Hallsberg,,Hallsberg,518,7,825,11
+2021,6,1861,Hallsberg,,Hallsberg,527,9,840,15
 2020,1,1961,Hallstahammar,,Hallstahammar,0,0,0,0
 2020,2,1961,Hallstahammar,,Hallstahammar,0,0,0,0
 2020,3,1961,Hallstahammar,,Hallstahammar,0,0,0,0
@@ -4175,6 +4246,7 @@
 2021,3,1961,Hallstahammar,,Hallstahammar,538,26,880,43
 2021,4,1961,Hallstahammar,,Hallstahammar,562,23,918,38
 2021,5,1961,Hallstahammar,,Hallstahammar,579,17,946,28
+2021,6,1961,Hallstahammar,,Hallstahammar,589,10,963,17
 2020,1,1380,Halmstad,,Halmstad,0,0,0,0
 2020,2,1380,Halmstad,,Halmstad,0,0,0,0
 2020,3,1380,Halmstad,,Halmstad,0,0,0,0
@@ -4233,6 +4305,7 @@
 2021,3,1380,Halmstad,,Halmstad,606,49,6232,500
 2021,4,1380,Halmstad,,Halmstad,652,45,6696,464
 2021,5,1380,Halmstad,,Halmstad,691,39,7097,401
+2021,6,1380,Halmstad,,Halmstad,733,43,7535,438
 2020,1,1761,Hammarö,,Hammarö,0,0,0,0
 2020,2,1761,Hammarö,,Hammarö,0,0,0,0
 2020,3,1761,Hammarö,,Hammarö,0,0,0,0
@@ -4291,6 +4364,7 @@
 2021,3,1761,Hammarö,,Hammarö,210,10,348,16
 2021,4,1761,Hammarö,,Hammarö,215,5,357,9
 2021,5,1761,Hammarö,,Hammarö,229,14,380,23
+2021,6,1761,Hammarö,,Hammarö,245,16,406,26
 2020,1,0136,Haninge,,Haninge,0,0,0,0
 2020,2,0136,Haninge,,Haninge,0,0,0,0
 2020,3,0136,Haninge,,Haninge,0,0,0,0
@@ -4349,6 +4423,7 @@
 2021,3,0136,Haninge,,Haninge,538,11,4953,98
 2021,4,0136,Haninge,,Haninge,549,11,5053,100
 2021,5,0136,Haninge,,Haninge,562,13,5175,122
+2021,6,0136,Haninge,,Haninge,580,18,5345,170
 2020,1,2583,Haparanda,,Haparanda,0,0,0,0
 2020,2,2583,Haparanda,,Haparanda,0,0,0,0
 2020,3,2583,Haparanda,,Haparanda,0,0,0,0
@@ -4407,6 +4482,7 @@
 2021,3,2583,Haparanda,,Haparanda,401,67,388,65
 2021,4,2583,Haparanda,,Haparanda,446,45,432,44
 2021,5,2583,Haparanda,,Haparanda,481,35,466,34
+2021,6,2583,Haparanda,,Haparanda,503,22,487,21
 2020,1,0331,Heby,,Heby,0,0,0,0
 2020,2,0331,Heby,,Heby,0,0,0,0
 2020,3,0331,Heby,,Heby,0,0,0,0
@@ -4465,6 +4541,7 @@
 2021,3,0331,Heby,,Heby,394,14,554,20
 2021,4,0331,Heby,,Heby,406,12,571,17
 2021,5,0331,Heby,,Heby,412,6,579,8
+2021,6,0331,Heby,,Heby,424,11,595,16
 2020,1,2083,Hedemora,,Hedemora,0,0,0,0
 2020,2,2083,Hedemora,,Hedemora,0,0,0,0
 2020,3,2083,Hedemora,,Hedemora,0,0,0,0
@@ -4523,6 +4600,7 @@
 2021,3,2083,Hedemora,,Hedemora,433,13,671,20
 2021,4,2083,Hedemora,,Hedemora,442,9,685,14
 2021,5,2083,Hedemora,,Hedemora,448,6,694,9
+2021,6,2083,Hedemora,,Hedemora,456,8,707,13
 2020,1,1283,Helsingborg,,Helsingborg,0,0,0,0
 2020,2,1283,Helsingborg,,Helsingborg,0,0,0,0
 2020,3,1283,Helsingborg,,Helsingborg,0,0,0,0
@@ -4581,6 +4659,7 @@
 2021,3,1283,Helsingborg,,Helsingborg,860,39,12698,569
 2021,4,1283,Helsingborg,,Helsingborg,891,32,13169,471
 2021,5,1283,Helsingborg,,Helsingborg,920,28,13587,418
+2021,6,1283,Helsingborg,,Helsingborg,943,23,13932,345
 2020,1,1466,Herrljunga,,Herrljunga,0,0,0,0
 2020,2,1466,Herrljunga,,Herrljunga,0,0,0,0
 2020,3,1466,Herrljunga,,Herrljunga,0,0,0,0
@@ -4639,6 +4718,7 @@
 2021,3,1466,Herrljunga,,Herrljunga,390,14,369,13
 2021,4,1466,Herrljunga,,Herrljunga,398,8,377,8
 2021,5,1466,Herrljunga,,Herrljunga,418,20,396,19
+2021,6,1466,Herrljunga,,Herrljunga,430,12,407,11
 2020,1,1497,Hjo,,Hjo,0,0,0,0
 2020,2,1497,Hjo,,Hjo,0,0,0,0
 2020,3,1497,Hjo,,Hjo,0,0,0,0
@@ -4697,6 +4777,7 @@
 2021,3,1497,Hjo,,Hjo,315,17,290,16
 2021,4,1497,Hjo,,Hjo,338,23,311,21
 2021,5,1497,Hjo,,Hjo,353,15,325,14
+2021,6,1497,Hjo,,Hjo,364,11,335,10
 2020,1,2104,Hofors,,Hofors,0,0,0,0
 2020,2,2104,Hofors,,Hofors,0,0,0,0
 2020,3,2104,Hofors,,Hofors,0,0,0,0
@@ -4755,6 +4836,7 @@
 2021,3,2104,Hofors,,Hofors,661,8,634,8
 2021,4,2104,Hofors,,Hofors,676,15,648,14
 2021,5,2104,Hofors,,Hofors,679,3,651,3
+2021,6,2104,Hofors,,Hofors,686,7,658,7
 2020,1,0126,Huddinge,,Huddinge,0,0,0,0
 2020,2,0126,Huddinge,,Huddinge,0,0,0,0
 2020,3,0126,Huddinge,,Huddinge,0,0,0,0
@@ -4813,6 +4895,7 @@
 2021,3,0126,Huddinge,,Huddinge,609,18,6868,203
 2021,4,0126,Huddinge,,Huddinge,626,18,7066,198
 2021,5,0126,Huddinge,,Huddinge,642,16,7243,177
+2021,6,0126,Huddinge,,Huddinge,663,21,7484,241
 2020,1,2184,Hudiksvall,,Hudiksvall,0,0,0,0
 2020,2,2184,Hudiksvall,,Hudiksvall,0,0,0,0
 2020,3,2184,Hudiksvall,,Hudiksvall,0,0,0,0
@@ -4871,6 +4954,7 @@
 2021,3,2184,Hudiksvall,,Hudiksvall,605,5,2275,19
 2021,4,2184,Hudiksvall,,Hudiksvall,614,9,2310,35
 2021,5,2184,Hudiksvall,,Hudiksvall,626,12,2354,44
+2021,6,2184,Hudiksvall,,Hudiksvall,639,13,2404,50
 2020,1,0860,Hultsfred,,Hultsfred,0,0,0,0
 2020,2,0860,Hultsfred,,Hultsfred,0,0,0,0
 2020,3,0860,Hultsfred,,Hultsfred,0,0,0,0
@@ -4929,6 +5013,7 @@
 2021,3,0860,Hultsfred,,Hultsfred,496,15,705,22
 2021,4,0860,Hultsfred,,Hultsfred,497,1,707,2
 2021,5,0860,Hultsfred,,Hultsfred,500,3,711,4
+2021,6,0860,Hultsfred,,Hultsfred,501,1,712,1
 2020,1,1315,Hylte,,Hylte,0,0,0,0
 2020,2,1315,Hylte,,Hylte,0,0,0,0
 2020,3,1315,Hylte,,Hylte,0,0,0,0
@@ -4987,6 +5072,7 @@
 2021,3,1315,Hylte,,Hylte,436,30,471,32
 2021,4,1315,Hylte,,Hylte,467,31,505,34
 2021,5,1315,Hylte,,Hylte,497,30,537,32
+2021,6,1315,Hylte,,Hylte,538,42,582,45
 2020,1,1863,Hällefors,,Hällefors,0,0,0,0
 2020,2,1863,Hällefors,,Hällefors,0,0,0,0
 2020,3,1863,Hällefors,,Hällefors,0,0,0,0
@@ -5045,6 +5131,7 @@
 2021,3,1863,Hällefors,,Hällefors,389,73,273,51
 2021,4,1863,Hällefors,,Hällefors,442,53,310,37
 2021,5,1863,Hällefors,,Hällefors,488,46,342,32
+2021,6,1863,Hällefors,,Hällefors,526,38,369,27
 2020,1,2361,Härjedalen,,Härjedalen,0,0,0,0
 2020,2,2361,Härjedalen,,Härjedalen,0,0,0,0
 2020,3,2361,Härjedalen,,Härjedalen,0,0,0,0
@@ -5103,6 +5190,7 @@
 2021,3,2361,Härjedalen,,Härjedalen,318,4,321,4
 2021,4,2361,Härjedalen,,Härjedalen,330,12,333,12
 2021,5,2361,Härjedalen,,Härjedalen,355,25,358,25
+2021,6,2361,Härjedalen,,Härjedalen,364,9,367,9
 2020,1,2280,Härnösand,,Härnösand,0,0,0,0
 2020,2,2280,Härnösand,,Härnösand,0,0,0,0
 2020,3,2280,Härnösand,,Härnösand,0,0,0,0
@@ -5161,6 +5249,7 @@
 2021,3,2280,Härnösand,,Härnösand,420,13,1058,33
 2021,4,2280,Härnösand,,Härnösand,429,9,1081,23
 2021,5,2280,Härnösand,,Härnösand,436,7,1098,17
+2021,6,2280,Härnösand,,Härnösand,448,12,1129,31
 2020,1,1401,Härryda,,Härryda,0,0,0,0
 2020,2,1401,Härryda,,Härryda,0,0,0,0
 2020,3,1401,Härryda,,Härryda,0,0,0,0
@@ -5219,6 +5308,7 @@
 2021,3,1401,Härryda,,Härryda,567,21,2153,78
 2021,4,1401,Härryda,,Härryda,583,16,2215,62
 2021,5,1401,Härryda,,Härryda,607,23,2304,89
+2021,6,1401,Härryda,,Härryda,665,58,2526,222
 2020,1,1293,Hässleholm,,Hässleholm,0,0,0,0
 2020,2,1293,Hässleholm,,Hässleholm,0,0,0,0
 2020,3,1293,Hässleholm,,Hässleholm,0,0,0,0
@@ -5276,7 +5366,8 @@
 2021,2,1293,Hässleholm,,Hässleholm,461,45,2403,237
 2021,3,1293,Hässleholm,,Hässleholm,509,49,2656,253
 2021,4,1293,Hässleholm,,Hässleholm,549,40,2862,206
-2021,5,1293,Hässleholm,,Hässleholm,589,40,3073,211
+2021,5,1293,Hässleholm,,Hässleholm,590,41,3074,212
+2021,6,1293,Hässleholm,,Hässleholm,627,37,3267,193
 2020,1,0305,Håbo,,Håbo,0,0,0,0
 2020,2,0305,Håbo,,Håbo,0,0,0,0
 2020,3,0305,Håbo,,Håbo,0,0,0,0
@@ -5335,6 +5426,7 @@
 2021,3,0305,Håbo,,Håbo,565,22,1240,48
 2021,4,0305,Håbo,,Håbo,580,15,1272,32
 2021,5,0305,Håbo,,Håbo,599,19,1313,41
+2021,6,0305,Håbo,,Håbo,622,23,1364,51
 2020,1,1284,Höganäs,,Höganäs,0,0,0,0
 2020,2,1284,Höganäs,,Höganäs,0,0,0,0
 2020,3,1284,Höganäs,,Höganäs,0,0,0,0
@@ -5393,6 +5485,7 @@
 2021,3,1284,Höganäs,,Höganäs,608,44,1639,119
 2021,4,1284,Höganäs,,Höganäs,641,33,1727,88
 2021,5,1284,Höganäs,,Höganäs,666,24,1793,66
+2021,6,1284,Höganäs,,Höganäs,690,25,1860,67
 2020,1,0821,Högsby,,Högsby,0,0,0,0
 2020,2,0821,Högsby,,Högsby,0,0,0,0
 2020,3,0821,Högsby,,Högsby,0,0,0,0
@@ -5451,6 +5544,7 @@
 2021,3,0821,Högsby,,Högsby,326,19,193,11
 2021,4,0821,Högsby,,Högsby,338,12,200,7
 2021,5,0821,Högsby,,Högsby,338,0,200,0
+2021,6,0821,Högsby,,Högsby,343,5,203,3
 2020,1,1266,Hörby,,Hörby,0,0,0,0
 2020,2,1266,Hörby,,Hörby,0,0,0,0
 2020,3,1266,Hörby,,Hörby,0,0,0,0
@@ -5509,6 +5603,7 @@
 2021,3,1266,Hörby,,Hörby,537,21,840,33
 2021,4,1266,Hörby,,Hörby,553,15,864,24
 2021,5,1266,Hörby,,Hörby,565,12,883,19
+2021,6,1266,Hörby,,Hörby,574,9,897,14
 2020,1,1267,Höör,,Höör,0,0,0,0
 2020,2,1267,Höör,,Höör,0,0,0,0
 2020,3,1267,Höör,,Höör,0,0,0,0
@@ -5567,6 +5662,7 @@
 2021,3,1267,Höör,,Höör,443,45,741,75
 2021,4,1267,Höör,,Höör,479,35,800,59
 2021,5,1267,Höör,,Höör,501,22,837,37
+2021,6,1267,Höör,,Höör,515,14,860,23
 2020,1,2510,Jokkmokk,,Jokkmokk,0,0,0,0
 2020,2,2510,Jokkmokk,,Jokkmokk,0,0,0,0
 2020,3,2510,Jokkmokk,,Jokkmokk,0,0,0,0
@@ -5625,6 +5721,7 @@
 2021,3,2510,Jokkmokk,,Jokkmokk,284,18,140,9
 2021,4,2510,Jokkmokk,,Jokkmokk,286,2,141,1
 2021,5,2510,Jokkmokk,,Jokkmokk,286,0,141,0
+2021,6,2510,Jokkmokk,,Jokkmokk,293,6,144,3
 2020,1,0123,Järfälla,,Järfälla,0,0,0,0
 2020,2,0123,Järfälla,,Järfälla,0,0,0,0
 2020,3,0123,Järfälla,,Järfälla,0,0,0,0
@@ -5683,6 +5780,7 @@
 2021,3,0123,Järfälla,,Järfälla,532,16,4258,128
 2021,4,0123,Järfälla,,Järfälla,550,18,4401,143
 2021,5,0123,Järfälla,,Järfälla,565,15,4521,120
+2021,6,0123,Järfälla,,Järfälla,582,17,4657,136
 2020,1,0680,Jönköping,,Jönköping,0,0,0,0
 2020,2,0680,Jönköping,,Jönköping,0,0,0,0
 2020,3,0680,Jönköping,,Jönköping,0,0,0,0
@@ -5741,6 +5839,7 @@
 2021,3,0680,Jönköping,,Jönköping,568,24,8008,338
 2021,4,0680,Jönköping,,Jönköping,592,24,8352,344
 2021,5,0680,Jönköping,,Jönköping,619,27,8739,387
+2021,6,0680,Jönköping,,Jönköping,648,28,9140,401
 2020,1,2514,Kalix,,Kalix,0,0,0,0
 2020,2,2514,Kalix,,Kalix,0,0,0,0
 2020,3,2514,Kalix,,Kalix,0,0,0,0
@@ -5799,6 +5898,7 @@
 2021,3,2514,Kalix,,Kalix,353,42,561,66
 2021,4,2514,Kalix,,Kalix,404,51,642,81
 2021,5,2514,Kalix,,Kalix,437,33,694,52
+2021,6,2514,Kalix,,Kalix,458,21,727,33
 2020,1,0880,Kalmar,,Kalmar,0,0,0,0
 2020,2,0880,Kalmar,,Kalmar,0,0,0,0
 2020,3,0880,Kalmar,,Kalmar,0,0,0,0
@@ -5857,6 +5957,7 @@
 2021,3,0880,Kalmar,,Kalmar,425,31,2954,215
 2021,4,0880,Kalmar,,Kalmar,448,22,3110,156
 2021,5,0880,Kalmar,,Kalmar,469,22,3261,151
+2021,6,0880,Kalmar,,Kalmar,482,13,3348,87
 2020,1,1446,Karlsborg,,Karlsborg,0,0,0,0
 2020,2,1446,Karlsborg,,Karlsborg,0,0,0,0
 2020,3,1446,Karlsborg,,Karlsborg,0,0,0,0
@@ -5915,6 +6016,7 @@
 2021,3,1446,Karlsborg,,Karlsborg,493,10,342,7
 2021,4,1446,Karlsborg,,Karlsborg,499,6,346,4
 2021,5,1446,Karlsborg,,Karlsborg,509,10,353,7
+2021,6,1446,Karlsborg,,Karlsborg,519,10,360,7
 2020,1,1082,Karlshamn,,Karlshamn,0,0,0,0
 2020,2,1082,Karlshamn,,Karlshamn,0,0,0,0
 2020,3,1082,Karlshamn,,Karlshamn,0,0,0,0
@@ -5973,6 +6075,7 @@
 2021,3,1082,Karlshamn,,Karlshamn,367,26,1192,84
 2021,4,1082,Karlshamn,,Karlshamn,385,18,1249,57
 2021,5,1082,Karlshamn,,Karlshamn,407,23,1323,74
+2021,6,1082,Karlshamn,,Karlshamn,424,17,1378,55
 2020,1,1883,Karlskoga,,Karlskoga,0,0,0,0
 2020,2,1883,Karlskoga,,Karlskoga,0,0,0,0
 2020,3,1883,Karlskoga,,Karlskoga,0,0,0,0
@@ -6031,6 +6134,7 @@
 2021,3,1883,Karlskoga,,Karlskoga,388,11,1180,33
 2021,4,1883,Karlskoga,,Karlskoga,394,6,1197,17
 2021,5,1883,Karlskoga,,Karlskoga,404,10,1227,30
+2021,6,1883,Karlskoga,,Karlskoga,413,9,1254,27
 2020,1,1080,Karlskrona,,Karlskrona,0,0,0,0
 2020,2,1080,Karlskrona,,Karlskrona,0,0,0,0
 2020,3,1080,Karlskrona,,Karlskrona,0,0,0,0
@@ -6089,6 +6193,7 @@
 2021,3,1080,Karlskrona,,Karlskrona,491,24,3268,157
 2021,4,1080,Karlskrona,,Karlskrona,499,9,3326,58
 2021,5,1080,Karlskrona,,Karlskrona,507,8,3380,54
+2021,6,1080,Karlskrona,,Karlskrona,513,6,3421,41
 2020,1,1780,Karlstad,,Karlstad,0,0,0,0
 2020,2,1780,Karlstad,,Karlstad,0,0,0,0
 2020,3,1780,Karlstad,,Karlstad,0,0,0,0
@@ -6147,6 +6252,7 @@
 2021,3,1780,Karlstad,,Karlstad,302,12,2840,108
 2021,4,1780,Karlstad,,Karlstad,313,10,2937,97
 2021,5,1780,Karlstad,,Karlstad,325,12,3051,114
+2021,6,1780,Karlstad,,Karlstad,340,15,3194,143
 2020,1,0483,Katrineholm,,Katrineholm,0,0,0,0
 2020,2,0483,Katrineholm,,Katrineholm,0,0,0,0
 2020,3,0483,Katrineholm,,Katrineholm,0,0,0,0
@@ -6198,13 +6304,14 @@
 2020,49,0483,Katrineholm,,Katrineholm,144,3,502,11
 2020,50,0483,Katrineholm,,Katrineholm,149,4,517,15
 2020,51,0483,Katrineholm,,Katrineholm,155,7,540,23
-2020,52,0483,Katrineholm,,Katrineholm,167,11,579,39
-2020,53,0483,Katrineholm,,Katrineholm,182,16,633,54
-2021,1,0483,Katrineholm,,Katrineholm,201,19,698,65
-2021,2,0483,Katrineholm,,Katrineholm,210,9,731,33
-2021,3,0483,Katrineholm,,Katrineholm,222,12,771,40
-2021,4,0483,Katrineholm,,Katrineholm,234,12,814,43
-2021,5,0483,Katrineholm,,Katrineholm,243,9,845,31
+2020,52,0483,Katrineholm,,Katrineholm,166,11,578,38
+2020,53,0483,Katrineholm,,Katrineholm,182,16,632,54
+2021,1,0483,Katrineholm,,Katrineholm,201,19,697,65
+2021,2,0483,Katrineholm,,Katrineholm,210,9,730,33
+2021,3,0483,Katrineholm,,Katrineholm,222,12,770,40
+2021,4,0483,Katrineholm,,Katrineholm,234,12,813,43
+2021,5,0483,Katrineholm,,Katrineholm,243,9,844,31
+2021,6,0483,Katrineholm,,Katrineholm,249,6,865,21
 2020,1,1715,Kil,,Kil,0,0,0,0
 2020,2,1715,Kil,,Kil,0,0,0,0
 2020,3,1715,Kil,,Kil,0,0,0,0
@@ -6263,6 +6370,7 @@
 2021,3,1715,Kil,,Kil,278,15,336,18
 2021,4,1715,Kil,,Kil,289,11,349,13
 2021,5,1715,Kil,,Kil,299,11,362,13
+2021,6,1715,Kil,,Kil,308,8,372,10
 2020,1,0513,Kinda,,Kinda,0,0,0,0
 2020,2,0513,Kinda,,Kinda,0,0,0,0
 2020,3,0513,Kinda,,Kinda,0,0,0,0
@@ -6321,6 +6429,7 @@
 2021,3,0513,Kinda,,Kinda,230,13,229,13
 2021,4,0513,Kinda,,Kinda,256,25,254,25
 2021,5,0513,Kinda,,Kinda,269,13,267,13
+2021,6,0513,Kinda,,Kinda,275,6,273,6
 2020,1,2584,Kiruna,,Kiruna,0,0,0,0
 2020,2,2584,Kiruna,,Kiruna,0,0,0,0
 2020,3,2584,Kiruna,,Kiruna,0,0,0,0
@@ -6379,6 +6488,7 @@
 2021,3,2584,Kiruna,,Kiruna,351,14,803,33
 2021,4,2584,Kiruna,,Kiruna,362,11,828,25
 2021,5,2584,Kiruna,,Kiruna,381,19,871,43
+2021,6,2584,Kiruna,,Kiruna,406,25,928,57
 2020,1,1276,Klippan,,Klippan,0,0,0,0
 2020,2,1276,Klippan,,Klippan,0,0,0,0
 2020,3,1276,Klippan,,Klippan,0,0,0,0
@@ -6437,6 +6547,7 @@
 2021,3,1276,Klippan,,Klippan,529,31,939,55
 2021,4,1276,Klippan,,Klippan,568,39,1008,69
 2021,5,1276,Klippan,,Klippan,612,44,1086,78
+2021,6,1276,Klippan,,Klippan,641,29,1138,52
 2020,1,0330,Knivsta,,Knivsta,0,0,0,0
 2020,2,0330,Knivsta,,Knivsta,0,0,0,0
 2020,3,0330,Knivsta,,Knivsta,0,0,0,0
@@ -6495,6 +6606,7 @@
 2021,3,0330,Knivsta,,Knivsta,453,13,854,24
 2021,4,0330,Knivsta,,Knivsta,463,10,873,19
 2021,5,0330,Knivsta,,Knivsta,472,8,889,16
+2021,6,0330,Knivsta,,Knivsta,482,10,907,18
 2020,1,2282,Kramfors,,Kramfors,0,0,0,0
 2020,2,2282,Kramfors,,Kramfors,0,0,0,0
 2020,3,2282,Kramfors,,Kramfors,0,0,0,0
@@ -6553,6 +6665,7 @@
 2021,3,2282,Kramfors,,Kramfors,308,28,563,51
 2021,4,2282,Kramfors,,Kramfors,335,27,613,50
 2021,5,2282,Kramfors,,Kramfors,360,25,659,46
+2021,6,2282,Kramfors,,Kramfors,376,15,687,28
 2020,1,1290,Kristianstad,,Kristianstad,0,0,0,0
 2020,2,1290,Kristianstad,,Kristianstad,0,0,0,0
 2020,3,1290,Kristianstad,,Kristianstad,0,0,0,0
@@ -6611,6 +6724,7 @@
 2021,3,1290,Kristianstad,,Kristianstad,701,28,6010,237
 2021,4,1290,Kristianstad,,Kristianstad,724,23,6209,199
 2021,5,1290,Kristianstad,,Kristianstad,750,26,6429,220
+2021,6,1290,Kristianstad,,Kristianstad,769,19,6592,163
 2020,1,1781,Kristinehamn,,Kristinehamn,0,0,0,0
 2020,2,1781,Kristinehamn,,Kristinehamn,0,0,0,0
 2020,3,1781,Kristinehamn,,Kristinehamn,0,0,0,0
@@ -6669,6 +6783,7 @@
 2021,3,1781,Kristinehamn,,Kristinehamn,247,7,598,18
 2021,4,1781,Kristinehamn,,Kristinehamn,250,3,606,8
 2021,5,1781,Kristinehamn,,Kristinehamn,254,5,617,11
+2021,6,1781,Kristinehamn,,Kristinehamn,259,5,628,11
 2020,1,2309,Krokom,,Krokom,0,0,0,0
 2020,2,2309,Krokom,,Krokom,0,0,0,0
 2020,3,2309,Krokom,,Krokom,0,0,0,0
@@ -6727,6 +6842,7 @@
 2021,3,2309,Krokom,,Krokom,303,15,453,22
 2021,4,2309,Krokom,,Krokom,318,15,476,23
 2021,5,2309,Krokom,,Krokom,331,13,496,20
+2021,6,2309,Krokom,,Krokom,340,9,509,13
 2020,1,1881,Kumla,,Kumla,0,0,0,0
 2020,2,1881,Kumla,,Kumla,0,0,0,0
 2020,3,1881,Kumla,,Kumla,0,0,0,0
@@ -6785,6 +6901,7 @@
 2021,3,1881,Kumla,,Kumla,479,16,1041,35
 2021,4,1881,Kumla,,Kumla,489,10,1063,22
 2021,5,1881,Kumla,,Kumla,498,9,1082,19
+2021,6,1881,Kumla,,Kumla,507,10,1103,21
 2020,1,1384,Kungsbacka,,Kungsbacka,0,0,0,0
 2020,2,1384,Kungsbacka,,Kungsbacka,0,0,0,0
 2020,3,1384,Kungsbacka,,Kungsbacka,0,0,0,0
@@ -6828,21 +6945,22 @@
 2020,41,1384,Kungsbacka,,Kungsbacka,82,4,689,33
 2020,42,1384,Kungsbacka,,Kungsbacka,85,4,719,30
 2020,43,1384,Kungsbacka,,Kungsbacka,93,8,785,66
-2020,44,1384,Kungsbacka,,Kungsbacka,111,18,941,156
-2020,45,1384,Kungsbacka,,Kungsbacka,133,21,1122,181
-2020,46,1384,Kungsbacka,,Kungsbacka,169,36,1426,304
-2020,47,1384,Kungsbacka,,Kungsbacka,191,22,1610,184
-2020,48,1384,Kungsbacka,,Kungsbacka,220,29,1858,248
-2020,49,1384,Kungsbacka,,Kungsbacka,256,36,2160,302
-2020,50,1384,Kungsbacka,,Kungsbacka,285,29,2406,246
-2020,51,1384,Kungsbacka,,Kungsbacka,318,33,2686,280
-2020,52,1384,Kungsbacka,,Kungsbacka,343,25,2893,207
-2020,53,1384,Kungsbacka,,Kungsbacka,386,43,3255,362
-2021,1,1384,Kungsbacka,,Kungsbacka,435,50,3674,419
-2021,2,1384,Kungsbacka,,Kungsbacka,463,28,3907,233
-2021,3,1384,Kungsbacka,,Kungsbacka,491,28,4141,234
-2021,4,1384,Kungsbacka,,Kungsbacka,517,27,4365,224
-2021,5,1384,Kungsbacka,,Kungsbacka,543,26,4581,216
+2020,44,1384,Kungsbacka,,Kungsbacka,111,18,940,155
+2020,45,1384,Kungsbacka,,Kungsbacka,133,21,1121,181
+2020,46,1384,Kungsbacka,,Kungsbacka,169,36,1425,304
+2020,47,1384,Kungsbacka,,Kungsbacka,191,22,1609,184
+2020,48,1384,Kungsbacka,,Kungsbacka,220,29,1857,248
+2020,49,1384,Kungsbacka,,Kungsbacka,256,36,2159,302
+2020,50,1384,Kungsbacka,,Kungsbacka,285,29,2405,246
+2020,51,1384,Kungsbacka,,Kungsbacka,318,33,2685,280
+2020,52,1384,Kungsbacka,,Kungsbacka,343,25,2892,207
+2020,53,1384,Kungsbacka,,Kungsbacka,386,43,3254,362
+2021,1,1384,Kungsbacka,,Kungsbacka,435,50,3673,419
+2021,2,1384,Kungsbacka,,Kungsbacka,463,28,3906,233
+2021,3,1384,Kungsbacka,,Kungsbacka,491,28,4140,234
+2021,4,1384,Kungsbacka,,Kungsbacka,517,27,4364,224
+2021,5,1384,Kungsbacka,,Kungsbacka,543,26,4580,216
+2021,6,1384,Kungsbacka,,Kungsbacka,576,33,4859,279
 2020,1,1960,Kungsör,,Kungsör,0,0,0,0
 2020,2,1960,Kungsör,,Kungsör,0,0,0,0
 2020,3,1960,Kungsör,,Kungsör,0,0,0,0
@@ -6901,6 +7019,7 @@
 2021,3,1960,Kungsör,,Kungsör,574,1,498,1
 2021,4,1960,Kungsör,,Kungsör,580,6,503,5
 2021,5,1960,Kungsör,,Kungsör,596,16,517,14
+2021,6,1960,Kungsör,,Kungsör,605,9,525,8
 2020,1,1482,Kungälv,,Kungälv,0,0,0,0
 2020,2,1482,Kungälv,,Kungälv,0,0,0,0
 2020,3,1482,Kungälv,,Kungälv,0,0,0,0
@@ -6959,6 +7078,7 @@
 2021,3,1482,Kungälv,,Kungälv,527,31,2443,145
 2021,4,1482,Kungälv,,Kungälv,551,24,2553,110
 2021,5,1482,Kungälv,,Kungälv,596,45,2763,210
+2021,6,1482,Kungälv,,Kungälv,646,50,2994,231
 2020,1,1261,Kävlinge,,Kävlinge,0,0,0,0
 2020,2,1261,Kävlinge,,Kävlinge,0,0,0,0
 2020,3,1261,Kävlinge,,Kävlinge,0,0,0,0
@@ -7017,6 +7137,7 @@
 2021,3,1261,Kävlinge,,Kävlinge,657,27,2082,87
 2021,4,1261,Kävlinge,,Kävlinge,682,26,2163,81
 2021,5,1261,Kävlinge,,Kävlinge,698,16,2213,50
+2021,6,1261,Kävlinge,,Kävlinge,713,15,2260,47
 2020,1,1983,Köping,,Köping,0,0,0,0
 2020,2,1983,Köping,,Köping,0,0,0,0
 2020,3,1983,Köping,,Köping,0,0,0,0
@@ -7075,6 +7196,7 @@
 2021,3,1983,Köping,,Köping,452,12,1185,31
 2021,4,1983,Köping,,Köping,465,13,1218,33
 2021,5,1983,Köping,,Köping,475,10,1244,26
+2021,6,1983,Köping,,Köping,486,11,1274,30
 2020,1,1381,Laholm,,Laholm,0,0,0,0
 2020,2,1381,Laholm,,Laholm,0,0,0,0
 2020,3,1381,Laholm,,Laholm,0,0,0,0
@@ -7133,6 +7255,7 @@
 2021,3,1381,Laholm,,Laholm,547,38,1418,99
 2021,4,1381,Laholm,,Laholm,586,39,1519,101
 2021,5,1381,Laholm,,Laholm,626,39,1621,102
+2021,6,1381,Laholm,,Laholm,648,22,1678,57
 2020,1,1282,Landskrona,,Landskrona,0,0,0,0
 2020,2,1282,Landskrona,,Landskrona,0,0,0,0
 2020,3,1282,Landskrona,,Landskrona,0,0,0,0
@@ -7191,6 +7314,7 @@
 2021,3,1282,Landskrona,,Landskrona,821,44,3783,204
 2021,4,1282,Landskrona,,Landskrona,847,26,3905,122
 2021,5,1282,Landskrona,,Landskrona,871,24,4014,109
+2021,6,1282,Landskrona,,Landskrona,888,18,4095,81
 2020,1,1860,Laxå,,Laxå,0,0,0,0
 2020,2,1860,Laxå,,Laxå,0,0,0,0
 2020,3,1860,Laxå,,Laxå,0,0,0,0
@@ -7249,6 +7373,7 @@
 2021,3,1860,Laxå,,Laxå,341,5,194,3
 2021,4,1860,Laxå,,Laxå,350,9,199,5
 2021,5,1860,Laxå,,Laxå,361,11,205,6
+2021,6,1860,Laxå,,Laxå,364,4,207,2
 2020,1,1814,Lekeberg,,Lekeberg,0,0,0,0
 2020,2,1814,Lekeberg,,Lekeberg,0,0,0,0
 2020,3,1814,Lekeberg,,Lekeberg,0,0,0,0
@@ -7307,6 +7432,7 @@
 2021,3,1814,Lekeberg,,Lekeberg,259,4,213,3
 2021,4,1814,Lekeberg,,Lekeberg,267,9,220,7
 2021,5,1814,Lekeberg,,Lekeberg,277,10,228,8
+2021,6,1814,Lekeberg,,Lekeberg,282,5,232,4
 2020,1,2029,Leksand,,Leksand,0,0,0,0
 2020,2,2029,Leksand,,Leksand,0,0,0,0
 2020,3,2029,Leksand,,Leksand,0,0,0,0
@@ -7365,6 +7491,7 @@
 2021,3,2029,Leksand,,Leksand,489,6,773,9
 2021,4,2029,Leksand,,Leksand,493,4,780,7
 2021,5,2029,Leksand,,Leksand,497,4,786,6
+2021,6,2029,Leksand,,Leksand,507,10,802,16
 2020,1,1441,Lerum,,Lerum,0,0,0,0
 2020,2,1441,Lerum,,Lerum,0,0,0,0
 2020,3,1441,Lerum,,Lerum,0,0,0,0
@@ -7423,6 +7550,7 @@
 2021,3,1441,Lerum,,Lerum,597,22,2540,92
 2021,4,1441,Lerum,,Lerum,620,23,2640,100
 2021,5,1441,Lerum,,Lerum,646,26,2751,111
+2021,6,1441,Lerum,,Lerum,680,34,2896,145
 2020,1,0761,Lessebo,,Lessebo,0,0,0,0
 2020,2,0761,Lessebo,,Lessebo,0,0,0,0
 2020,3,0761,Lessebo,,Lessebo,0,0,0,0
@@ -7481,6 +7609,7 @@
 2021,3,0761,Lessebo,,Lessebo,537,16,469,14
 2021,4,0761,Lessebo,,Lessebo,548,11,479,10
 2021,5,0761,Lessebo,,Lessebo,557,8,486,7
+2021,6,0761,Lessebo,,Lessebo,569,13,497,11
 2020,1,0186,Lidingö,,Lidingö,0,0,0,0
 2020,2,0186,Lidingö,,Lidingö,0,0,0,0
 2020,3,0186,Lidingö,,Lidingö,0,0,0,0
@@ -7539,6 +7668,7 @@
 2021,3,0186,Lidingö,,Lidingö,624,10,3002,49
 2021,4,0186,Lidingö,,Lidingö,638,14,3070,68
 2021,5,0186,Lidingö,,Lidingö,648,10,3117,47
+2021,6,0186,Lidingö,,Lidingö,668,21,3217,100
 2020,1,1494,Lidköping,,Lidköping,0,0,0,0
 2020,2,1494,Lidköping,,Lidköping,0,0,0,0
 2020,3,1494,Lidköping,,Lidköping,0,0,0,0
@@ -7597,6 +7727,7 @@
 2021,3,1494,Lidköping,,Lidköping,346,28,1386,111
 2021,4,1494,Lidköping,,Lidköping,376,30,1506,120
 2021,5,1494,Lidköping,,Lidköping,407,31,1630,124
+2021,6,1494,Lidköping,,Lidköping,436,29,1746,116
 2020,1,1462,Lilla Edet,,Lilla Edet,0,0,0,0
 2020,2,1462,Lilla Edet,,Lilla Edet,0,0,0,0
 2020,3,1462,Lilla Edet,,Lilla Edet,0,0,0,0
@@ -7655,6 +7786,7 @@
 2021,3,1462,Lilla Edet,,Lilla Edet,452,27,638,38
 2021,4,1462,Lilla Edet,,Lilla Edet,483,30,681,43
 2021,5,1462,Lilla Edet,,Lilla Edet,515,32,726,45
+2021,6,1462,Lilla Edet,,Lilla Edet,540,26,762,36
 2020,1,1885,Lindesberg,,Lindesberg,0,0,0,0
 2020,2,1885,Lindesberg,,Lindesberg,0,0,0,0
 2020,3,1885,Lindesberg,,Lindesberg,0,0,0,0
@@ -7713,6 +7845,7 @@
 2021,3,1885,Lindesberg,,Lindesberg,379,18,893,43
 2021,4,1885,Lindesberg,,Lindesberg,393,14,926,33
 2021,5,1885,Lindesberg,,Lindesberg,407,14,959,33
+2021,6,1885,Lindesberg,,Lindesberg,416,9,981,22
 2020,1,0580,Linköping,,Linköping,0,0,0,0
 2020,2,0580,Linköping,,Linköping,0,0,0,0
 2020,3,0580,Linköping,,Linköping,0,0,0,0
@@ -7771,6 +7904,7 @@
 2021,3,0580,Linköping,,Linköping,471,23,7672,368
 2021,4,0580,Linköping,,Linköping,492,21,8018,346
 2021,5,0580,Linköping,,Linköping,511,19,8334,316
+2021,6,0580,Linköping,,Linköping,534,22,8700,366
 2020,1,0781,Ljungby,,Ljungby,0,0,0,0
 2020,2,0781,Ljungby,,Ljungby,0,0,0,0
 2020,3,0781,Ljungby,,Ljungby,0,0,0,0
@@ -7829,6 +7963,7 @@
 2021,3,0781,Ljungby,,Ljungby,513,43,1464,124
 2021,4,0781,Ljungby,,Ljungby,559,46,1594,130
 2021,5,0781,Ljungby,,Ljungby,595,36,1697,103
+2021,6,0781,Ljungby,,Ljungby,631,36,1801,104
 2020,1,2161,Ljusdal,,Ljusdal,0,0,0,0
 2020,2,2161,Ljusdal,,Ljusdal,0,0,0,0
 2020,3,2161,Ljusdal,,Ljusdal,0,0,0,0
@@ -7887,6 +8022,7 @@
 2021,3,2161,Ljusdal,,Ljusdal,621,12,1177,23
 2021,4,2161,Ljusdal,,Ljusdal,635,14,1203,26
 2021,5,2161,Ljusdal,,Ljusdal,649,14,1230,27
+2021,6,2161,Ljusdal,,Ljusdal,667,17,1263,33
 2020,1,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
 2020,2,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
 2020,3,1864,Ljusnarsberg,,Ljusnarsberg,0,0,0,0
@@ -7945,6 +8081,7 @@
 2021,3,1864,Ljusnarsberg,,Ljusnarsberg,321,29,153,14
 2021,4,1864,Ljusnarsberg,,Ljusnarsberg,356,36,170,17
 2021,5,1864,Ljusnarsberg,,Ljusnarsberg,365,8,174,4
+2021,6,1864,Ljusnarsberg,,Ljusnarsberg,371,6,177,3
 2020,1,1262,Lomma,,Lomma,0,0,0,0
 2020,2,1262,Lomma,,Lomma,0,0,0,0
 2020,3,1262,Lomma,,Lomma,0,0,0,0
@@ -8003,6 +8140,7 @@
 2021,3,1262,Lomma,,Lomma,558,31,1386,78
 2021,4,1262,Lomma,,Lomma,593,35,1473,87
 2021,5,1262,Lomma,,Lomma,617,24,1533,60
+2021,6,1262,Lomma,,Lomma,644,27,1600,67
 2020,1,2085,Ludvika,,Ludvika,0,0,0,0
 2020,2,2085,Ludvika,,Ludvika,0,0,0,0
 2020,3,2085,Ludvika,,Ludvika,0,0,0,0
@@ -8061,6 +8199,7 @@
 2021,3,2085,Ludvika,,Ludvika,443,27,1191,73
 2021,4,2085,Ludvika,,Ludvika,452,10,1217,26
 2021,5,2085,Ludvika,,Ludvika,470,17,1264,47
+2021,6,2085,Ludvika,,Ludvika,487,17,1309,45
 2020,1,2580,Luleå,,Luleå,0,0,0,0
 2020,2,2580,Luleå,,Luleå,0,0,0,0
 2020,3,2580,Luleå,,Luleå,0,0,0,0
@@ -8119,6 +8258,7 @@
 2021,3,2580,Luleå,,Luleå,423,24,3306,190
 2021,4,2580,Luleå,,Luleå,442,18,3449,143
 2021,5,2580,Luleå,,Luleå,460,19,3595,146
+2021,6,2580,Luleå,,Luleå,479,19,3742,147
 2020,1,1281,Lund,,Lund,0,0,0,0
 2020,2,1281,Lund,,Lund,0,0,0,0
 2020,3,1281,Lund,,Lund,0,0,0,0
@@ -8177,6 +8317,7 @@
 2021,3,1281,Lund,,Lund,536,29,6701,357
 2021,4,1281,Lund,,Lund,558,22,6972,271
 2021,5,1281,Lund,,Lund,574,16,7173,201
+2021,6,1281,Lund,,Lund,588,14,7351,178
 2020,1,2481,Lycksele,,Lycksele,0,0,0,0
 2020,2,2481,Lycksele,,Lycksele,0,0,0,0
 2020,3,2481,Lycksele,,Lycksele,0,0,0,0
@@ -8235,6 +8376,7 @@
 2021,3,2481,Lycksele,,Lycksele,260,2,318,2
 2021,4,2481,Lycksele,,Lycksele,274,15,336,18
 2021,5,2481,Lycksele,,Lycksele,399,125,489,153
+2021,6,2481,Lycksele,,Lycksele,656,256,803,314
 2020,1,1484,Lysekil,,Lysekil,0,0,0,0
 2020,2,1484,Lysekil,,Lysekil,0,0,0,0
 2020,3,1484,Lysekil,,Lysekil,0,0,0,0
@@ -8293,6 +8435,7 @@
 2021,3,1484,Lysekil,,Lysekil,381,14,555,21
 2021,4,1484,Lysekil,,Lysekil,395,14,575,20
 2021,5,1484,Lysekil,,Lysekil,418,23,608,33
+2021,6,1484,Lysekil,,Lysekil,440,23,641,33
 2020,1,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
 2020,2,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
 2020,3,1280,Malmö,Centrum,Malmö Centrum,0,0,0,0
@@ -8351,6 +8494,7 @@
 2021,3,1280,Malmö,Centrum,Malmö Centrum,748,43,4188,241
 2021,4,1280,Malmö,Centrum,Malmö Centrum,780,31,4363,175
 2021,5,1280,Malmö,Centrum,Malmö Centrum,802,23,4491,128
+2021,6,1280,Malmö,Centrum,Malmö Centrum,826,24,4625,134
 2020,1,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
 2020,2,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
 2020,3,1280,Malmö,Fosie,Malmö Fosie,0,0,0,0
@@ -8409,6 +8553,7 @@
 2021,3,1280,Malmö,Fosie,Malmö Fosie,893,43,4154,198
 2021,4,1280,Malmö,Fosie,Malmö Fosie,918,26,4274,120
 2021,5,1280,Malmö,Fosie,Malmö Fosie,940,21,4372,98
+2021,6,1280,Malmö,Fosie,Malmö Fosie,958,18,4458,86
 2020,1,1280,Malmö,Husie,Malmö Husie,0,0,0,0
 2020,2,1280,Malmö,Husie,Malmö Husie,0,0,0,0
 2020,3,1280,Malmö,Husie,Malmö Husie,0,0,0,0
@@ -8467,6 +8612,7 @@
 2021,3,1280,Malmö,Husie,Malmö Husie,946,47,2226,111
 2021,4,1280,Malmö,Husie,Malmö Husie,987,42,2324,98
 2021,5,1280,Malmö,Husie,Malmö Husie,1015,27,2388,64
+2021,6,1280,Malmö,Husie,Malmö Husie,1046,31,2462,74
 2020,1,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
 2020,2,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
 2020,3,1280,Malmö,Hyllie,Malmö Hyllie,0,0,0,0
@@ -8525,6 +8671,7 @@
 2021,3,1280,Malmö,Hyllie,Malmö Hyllie,829,41,3219,158
 2021,4,1280,Malmö,Hyllie,Malmö Hyllie,858,29,3331,112
 2021,5,1280,Malmö,Hyllie,Malmö Hyllie,879,21,3413,82
+2021,6,1280,Malmö,Hyllie,Malmö Hyllie,895,16,3474,61
 2020,1,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
 2020,2,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
 2020,3,1280,Malmö,Kirseberg,Malmö Kirseberg,0,0,0,0
@@ -8583,6 +8730,7 @@
 2021,3,1280,Malmö,Kirseberg,Malmö Kirseberg,855,33,1388,54
 2021,4,1280,Malmö,Kirseberg,Malmö Kirseberg,878,23,1426,38
 2021,5,1280,Malmö,Kirseberg,Malmö Kirseberg,895,17,1453,27
+2021,6,1280,Malmö,Kirseberg,Malmö Kirseberg,924,30,1501,48
 2020,1,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
 2020,2,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
 2020,3,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,0,0,0,0
@@ -8641,6 +8789,7 @@
 2021,3,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,739,42,3894,223
 2021,4,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,775,36,4085,191
 2021,5,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,801,25,4218,133
+2021,6,1280,Malmö,Limhamn-Bunkeflo,Malmö Limhamn-Bunkeflo,823,23,4337,119
 2020,1,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
 2020,2,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
 2020,3,1280,Malmö,Oxie,Malmö Oxie,0,0,0,0
@@ -8699,6 +8848,7 @@
 2021,3,1280,Malmö,Oxie,Malmö Oxie,811,44,1110,60
 2021,4,1280,Malmö,Oxie,Malmö Oxie,851,40,1165,55
 2021,5,1280,Malmö,Oxie,Malmö Oxie,873,22,1195,30
+2021,6,1280,Malmö,Oxie,Malmö Oxie,895,22,1225,30
 2020,1,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
 2020,2,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
 2020,3,1280,Malmö,Rosengård,Malmö Rosengård,0,0,0,0
@@ -8757,6 +8907,7 @@
 2021,3,1280,Malmö,Rosengård,Malmö Rosengård,847,40,1980,94
 2021,4,1280,Malmö,Rosengård,Malmö Rosengård,882,34,2060,80
 2021,5,1280,Malmö,Rosengård,Malmö Rosengård,896,14,2093,33
+2021,6,1280,Malmö,Rosengård,Malmö Rosengård,915,20,2139,46
 2020,1,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
 2020,2,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
 2020,3,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,0,0,0,0
@@ -8799,22 +8950,23 @@
 2020,40,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,61,1,222,5
 2020,41,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,64,4,235,13
 2020,42,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,71,7,261,26
-2020,43,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,86,15,315,54
-2020,44,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,106,20,389,74
-2020,45,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,128,22,468,79
-2020,46,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,163,35,598,130
-2020,47,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,193,30,707,109
-2020,48,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,235,42,861,154
-2020,49,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,293,58,1073,212
-2020,50,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,362,70,1328,255
-2020,51,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,439,76,1607,279
-2020,52,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,506,68,1855,248
-2020,53,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,587,81,2151,296
-2021,1,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,673,86,2465,314
-2021,2,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,740,67,2710,245
-2021,3,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,782,43,2867,157
-2021,4,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,807,25,2957,90
-2021,5,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,831,24,3045,88
+2020,43,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,86,14,314,53
+2020,44,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,106,20,388,74
+2020,45,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,127,22,467,79
+2020,46,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,163,35,597,130
+2020,47,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,193,30,706,109
+2020,48,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,235,42,860,154
+2020,49,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,293,58,1072,212
+2020,50,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,362,70,1327,255
+2020,51,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,438,76,1606,279
+2020,52,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,506,68,1854,248
+2020,53,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,587,81,2150,296
+2021,1,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,672,86,2464,314
+2021,2,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,739,67,2709,245
+2021,3,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,782,43,2866,157
+2021,4,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,807,25,2956,90
+2021,5,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,831,24,3044,88
+2021,6,1280,Malmö,Södra Innerstaden,Malmö Södra Innerstaden,854,23,3130,86
 2020,1,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
 2020,2,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
 2020,3,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,0,0,0,0
@@ -8873,6 +9025,7 @@
 2021,3,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,725,39,2575,137
 2021,4,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,752,27,2671,96
 2021,5,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,771,19,2740,69
+2021,6,1280,Malmö,Västra Innerstaden,Malmö Västra Innerstaden,790,19,2807,67
 2020,1,2023,Malung,,Malung,0,0,0,0
 2020,2,2023,Malung,,Malung,0,0,0,0
 2020,3,2023,Malung,,Malung,0,0,0,0
@@ -8931,6 +9084,7 @@
 2021,3,2023,Malung,,Malung,514,36,521,36
 2021,4,2023,Malung,,Malung,556,42,564,43
 2021,5,2023,Malung,,Malung,609,52,617,53
+2021,6,2023,Malung,,Malung,648,39,657,40
 2020,1,2418,Malå,,Malå,0,0,0,0
 2020,2,2418,Malå,,Malå,0,0,0,0
 2020,3,2418,Malå,,Malå,0,0,0,0
@@ -8989,6 +9143,7 @@
 2021,3,2418,Malå,,Malå,153,3,47,1
 2021,4,2418,Malå,,Malå,166,13,51,4
 2021,5,2418,Malå,,Malå,179,13,55,4
+2021,6,2418,Malå,,Malå,209,29,64,9
 2020,1,1493,Mariestad,,Mariestad,0,0,0,0
 2020,2,1493,Mariestad,,Mariestad,0,0,0,0
 2020,3,1493,Mariestad,,Mariestad,0,0,0,0
@@ -9047,6 +9202,7 @@
 2021,3,1493,Mariestad,,Mariestad,396,19,972,47
 2021,4,1493,Mariestad,,Mariestad,410,14,1007,35
 2021,5,1493,Mariestad,,Mariestad,427,17,1048,41
+2021,6,1493,Mariestad,,Mariestad,437,10,1073,25
 2020,1,1463,Mark,,Mark,0,0,0,0
 2020,2,1463,Mark,,Mark,0,0,0,0
 2020,3,1463,Mark,,Mark,0,0,0,0
@@ -9105,6 +9261,7 @@
 2021,3,1463,Mark,,Mark,427,14,1485,48
 2021,4,1463,Mark,,Mark,440,12,1528,43
 2021,5,1463,Mark,,Mark,450,11,1565,37
+2021,6,1463,Mark,,Mark,466,16,1620,55
 2020,1,0767,Markaryd,,Markaryd,0,0,0,0
 2020,2,0767,Markaryd,,Markaryd,0,0,0,0
 2020,3,0767,Markaryd,,Markaryd,0,0,0,0
@@ -9163,6 +9320,7 @@
 2021,3,0767,Markaryd,,Markaryd,431,28,445,29
 2021,4,0767,Markaryd,,Markaryd,470,39,485,40
 2021,5,0767,Markaryd,,Markaryd,522,52,539,54
+2021,6,0767,Markaryd,,Markaryd,581,59,600,61
 2020,1,1461,Mellerud,,Mellerud,0,0,0,0
 2020,2,1461,Mellerud,,Mellerud,0,0,0,0
 2020,3,1461,Mellerud,,Mellerud,0,0,0,0
@@ -9221,6 +9379,7 @@
 2021,3,1461,Mellerud,,Mellerud,416,37,387,34
 2021,4,1461,Mellerud,,Mellerud,432,16,402,15
 2021,5,1461,Mellerud,,Mellerud,450,18,419,17
+2021,6,1461,Mellerud,,Mellerud,476,26,443,24
 2020,1,0586,Mjölby,,Mjölby,0,0,0,0
 2020,2,0586,Mjölby,,Mjölby,0,0,0,0
 2020,3,0586,Mjölby,,Mjölby,0,0,0,0
@@ -9279,6 +9438,7 @@
 2021,3,0586,Mjölby,,Mjölby,465,37,1292,104
 2021,4,0586,Mjölby,,Mjölby,495,29,1373,81
 2021,5,0586,Mjölby,,Mjölby,512,17,1421,48
+2021,6,0586,Mjölby,,Mjölby,524,12,1455,34
 2020,1,2062,Mora,,Mora,0,0,0,0
 2020,2,2062,Mora,,Mora,0,0,0,0
 2020,3,2062,Mora,,Mora,0,0,0,0
@@ -9337,6 +9497,7 @@
 2021,3,2062,Mora,,Mora,374,4,766,8
 2021,4,2062,Mora,,Mora,379,5,776,10
 2021,5,2062,Mora,,Mora,383,4,784,8
+2021,6,2062,Mora,,Mora,387,4,793,9
 2020,1,0583,Motala,,Motala,0,0,0,0
 2020,2,0583,Motala,,Motala,0,0,0,0
 2020,3,0583,Motala,,Motala,0,0,0,0
@@ -9395,6 +9556,7 @@
 2021,3,0583,Motala,,Motala,458,53,2002,232
 2021,4,0583,Motala,,Motala,497,39,2171,169
 2021,5,0583,Motala,,Motala,528,31,2308,137
+2021,6,0583,Motala,,Motala,547,19,2390,82
 2020,1,0642,Mullsjö,,Mullsjö,0,0,0,0
 2020,2,0642,Mullsjö,,Mullsjö,0,0,0,0
 2020,3,0642,Mullsjö,,Mullsjö,0,0,0,0
@@ -9453,6 +9615,7 @@
 2021,3,0642,Mullsjö,,Mullsjö,348,23,254,17
 2021,4,0642,Mullsjö,,Mullsjö,374,26,273,19
 2021,5,0642,Mullsjö,,Mullsjö,379,4,276,3
+2021,6,0642,Mullsjö,,Mullsjö,385,7,281,5
 2020,1,1430,Munkedal,,Munkedal,0,0,0,0
 2020,2,1430,Munkedal,,Munkedal,0,0,0,0
 2020,3,1430,Munkedal,,Munkedal,0,0,0,0
@@ -9511,6 +9674,7 @@
 2021,3,1430,Munkedal,,Munkedal,414,15,435,16
 2021,4,1430,Munkedal,,Munkedal,434,20,456,21
 2021,5,1430,Munkedal,,Munkedal,470,36,494,38
+2021,6,1430,Munkedal,,Munkedal,511,41,537,43
 2020,1,1762,Munkfors,,Munkfors,0,0,0,0
 2020,2,1762,Munkfors,,Munkfors,0,0,0,0
 2020,3,1762,Munkfors,,Munkfors,0,0,0,0
@@ -9569,6 +9733,7 @@
 2021,3,1762,Munkfors,,Munkfors,324,0,121,0
 2021,4,1762,Munkfors,,Munkfors,326,3,122,1
 2021,5,1762,Munkfors,,Munkfors,345,19,129,7
+2021,6,1762,Munkfors,,Munkfors,361,16,135,6
 2020,1,1481,Mölndal,,Mölndal,0,0,0,0
 2020,2,1481,Mölndal,,Mölndal,0,0,0,0
 2020,3,1481,Mölndal,,Mölndal,0,0,0,0
@@ -9627,6 +9792,7 @@
 2021,3,1481,Mölndal,,Mölndal,575,29,3986,201
 2021,4,1481,Mölndal,,Mölndal,602,28,4178,192
 2021,5,1481,Mölndal,,Mölndal,625,23,4335,157
+2021,6,1481,Mölndal,,Mölndal,658,33,4563,228
 2020,1,0861,Mönsterås,,Mönsterås,0,0,0,0
 2020,2,0861,Mönsterås,,Mönsterås,0,0,0,0
 2020,3,0861,Mönsterås,,Mönsterås,0,0,0,0
@@ -9685,6 +9851,7 @@
 2021,3,0861,Mönsterås,,Mönsterås,296,29,398,39
 2021,4,0861,Mönsterås,,Mönsterås,317,21,426,28
 2021,5,0861,Mönsterås,,Mönsterås,321,4,431,5
+2021,6,0861,Mönsterås,,Mönsterås,332,11,446,15
 2020,1,0840,Mörbylånga,,Mörbylånga,0,0,0,0
 2020,2,0840,Mörbylånga,,Mörbylånga,0,0,0,0
 2020,3,0840,Mörbylånga,,Mörbylånga,0,0,0,0
@@ -9743,6 +9910,7 @@
 2021,3,0840,Mörbylånga,,Mörbylånga,325,16,496,25
 2021,4,0840,Mörbylånga,,Mörbylånga,336,11,513,17
 2021,5,0840,Mörbylånga,,Mörbylånga,350,13,533,20
+2021,6,0840,Mörbylånga,,Mörbylånga,357,8,545,12
 2020,1,0182,Nacka,,Nacka,0,0,0,0
 2020,2,0182,Nacka,,Nacka,0,0,0,0
 2020,3,0182,Nacka,,Nacka,0,0,0,0
@@ -9801,6 +9969,7 @@
 2021,3,0182,Nacka,,Nacka,568,14,5970,145
 2021,4,0182,Nacka,,Nacka,582,15,6127,157
 2021,5,0182,Nacka,,Nacka,598,16,6293,166
+2021,6,0182,Nacka,,Nacka,620,22,6523,230
 2020,1,1884,Nora,,Nora,0,0,0,0
 2020,2,1884,Nora,,Nora,0,0,0,0
 2020,3,1884,Nora,,Nora,0,0,0,0
@@ -9859,6 +10028,7 @@
 2021,3,1884,Nora,,Nora,339,53,364,57
 2021,4,1884,Nora,,Nora,377,37,404,40
 2021,5,1884,Nora,,Nora,404,27,433,29
+2021,6,1884,Nora,,Nora,427,23,458,25
 2020,1,1962,Norberg,,Norberg,0,0,0,0
 2020,2,1962,Norberg,,Norberg,0,0,0,0
 2020,3,1962,Norberg,,Norberg,0,0,0,0
@@ -9917,6 +10087,7 @@
 2021,3,1962,Norberg,,Norberg,520,12,296,7
 2021,4,1962,Norberg,,Norberg,531,11,302,6
 2021,5,1962,Norberg,,Norberg,533,2,303,1
+2021,6,1962,Norberg,,Norberg,534,2,304,1
 2020,1,2132,Nordanstig,,Nordanstig,0,0,0,0
 2020,2,2132,Nordanstig,,Nordanstig,0,0,0,0
 2020,3,2132,Nordanstig,,Nordanstig,0,0,0,0
@@ -9975,6 +10146,7 @@
 2021,3,2132,Nordanstig,,Nordanstig,544,8,516,8
 2021,4,2132,Nordanstig,,Nordanstig,549,4,520,4
 2021,5,2132,Nordanstig,,Nordanstig,569,20,539,19
+2021,6,2132,Nordanstig,,Nordanstig,596,27,565,26
 2020,1,2401,Nordmaling,,Nordmaling,0,0,0,0
 2020,2,2401,Nordmaling,,Nordmaling,0,0,0,0
 2020,3,2401,Nordmaling,,Nordmaling,0,0,0,0
@@ -10033,6 +10205,7 @@
 2021,3,2401,Nordmaling,,Nordmaling,168,13,120,9
 2021,4,2401,Nordmaling,,Nordmaling,179,11,128,8
 2021,5,2401,Nordmaling,,Nordmaling,185,6,132,4
+2021,6,2401,Nordmaling,,Nordmaling,193,8,138,6
 2020,1,0581,Norrköping,,Norrköping,0,0,0,0
 2020,2,0581,Norrköping,,Norrköping,0,0,0,0
 2020,3,0581,Norrköping,,Norrköping,0,0,0,0
@@ -10091,6 +10264,7 @@
 2021,3,0581,Norrköping,,Norrköping,391,22,5605,308
 2021,4,0581,Norrköping,,Norrköping,411,19,5882,277
 2021,5,0581,Norrköping,,Norrköping,427,16,6116,234
+2021,6,0581,Norrköping,,Norrköping,443,16,6348,232
 2020,1,0188,Norrtälje,,Norrtälje,0,0,0,0
 2020,2,0188,Norrtälje,,Norrtälje,0,0,0,0
 2020,3,0188,Norrtälje,,Norrtälje,0,0,0,0
@@ -10149,6 +10323,7 @@
 2021,3,0188,Norrtälje,,Norrtälje,414,11,2590,66
 2021,4,0188,Norrtälje,,Norrtälje,426,12,2665,75
 2021,5,0188,Norrtälje,,Norrtälje,435,9,2721,56
+2021,6,0188,Norrtälje,,Norrtälje,441,6,2761,40
 2020,1,2417,Norsjö,,Norsjö,0,0,0,0
 2020,2,2417,Norsjö,,Norsjö,0,0,0,0
 2020,3,2417,Norsjö,,Norsjö,0,0,0,0
@@ -10207,6 +10382,7 @@
 2021,3,2417,Norsjö,,Norsjö,301,30,120,12
 2021,4,2417,Norsjö,,Norsjö,321,20,128,8
 2021,5,2417,Norsjö,,Norsjö,329,8,131,3
+2021,6,2417,Norsjö,,Norsjö,366,38,146,15
 2020,1,0881,Nybro,,Nybro,0,0,0,0
 2020,2,0881,Nybro,,Nybro,0,0,0,0
 2020,3,0881,Nybro,,Nybro,0,0,0,0
@@ -10265,6 +10441,7 @@
 2021,3,0881,Nybro,,Nybro,282,15,572,30
 2021,4,0881,Nybro,,Nybro,292,11,594,22
 2021,5,0881,Nybro,,Nybro,300,8,610,16
+2021,6,0881,Nybro,,Nybro,318,18,647,37
 2020,1,0140,Nykvarn,,Nykvarn,0,0,0,0
 2020,2,0140,Nykvarn,,Nykvarn,0,0,0,0
 2020,3,0140,Nykvarn,,Nykvarn,0,0,0,0
@@ -10323,6 +10500,7 @@
 2021,3,0140,Nykvarn,,Nykvarn,458,21,504,23
 2021,4,0140,Nykvarn,,Nykvarn,475,17,523,19
 2021,5,0140,Nykvarn,,Nykvarn,485,10,534,11
+2021,6,0140,Nykvarn,,Nykvarn,488,3,537,3
 2020,1,0480,Nyköping,,Nyköping,0,0,0,0
 2020,2,0480,Nyköping,,Nyköping,0,0,0,0
 2020,3,0480,Nyköping,,Nyköping,0,0,0,0
@@ -10381,6 +10559,7 @@
 2021,3,0480,Nyköping,,Nyköping,351,13,1985,71
 2021,4,0480,Nyköping,,Nyköping,360,10,2039,54
 2021,5,0480,Nyköping,,Nyköping,374,14,2119,80
+2021,6,0480,Nyköping,,Nyköping,392,18,2221,102
 2020,1,0192,Nynäshamn,,Nynäshamn,0,0,0,0
 2020,2,0192,Nynäshamn,,Nynäshamn,0,0,0,0
 2020,3,0192,Nynäshamn,,Nynäshamn,0,0,0,0
@@ -10439,6 +10618,7 @@
 2021,3,0192,Nynäshamn,,Nynäshamn,436,14,1245,40
 2021,4,0192,Nynäshamn,,Nynäshamn,447,11,1276,31
 2021,5,0192,Nynäshamn,,Nynäshamn,458,12,1310,34
+2021,6,0192,Nynäshamn,,Nynäshamn,467,9,1335,25
 2020,1,0682,Nässjö,,Nässjö,0,0,0,0
 2020,2,0682,Nässjö,,Nässjö,0,0,0,0
 2020,3,0682,Nässjö,,Nässjö,0,0,0,0
@@ -10497,6 +10677,7 @@
 2021,3,0682,Nässjö,,Nässjö,621,35,1958,111
 2021,4,0682,Nässjö,,Nässjö,655,35,2067,109
 2021,5,0682,Nässjö,,Nässjö,689,33,2172,105
+2021,6,0682,Nässjö,,Nässjö,741,52,2337,165
 2020,1,2101,Ockelbo,,Ockelbo,0,0,0,0
 2020,2,2101,Ockelbo,,Ockelbo,0,0,0,0
 2020,3,2101,Ockelbo,,Ockelbo,0,0,0,0
@@ -10555,6 +10736,7 @@
 2021,3,2101,Ockelbo,,Ockelbo,552,51,326,30
 2021,4,2101,Ockelbo,,Ockelbo,586,34,346,20
 2021,5,2101,Ockelbo,,Ockelbo,608,22,359,13
+2021,6,2101,Ockelbo,,Ockelbo,633,25,374,15
 2020,1,Okänd,Okänd,Okänd,Okänd,,,0,0
 2020,2,Okänd,Okänd,Okänd,Okänd,,,0,0
 2020,3,Okänd,Okänd,Okänd,Okänd,,,0,0
@@ -10568,51 +10750,52 @@
 2020,11,Okänd,Okänd,Okänd,Okänd,,,<15,<15
 2020,12,Okänd,Okänd,Okänd,Okänd,,,25,18
 2020,13,Okänd,Okänd,Okänd,Okänd,,,65,40
-2020,14,Okänd,Okänd,Okänd,Okänd,,,113,48
-2020,15,Okänd,Okänd,Okänd,Okänd,,,174,61
-2020,16,Okänd,Okänd,Okänd,Okänd,,,217,43
-2020,17,Okänd,Okänd,Okänd,Okänd,,,271,54
-2020,18,Okänd,Okänd,Okänd,Okänd,,,298,27
-2020,19,Okänd,Okänd,Okänd,Okänd,,,331,33
-2020,20,Okänd,Okänd,Okänd,Okänd,,,362,31
-2020,21,Okänd,Okänd,Okänd,Okänd,,,397,35
-2020,22,Okänd,Okänd,Okänd,Okänd,,,430,33
-2020,23,Okänd,Okänd,Okänd,Okänd,,,480,50
-2020,24,Okänd,Okänd,Okänd,Okänd,,,549,69
-2020,25,Okänd,Okänd,Okänd,Okänd,,,608,59
-2020,26,Okänd,Okänd,Okänd,Okänd,,,656,48
-2020,27,Okänd,Okänd,Okänd,Okänd,,,690,34
-2020,28,Okänd,Okänd,Okänd,Okänd,,,712,22
-2020,29,Okänd,Okänd,Okänd,Okänd,,,734,22
-2020,30,Okänd,Okänd,Okänd,Okänd,,,763,29
-2020,31,Okänd,Okänd,Okänd,Okänd,,,800,37
-2020,32,Okänd,Okänd,Okänd,Okänd,,,819,19
-2020,33,Okänd,Okänd,Okänd,Okänd,,,856,37
-2020,34,Okänd,Okänd,Okänd,Okänd,,,878,22
-2020,35,Okänd,Okänd,Okänd,Okänd,,,910,32
-2020,36,Okänd,Okänd,Okänd,Okänd,,,926,16
-2020,37,Okänd,Okänd,Okänd,Okänd,,,959,33
-2020,38,Okänd,Okänd,Okänd,Okänd,,,991,32
-2020,39,Okänd,Okänd,Okänd,Okänd,,,1034,43
-2020,40,Okänd,Okänd,Okänd,Okänd,,,1081,47
-2020,41,Okänd,Okänd,Okänd,Okänd,,,1143,62
-2020,42,Okänd,Okänd,Okänd,Okänd,,,1252,109
-2020,43,Okänd,Okänd,Okänd,Okänd,,,1414,162
-2020,44,Okänd,Okänd,Okänd,Okänd,,,1679,265
-2020,45,Okänd,Okänd,Okänd,Okänd,,,2035,356
-2020,46,Okänd,Okänd,Okänd,Okänd,,,2376,341
-2020,47,Okänd,Okänd,Okänd,Okänd,,,2737,361
-2020,48,Okänd,Okänd,Okänd,Okänd,,,3166,429
-2020,49,Okänd,Okänd,Okänd,Okänd,,,3632,466
-2020,50,Okänd,Okänd,Okänd,Okänd,,,4138,506
-2020,51,Okänd,Okänd,Okänd,Okänd,,,4669,531
-2020,52,Okänd,Okänd,Okänd,Okänd,,,5077,408
-2020,53,Okänd,Okänd,Okänd,Okänd,,,5567,490
-2021,1,Okänd,Okänd,Okänd,Okänd,,,6070,503
-2021,2,Okänd,Okänd,Okänd,Okänd,,,6511,441
-2021,3,Okänd,Okänd,Okänd,Okänd,,,6875,364
-2021,4,Okänd,Okänd,Okänd,Okänd,,,7236,361
-2021,5,Okänd,Okänd,Okänd,Okänd,,,7643,407
+2020,14,Okänd,Okänd,Okänd,Okänd,,,114,49
+2020,15,Okänd,Okänd,Okänd,Okänd,,,175,61
+2020,16,Okänd,Okänd,Okänd,Okänd,,,218,43
+2020,17,Okänd,Okänd,Okänd,Okänd,,,273,55
+2020,18,Okänd,Okänd,Okänd,Okänd,,,300,27
+2020,19,Okänd,Okänd,Okänd,Okänd,,,333,33
+2020,20,Okänd,Okänd,Okänd,Okänd,,,364,31
+2020,21,Okänd,Okänd,Okänd,Okänd,,,399,35
+2020,22,Okänd,Okänd,Okänd,Okänd,,,432,33
+2020,23,Okänd,Okänd,Okänd,Okänd,,,482,50
+2020,24,Okänd,Okänd,Okänd,Okänd,,,551,69
+2020,25,Okänd,Okänd,Okänd,Okänd,,,610,59
+2020,26,Okänd,Okänd,Okänd,Okänd,,,658,48
+2020,27,Okänd,Okänd,Okänd,Okänd,,,692,34
+2020,28,Okänd,Okänd,Okänd,Okänd,,,714,22
+2020,29,Okänd,Okänd,Okänd,Okänd,,,736,22
+2020,30,Okänd,Okänd,Okänd,Okänd,,,765,29
+2020,31,Okänd,Okänd,Okänd,Okänd,,,802,37
+2020,32,Okänd,Okänd,Okänd,Okänd,,,821,19
+2020,33,Okänd,Okänd,Okänd,Okänd,,,858,37
+2020,34,Okänd,Okänd,Okänd,Okänd,,,880,22
+2020,35,Okänd,Okänd,Okänd,Okänd,,,912,32
+2020,36,Okänd,Okänd,Okänd,Okänd,,,928,16
+2020,37,Okänd,Okänd,Okänd,Okänd,,,961,33
+2020,38,Okänd,Okänd,Okänd,Okänd,,,993,32
+2020,39,Okänd,Okänd,Okänd,Okänd,,,1036,43
+2020,40,Okänd,Okänd,Okänd,Okänd,,,1083,47
+2020,41,Okänd,Okänd,Okänd,Okänd,,,1145,62
+2020,42,Okänd,Okänd,Okänd,Okänd,,,1254,109
+2020,43,Okänd,Okänd,Okänd,Okänd,,,1416,162
+2020,44,Okänd,Okänd,Okänd,Okänd,,,1682,266
+2020,45,Okänd,Okänd,Okänd,Okänd,,,2038,356
+2020,46,Okänd,Okänd,Okänd,Okänd,,,2379,341
+2020,47,Okänd,Okänd,Okänd,Okänd,,,2740,361
+2020,48,Okänd,Okänd,Okänd,Okänd,,,3169,429
+2020,49,Okänd,Okänd,Okänd,Okänd,,,3635,466
+2020,50,Okänd,Okänd,Okänd,Okänd,,,4141,506
+2020,51,Okänd,Okänd,Okänd,Okänd,,,4672,531
+2020,52,Okänd,Okänd,Okänd,Okänd,,,5079,407
+2020,53,Okänd,Okänd,Okänd,Okänd,,,5569,490
+2021,1,Okänd,Okänd,Okänd,Okänd,,,6072,503
+2021,2,Okänd,Okänd,Okänd,Okänd,,,6513,441
+2021,3,Okänd,Okänd,Okänd,Okänd,,,6876,363
+2021,4,Okänd,Okänd,Okänd,Okänd,,,7232,356
+2021,5,Okänd,Okänd,Okänd,Okänd,,,7628,396
+2021,6,Okänd,Okänd,Okänd,Okänd,,,8038,410
 2020,1,1060,Olofström,,Olofström,0,0,0,0
 2020,2,1060,Olofström,,Olofström,0,0,0,0
 2020,3,1060,Olofström,,Olofström,0,0,0,0
@@ -10671,6 +10854,7 @@
 2021,3,1060,Olofström,,Olofström,465,28,624,37
 2021,4,1060,Olofström,,Olofström,476,11,639,15
 2021,5,1060,Olofström,,Olofström,492,16,661,22
+2021,6,1060,Olofström,,Olofström,503,10,675,14
 2020,1,2034,Orsa,,Orsa,0,0,0,0
 2020,2,2034,Orsa,,Orsa,0,0,0,0
 2020,3,2034,Orsa,,Orsa,0,0,0,0
@@ -10729,6 +10913,7 @@
 2021,3,2034,Orsa,,Orsa,437,14,302,10
 2021,4,2034,Orsa,,Orsa,451,14,312,10
 2021,5,2034,Orsa,,Orsa,462,10,319,7
+2021,6,2034,Orsa,,Orsa,475,13,328,9
 2020,1,1421,Orust,,Orust,0,0,0,0
 2020,2,1421,Orust,,Orust,0,0,0,0
 2020,3,1421,Orust,,Orust,0,0,0,0
@@ -10787,6 +10972,7 @@
 2021,3,1421,Orust,,Orust,334,25,508,38
 2021,4,1421,Orust,,Orust,354,20,538,30
 2021,5,1421,Orust,,Orust,371,17,564,26
+2021,6,1421,Orust,,Orust,398,27,605,41
 2020,1,1273,Osby,,Osby,0,0,0,0
 2020,2,1273,Osby,,Osby,0,0,0,0
 2020,3,1273,Osby,,Osby,0,0,0,0
@@ -10845,6 +11031,7 @@
 2021,3,1273,Osby,,Osby,474,29,626,38
 2021,4,1273,Osby,,Osby,492,18,650,24
 2021,5,1273,Osby,,Osby,507,15,670,20
+2021,6,1273,Osby,,Osby,519,11,685,15
 2020,1,0882,Oskarshamn,,Oskarshamn,0,0,0,0
 2020,2,0882,Oskarshamn,,Oskarshamn,0,0,0,0
 2020,3,0882,Oskarshamn,,Oskarshamn,0,0,0,0
@@ -10903,6 +11090,7 @@
 2021,3,0882,Oskarshamn,,Oskarshamn,419,33,1136,90
 2021,4,0882,Oskarshamn,,Oskarshamn,442,23,1198,62
 2021,5,0882,Oskarshamn,,Oskarshamn,457,15,1238,40
+2021,6,0882,Oskarshamn,,Oskarshamn,467,11,1267,29
 2020,1,2121,Ovanåker,,Ovanåker,0,0,0,0
 2020,2,2121,Ovanåker,,Ovanåker,0,0,0,0
 2020,3,2121,Ovanåker,,Ovanåker,0,0,0,0
@@ -10961,6 +11149,7 @@
 2021,3,2121,Ovanåker,,Ovanåker,508,9,593,11
 2021,4,2121,Ovanåker,,Ovanåker,513,5,599,6
 2021,5,2121,Ovanåker,,Ovanåker,524,10,611,12
+2021,6,2121,Ovanåker,,Ovanåker,530,7,619,8
 2020,1,0481,Oxelösund,,Oxelösund,0,0,0,0
 2020,2,0481,Oxelösund,,Oxelösund,0,0,0,0
 2020,3,0481,Oxelösund,,Oxelösund,0,0,0,0
@@ -11019,6 +11208,7 @@
 2021,3,0481,Oxelösund,,Oxelösund,310,5,372,6
 2021,4,0481,Oxelösund,,Oxelösund,319,8,382,10
 2021,5,0481,Oxelösund,,Oxelösund,323,4,387,5
+2021,6,0481,Oxelösund,,Oxelösund,333,10,399,12
 2020,1,2521,Pajala,,Pajala,0,0,0,0
 2020,2,2521,Pajala,,Pajala,0,0,0,0
 2020,3,2521,Pajala,,Pajala,0,0,0,0
@@ -11077,6 +11267,7 @@
 2021,3,2521,Pajala,,Pajala,135,7,82,4
 2021,4,2521,Pajala,,Pajala,140,5,85,3
 2021,5,2521,Pajala,,Pajala,142,2,86,1
+2021,6,2521,Pajala,,Pajala,147,5,89,3
 2020,1,1402,Partille,,Partille,0,0,0,0
 2020,2,1402,Partille,,Partille,0,0,0,0
 2020,3,1402,Partille,,Partille,0,0,0,0
@@ -11135,6 +11326,7 @@
 2021,3,1402,Partille,,Partille,659,35,2590,138
 2021,4,1402,Partille,,Partille,686,27,2695,105
 2021,5,1402,Partille,,Partille,716,30,2813,118
+2021,6,1402,Partille,,Partille,747,31,2933,120
 2020,1,1275,Perstorp,,Perstorp,0,0,0,0
 2020,2,1275,Perstorp,,Perstorp,0,0,0,0
 2020,3,1275,Perstorp,,Perstorp,0,0,0,0
@@ -11193,6 +11385,7 @@
 2021,3,1275,Perstorp,,Perstorp,531,25,398,19
 2021,4,1275,Perstorp,,Perstorp,565,33,423,25
 2021,5,1275,Perstorp,,Perstorp,590,25,442,19
+2021,6,1275,Perstorp,,Perstorp,619,29,464,22
 2020,1,2581,Piteå,,Piteå,0,0,0,0
 2020,2,2581,Piteå,,Piteå,0,0,0,0
 2020,3,2581,Piteå,,Piteå,0,0,0,0
@@ -11251,6 +11444,7 @@
 2021,3,2581,Piteå,,Piteå,374,10,1582,44
 2021,4,2581,Piteå,,Piteå,383,9,1621,39
 2021,5,2581,Piteå,,Piteå,400,17,1693,72
+2021,6,2581,Piteå,,Piteå,418,18,1769,76
 2020,1,2303,Ragunda,,Ragunda,0,0,0,0
 2020,2,2303,Ragunda,,Ragunda,0,0,0,0
 2020,3,2303,Ragunda,,Ragunda,0,0,0,0
@@ -11309,6 +11503,7 @@
 2021,3,2303,Ragunda,,Ragunda,204,9,108,5
 2021,4,2303,Ragunda,,Ragunda,223,19,118,10
 2021,5,2303,Ragunda,,Ragunda,231,8,122,4
+2021,6,2303,Ragunda,,Ragunda,237,6,125,3
 2020,1,2409,Robertsfors,,Robertsfors,0,0,0,0
 2020,2,2409,Robertsfors,,Robertsfors,0,0,0,0
 2020,3,2409,Robertsfors,,Robertsfors,0,0,0,0
@@ -11367,6 +11562,7 @@
 2021,3,2409,Robertsfors,,Robertsfors,212,1,143,1
 2021,4,2409,Robertsfors,,Robertsfors,216,4,146,3
 2021,5,2409,Robertsfors,,Robertsfors,218,1,147,1
+2021,6,2409,Robertsfors,,Robertsfors,221,3,149,2
 2020,1,1081,Ronneby,,Ronneby,0,0,0,0
 2020,2,1081,Ronneby,,Ronneby,0,0,0,0
 2020,3,1081,Ronneby,,Ronneby,0,0,0,0
@@ -11425,6 +11621,7 @@
 2021,3,1081,Ronneby,,Ronneby,454,24,1344,71
 2021,4,1081,Ronneby,,Ronneby,466,12,1381,37
 2021,5,1081,Ronneby,,Ronneby,473,7,1401,20
+2021,6,1081,Ronneby,,Ronneby,482,9,1428,27
 2020,1,2031,Rättvik,,Rättvik,0,0,0,0
 2020,2,2031,Rättvik,,Rättvik,0,0,0,0
 2020,3,2031,Rättvik,,Rättvik,0,0,0,0
@@ -11483,6 +11680,7 @@
 2021,3,2031,Rättvik,,Rättvik,393,5,430,6
 2021,4,2031,Rättvik,,Rättvik,396,4,434,4
 2021,5,2031,Rättvik,,Rättvik,398,2,436,2
+2021,6,2031,Rättvik,,Rättvik,407,9,446,10
 2020,1,1981,Sala,,Sala,0,0,0,0
 2020,2,1981,Sala,,Sala,0,0,0,0
 2020,3,1981,Sala,,Sala,0,0,0,0
@@ -11541,6 +11739,7 @@
 2021,3,1981,Sala,,Sala,484,11,1107,26
 2021,4,1981,Sala,,Sala,490,6,1121,14
 2021,5,1981,Sala,,Sala,499,10,1143,22
+2021,6,1981,Sala,,Sala,506,7,1159,16
 2020,1,0128,Salem,,Salem,0,0,0,0
 2020,2,0128,Salem,,Salem,0,0,0,0
 2020,3,0128,Salem,,Salem,0,0,0,0
@@ -11599,6 +11798,7 @@
 2021,3,0128,Salem,,Salem,569,9,953,15
 2021,4,0128,Salem,,Salem,575,6,963,10
 2021,5,0128,Salem,,Salem,594,19,995,32
+2021,6,0128,Salem,,Salem,604,10,1012,17
 2020,1,2181,Sandviken,,Sandviken,0,0,0,0
 2020,2,2181,Sandviken,,Sandviken,0,0,0,0
 2020,3,2181,Sandviken,,Sandviken,0,0,0,0
@@ -11657,6 +11857,7 @@
 2021,3,2181,Sandviken,,Sandviken,545,20,2140,77
 2021,4,2181,Sandviken,,Sandviken,552,7,2167,27
 2021,5,2181,Sandviken,,Sandviken,570,18,2238,71
+2021,6,2181,Sandviken,,Sandviken,594,23,2329,91
 2020,1,0191,Sigtuna,,Sigtuna,0,0,0,0
 2020,2,0191,Sigtuna,,Sigtuna,0,0,0,0
 2020,3,0191,Sigtuna,,Sigtuna,0,0,0,0
@@ -11715,6 +11916,7 @@
 2021,3,0191,Sigtuna,,Sigtuna,440,17,2152,82
 2021,4,0191,Sigtuna,,Sigtuna,455,16,2228,76
 2021,5,0191,Sigtuna,,Sigtuna,467,12,2288,60
+2021,6,0191,Sigtuna,,Sigtuna,486,18,2378,90
 2020,1,1291,Simrishamn,,Simrishamn,0,0,0,0
 2020,2,1291,Simrishamn,,Simrishamn,0,0,0,0
 2020,3,1291,Simrishamn,,Simrishamn,0,0,0,0
@@ -11773,6 +11975,7 @@
 2021,3,1291,Simrishamn,,Simrishamn,380,24,729,46
 2021,4,1291,Simrishamn,,Simrishamn,403,23,773,44
 2021,5,1291,Simrishamn,,Simrishamn,426,22,816,43
+2021,6,1291,Simrishamn,,Simrishamn,455,30,873,57
 2020,1,1265,Sjöbo,,Sjöbo,0,0,0,0
 2020,2,1265,Sjöbo,,Sjöbo,0,0,0,0
 2020,3,1265,Sjöbo,,Sjöbo,0,0,0,0
@@ -11831,6 +12034,7 @@
 2021,3,1265,Sjöbo,,Sjöbo,434,30,834,57
 2021,4,1265,Sjöbo,,Sjöbo,467,33,897,63
 2021,5,1265,Sjöbo,,Sjöbo,486,19,934,37
+2021,6,1265,Sjöbo,,Sjöbo,506,20,972,38
 2020,1,1495,Skara,,Skara,0,0,0,0
 2020,2,1495,Skara,,Skara,0,0,0,0
 2020,3,1495,Skara,,Skara,0,0,0,0
@@ -11889,6 +12093,7 @@
 2021,3,1495,Skara,,Skara,363,10,684,19
 2021,4,1495,Skara,,Skara,374,11,705,21
 2021,5,1495,Skara,,Skara,398,23,749,44
+2021,6,1495,Skara,,Skara,425,28,801,52
 2020,1,2482,Skellefteå,,Skellefteå,0,0,0,0
 2020,2,2482,Skellefteå,,Skellefteå,0,0,0,0
 2020,3,2482,Skellefteå,,Skellefteå,0,0,0,0
@@ -11947,6 +12152,7 @@
 2021,3,2482,Skellefteå,,Skellefteå,504,16,3655,118
 2021,4,2482,Skellefteå,,Skellefteå,523,19,3796,141
 2021,5,2482,Skellefteå,,Skellefteå,569,46,4133,337
+2021,6,2482,Skellefteå,,Skellefteå,622,53,4518,385
 2020,1,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
 2020,2,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
 2020,3,1904,Skinnskatteberg,,Skinnskatteberg,0,0,0,0
@@ -12005,6 +12211,7 @@
 2021,3,1904,Skinnskatteberg,,Skinnskatteberg,300,9,132,4
 2021,4,1904,Skinnskatteberg,,Skinnskatteberg,303,2,133,1
 2021,5,1904,Skinnskatteberg,,Skinnskatteberg,312,9,137,4
+2021,6,1904,Skinnskatteberg,,Skinnskatteberg,314,2,138,1
 2020,1,1264,Skurup,,Skurup,0,0,0,0
 2020,2,1264,Skurup,,Skurup,0,0,0,0
 2020,3,1264,Skurup,,Skurup,0,0,0,0
@@ -12063,6 +12270,7 @@
 2021,3,1264,Skurup,,Skurup,690,53,1097,84
 2021,4,1264,Skurup,,Skurup,727,37,1155,58
 2021,5,1264,Skurup,,Skurup,751,24,1193,38
+2021,6,1264,Skurup,,Skurup,770,19,1223,30
 2020,1,1496,Skövde,,Skövde,0,0,0,0
 2020,2,1496,Skövde,,Skövde,0,0,0,0
 2020,3,1496,Skövde,,Skövde,0,0,0,0
@@ -12121,6 +12329,7 @@
 2021,3,1496,Skövde,,Skövde,560,16,3158,89
 2021,4,1496,Skövde,,Skövde,579,19,3266,108
 2021,5,1496,Skövde,,Skövde,595,16,3355,89
+2021,6,1496,Skövde,,Skövde,613,18,3455,100
 2020,1,2061,Smedjebacken,,Smedjebacken,0,0,0,0
 2020,2,2061,Smedjebacken,,Smedjebacken,0,0,0,0
 2020,3,2061,Smedjebacken,,Smedjebacken,0,0,0,0
@@ -12179,6 +12388,7 @@
 2021,3,2061,Smedjebacken,,Smedjebacken,394,19,429,21
 2021,4,2061,Smedjebacken,,Smedjebacken,400,6,436,7
 2021,5,2061,Smedjebacken,,Smedjebacken,414,14,451,15
+2021,6,2061,Smedjebacken,,Smedjebacken,432,18,471,20
 2020,1,2283,Sollefteå,,Sollefteå,0,0,0,0
 2020,2,2283,Sollefteå,,Sollefteå,0,0,0,0
 2020,3,2283,Sollefteå,,Sollefteå,0,0,0,0
@@ -12237,6 +12447,7 @@
 2021,3,2283,Sollefteå,,Sollefteå,428,27,820,51
 2021,4,2283,Sollefteå,,Sollefteå,446,17,853,33
 2021,5,2283,Sollefteå,,Sollefteå,460,14,880,27
+2021,6,2283,Sollefteå,,Sollefteå,471,11,901,21
 2020,1,0163,Sollentuna,,Sollentuna,0,0,0,0
 2020,2,0163,Sollentuna,,Sollentuna,0,0,0,0
 2020,3,0163,Sollentuna,,Sollentuna,0,0,0,0
@@ -12295,6 +12506,7 @@
 2021,3,0163,Sollentuna,,Sollentuna,547,12,4038,91
 2021,4,0163,Sollentuna,,Sollentuna,564,17,4166,128
 2021,5,0163,Sollentuna,,Sollentuna,583,19,4303,137
+2021,6,0163,Sollentuna,,Sollentuna,600,18,4435,132
 2020,1,0184,Solna,,Solna,0,0,0,0
 2020,2,0184,Solna,,Solna,0,0,0,0
 2020,3,0184,Solna,,Solna,0,0,0,0
@@ -12353,6 +12565,7 @@
 2021,3,0184,Solna,,Solna,546,14,4503,118
 2021,4,0184,Solna,,Solna,560,14,4615,112
 2021,5,0184,Solna,,Solna,572,12,4711,96
+2021,6,0184,Solna,,Solna,587,16,4841,130
 2020,1,2422,Sorsele,,Sorsele,0,0,0,0
 2020,2,2422,Sorsele,,Sorsele,0,0,0,0
 2020,3,2422,Sorsele,,Sorsele,0,0,0,0
@@ -12411,6 +12624,7 @@
 2021,3,2422,Sorsele,,Sorsele,96,0,24,0
 2021,4,2422,Sorsele,,Sorsele,108,12,27,3
 2021,5,2422,Sorsele,,Sorsele,121,12,30,3
+2021,6,2422,Sorsele,,Sorsele,193,72,48,18
 2020,1,1427,Sotenäs,,Sotenäs,0,0,0,0
 2020,2,1427,Sotenäs,,Sotenäs,0,0,0,0
 2020,3,1427,Sotenäs,,Sotenäs,0,0,0,0
@@ -12469,6 +12683,7 @@
 2021,3,1427,Sotenäs,,Sotenäs,423,17,383,15
 2021,4,1427,Sotenäs,,Sotenäs,427,4,387,4
 2021,5,1427,Sotenäs,,Sotenäs,436,9,395,8
+2021,6,1427,Sotenäs,,Sotenäs,472,36,428,33
 2020,1,1230,Staffanstorp,,Staffanstorp,0,0,0,0
 2020,2,1230,Staffanstorp,,Staffanstorp,0,0,0,0
 2020,3,1230,Staffanstorp,,Staffanstorp,0,0,0,0
@@ -12527,6 +12742,7 @@
 2021,3,1230,Staffanstorp,,Staffanstorp,655,48,1663,122
 2021,4,1230,Staffanstorp,,Staffanstorp,683,28,1735,72
 2021,5,1230,Staffanstorp,,Staffanstorp,705,22,1791,56
+2021,6,1230,Staffanstorp,,Staffanstorp,715,10,1816,25
 2020,1,1415,Stenungsund,,Stenungsund,0,0,0,0
 2020,2,1415,Stenungsund,,Stenungsund,0,0,0,0
 2020,3,1415,Stenungsund,,Stenungsund,0,0,0,0
@@ -12585,6 +12801,7 @@
 2021,3,1415,Stenungsund,,Stenungsund,483,25,1292,67
 2021,4,1415,Stenungsund,,Stenungsund,515,32,1378,86
 2021,5,1415,Stenungsund,,Stenungsund,542,27,1450,72
+2021,6,1415,Stenungsund,,Stenungsund,588,47,1575,125
 2020,1,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
 2020,2,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
 2020,3,0180,Stockholm,Bromma,Stockholm Bromma,0,0,0,0
@@ -12643,6 +12860,7 @@
 2021,3,0180,Stockholm,Bromma,Stockholm Bromma,568,15,4583,120
 2021,4,0180,Stockholm,Bromma,Stockholm Bromma,577,9,4659,76
 2021,5,0180,Stockholm,Bromma,Stockholm Bromma,591,14,4769,110
+2021,6,0180,Stockholm,Bromma,Stockholm Bromma,607,16,4899,130
 2020,1,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
 2020,2,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
 2020,3,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,0,0,0,0
@@ -12701,6 +12919,7 @@
 2021,3,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,577,14,5934,145
 2021,4,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,590,13,6070,136
 2021,5,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,604,13,6208,138
+2021,6,0180,Stockholm,Enskede-Årsta-Vantör,Stockholm Enskede-Årsta-Vantör,621,17,6381,173
 2020,1,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
 2020,2,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
 2020,3,0180,Stockholm,Farsta,Stockholm Farsta,0,0,0,0
@@ -12759,6 +12978,7 @@
 2021,3,0180,Stockholm,Farsta,Stockholm Farsta,604,16,3595,98
 2021,4,0180,Stockholm,Farsta,Stockholm Farsta,619,15,3686,91
 2021,5,0180,Stockholm,Farsta,Stockholm Farsta,632,13,3763,77
+2021,6,0180,Stockholm,Farsta,Stockholm Farsta,650,18,3871,108
 2020,1,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
 2020,2,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
 2020,3,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,0,0,0,0
@@ -12817,6 +13037,7 @@
 2021,3,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,567,17,5201,157
 2021,4,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,588,21,5395,194
 2021,5,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,605,17,5548,153
+2021,6,0180,Stockholm,Hägersten-Liljeholmen,Stockholm Hägersten-Liljeholmen,621,17,5700,152
 2020,1,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
 2020,2,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
 2020,3,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,0,0,0,0
@@ -12875,6 +13096,7 @@
 2021,3,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,530,16,4060,126
 2021,4,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,544,14,4164,104
 2021,5,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,555,12,4253,89
+2021,6,0180,Stockholm,Hässelby-Vällingby,Stockholm Hässelby-Vällingby,573,17,4385,132
 2020,1,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
 2020,2,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
 2020,3,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,0,0,0,0
@@ -12933,6 +13155,7 @@
 2021,3,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,594,14,4235,99
 2021,4,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,609,15,4342,107
 2021,5,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,628,19,4475,133
+2021,6,0180,Stockholm,Kungsholmen,Stockholm Kungsholmen,648,20,4618,143
 2020,1,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
 2020,2,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
 2020,3,0180,Stockholm,Norrmalm,Stockholm Norrmalm,0,0,0,0
@@ -12991,6 +13214,7 @@
 2021,3,0180,Stockholm,Norrmalm,Stockholm Norrmalm,648,18,4749,130
 2021,4,0180,Stockholm,Norrmalm,Stockholm Norrmalm,661,13,4846,97
 2021,5,0180,Stockholm,Norrmalm,Stockholm Norrmalm,675,14,4950,104
+2021,6,0180,Stockholm,Norrmalm,Stockholm Norrmalm,691,16,5069,119
 2020,1,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
 2020,2,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
 2020,3,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,0,0,0,0
@@ -13049,6 +13273,7 @@
 2021,3,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,502,9,2571,47
 2021,4,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,510,8,2612,41
 2021,5,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,520,10,2663,51
+2021,6,0180,Stockholm,Rinkeby-Kista,Stockholm Rinkeby-Kista,530,10,2715,52
 2020,1,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
 2020,2,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
 2020,3,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,0,0,0,0
@@ -13107,6 +13332,7 @@
 2021,3,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,538,11,2500,51
 2021,4,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,550,12,2557,57
 2021,5,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,558,8,2595,38
+2021,6,0180,Stockholm,Skarpnäck,Stockholm Skarpnäck,577,18,2679,84
 2020,1,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
 2020,2,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
 2020,3,0180,Stockholm,Skärholmen,Stockholm Skärholmen,0,0,0,0
@@ -13165,6 +13391,7 @@
 2021,3,0180,Stockholm,Skärholmen,Stockholm Skärholmen,597,20,2258,75
 2021,4,0180,Stockholm,Skärholmen,Stockholm Skärholmen,607,10,2295,37
 2021,5,0180,Stockholm,Skärholmen,Stockholm Skärholmen,619,12,2340,45
+2021,6,0180,Stockholm,Skärholmen,Stockholm Skärholmen,631,12,2386,46
 2020,1,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
 2020,2,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
 2020,3,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,0,0,0,0
@@ -13223,6 +13450,7 @@
 2021,3,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,492,14,1914,55
 2021,4,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,502,10,1954,40
 2021,5,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,513,11,1997,43
+2021,6,0180,Stockholm,Spånga-Tensta,Stockholm Spånga-Tensta,527,14,2053,56
 2020,1,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
 2020,2,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
 2020,3,0180,Stockholm,Södermalm,Stockholm Södermalm,0,0,0,0
@@ -13281,6 +13509,7 @@
 2021,3,0180,Stockholm,Södermalm,Stockholm Södermalm,590,12,7738,156
 2021,4,0180,Stockholm,Södermalm,Stockholm Södermalm,602,12,7899,161
 2021,5,0180,Stockholm,Södermalm,Stockholm Södermalm,614,12,8052,153
+2021,6,0180,Stockholm,Södermalm,Stockholm Södermalm,629,15,8249,197
 2020,1,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
 2020,2,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
 2020,3,0180,Stockholm,Älvsjö,Stockholm Älvsjö,0,0,0,0
@@ -13339,6 +13568,7 @@
 2021,3,0180,Stockholm,Älvsjö,Stockholm Älvsjö,567,16,1789,51
 2021,4,0180,Stockholm,Älvsjö,Stockholm Älvsjö,588,21,1855,66
 2021,5,0180,Stockholm,Älvsjö,Stockholm Älvsjö,604,16,1905,50
+2021,6,0180,Stockholm,Älvsjö,Stockholm Älvsjö,636,32,2005,100
 2020,1,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
 2020,2,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
 2020,3,0180,Stockholm,Östermalm,Stockholm Östermalm,0,0,0,0
@@ -13397,6 +13627,7 @@
 2021,3,0180,Stockholm,Östermalm,Stockholm Östermalm,608,14,4763,113
 2021,4,0180,Stockholm,Östermalm,Stockholm Östermalm,624,16,4890,127
 2021,5,0180,Stockholm,Östermalm,Stockholm Östermalm,635,11,4975,85
+2021,6,0180,Stockholm,Östermalm,Stockholm Östermalm,653,18,5118,143
 2020,1,1760,Storfors,,Storfors,0,0,0,0
 2020,2,1760,Storfors,,Storfors,0,0,0,0
 2020,3,1760,Storfors,,Storfors,0,0,0,0
@@ -13455,6 +13686,7 @@
 2021,3,1760,Storfors,,Storfors,239,2,96,1
 2021,4,1760,Storfors,,Storfors,252,12,101,5
 2021,5,1760,Storfors,,Storfors,252,0,101,0
+2021,6,1760,Storfors,,Storfors,254,2,102,1
 2020,1,2421,Storuman,,Storuman,0,0,0,0
 2020,2,2421,Storuman,,Storuman,0,0,0,0
 2020,3,2421,Storuman,,Storuman,0,0,0,0
@@ -13513,6 +13745,7 @@
 2021,3,2421,Storuman,,Storuman,352,26,206,15
 2021,4,2421,Storuman,,Storuman,400,48,234,28
 2021,5,2421,Storuman,,Storuman,422,22,247,13
+2021,6,2421,Storuman,,Storuman,453,31,265,18
 2020,1,0486,Strängnäs,,Strängnäs,0,0,0,0
 2020,2,0486,Strängnäs,,Strängnäs,0,0,0,0
 2020,3,0486,Strängnäs,,Strängnäs,0,0,0,0
@@ -13571,6 +13804,7 @@
 2021,3,0486,Strängnäs,,Strängnäs,343,13,1255,46
 2021,4,0486,Strängnäs,,Strängnäs,357,13,1303,48
 2021,5,0486,Strängnäs,,Strängnäs,364,7,1329,26
+2021,6,0486,Strängnäs,,Strängnäs,375,11,1369,40
 2020,1,1486,Strömstad,,Strömstad,0,0,0,0
 2020,2,1486,Strömstad,,Strömstad,0,0,0,0
 2020,3,1486,Strömstad,,Strömstad,0,0,0,0
@@ -13629,6 +13863,7 @@
 2021,3,1486,Strömstad,,Strömstad,306,47,404,62
 2021,4,1486,Strömstad,,Strömstad,384,79,508,104
 2021,5,1486,Strömstad,,Strömstad,442,57,584,76
+2021,6,1486,Strömstad,,Strömstad,476,34,629,45
 2020,1,2313,Strömsund,,Strömsund,0,0,0,0
 2020,2,2313,Strömsund,,Strömsund,0,0,0,0
 2020,3,2313,Strömsund,,Strömsund,0,0,0,0
@@ -13687,6 +13922,7 @@
 2021,3,2313,Strömsund,,Strömsund,388,34,450,39
 2021,4,2313,Strömsund,,Strömsund,408,21,474,24
 2021,5,2313,Strömsund,,Strömsund,427,18,495,21
+2021,6,2313,Strömsund,,Strömsund,437,10,507,12
 2020,1,0183,Sundbyberg,,Sundbyberg,0,0,0,0
 2020,2,0183,Sundbyberg,,Sundbyberg,0,0,0,0
 2020,3,0183,Sundbyberg,,Sundbyberg,0,0,0,0
@@ -13745,6 +13981,7 @@
 2021,3,0183,Sundbyberg,,Sundbyberg,609,14,3191,72
 2021,4,0183,Sundbyberg,,Sundbyberg,628,19,3290,99
 2021,5,0183,Sundbyberg,,Sundbyberg,644,16,3374,84
+2021,6,0183,Sundbyberg,,Sundbyberg,660,16,3458,84
 2020,1,2281,Sundsvall,,Sundsvall,0,0,0,0
 2020,2,2281,Sundsvall,,Sundsvall,0,0,0,0
 2020,3,2281,Sundsvall,,Sundsvall,0,0,0,0
@@ -13803,6 +14040,7 @@
 2021,3,2281,Sundsvall,,Sundsvall,640,18,6361,179
 2021,4,2281,Sundsvall,,Sundsvall,658,18,6540,179
 2021,5,2281,Sundsvall,,Sundsvall,682,24,6779,239
+2021,6,2281,Sundsvall,,Sundsvall,703,21,6989,210
 2020,1,1766,Sunne,,Sunne,0,0,0,0
 2020,2,1766,Sunne,,Sunne,0,0,0,0
 2020,3,1766,Sunne,,Sunne,0,0,0,0
@@ -13861,6 +14099,7 @@
 2021,3,1766,Sunne,,Sunne,157,2,209,3
 2021,4,1766,Sunne,,Sunne,171,14,227,18
 2021,5,1766,Sunne,,Sunne,182,11,242,15
+2021,6,1766,Sunne,,Sunne,190,8,253,11
 2020,1,1907,Surahammar,,Surahammar,0,0,0,0
 2020,2,1907,Surahammar,,Surahammar,0,0,0,0
 2020,3,1907,Surahammar,,Surahammar,0,0,0,0
@@ -13919,6 +14158,7 @@
 2021,3,1907,Surahammar,,Surahammar,561,56,567,57
 2021,4,1907,Surahammar,,Surahammar,596,35,602,35
 2021,5,1907,Surahammar,,Surahammar,611,15,617,15
+2021,6,1907,Surahammar,,Surahammar,613,3,620,3
 2020,1,1214,Svalöv,,Svalöv,0,0,0,0
 2020,2,1214,Svalöv,,Svalöv,0,0,0,0
 2020,3,1214,Svalöv,,Svalöv,0,0,0,0
@@ -13977,6 +14217,7 @@
 2021,3,1214,Svalöv,,Svalöv,563,27,804,39
 2021,4,1214,Svalöv,,Svalöv,589,25,840,36
 2021,5,1214,Svalöv,,Svalöv,608,20,868,28
+2021,6,1214,Svalöv,,Svalöv,628,20,896,28
 2020,1,1263,Svedala,,Svedala,0,0,0,0
 2020,2,1263,Svedala,,Svedala,0,0,0,0
 2020,3,1263,Svedala,,Svedala,0,0,0,0
@@ -14035,6 +14276,7 @@
 2021,3,1263,Svedala,,Svedala,676,36,1503,81
 2021,4,1263,Svedala,,Svedala,716,40,1592,89
 2021,5,1263,Svedala,,Svedala,758,41,1684,92
+2021,6,1263,Svedala,,Svedala,788,30,1751,67
 2020,1,1465,Svenljunga,,Svenljunga,0,0,0,0
 2020,2,1465,Svenljunga,,Svenljunga,0,0,0,0
 2020,3,1465,Svenljunga,,Svenljunga,0,0,0,0
@@ -14093,6 +14335,7 @@
 2021,3,1465,Svenljunga,,Svenljunga,427,9,460,10
 2021,4,1465,Svenljunga,,Svenljunga,437,10,471,11
 2021,5,1465,Svenljunga,,Svenljunga,444,7,479,8
+2021,6,1465,Svenljunga,,Svenljunga,451,6,486,7
 2020,1,1785,Säffle,,Säffle,0,0,0,0
 2020,2,1785,Säffle,,Säffle,0,0,0,0
 2020,3,1785,Säffle,,Säffle,0,0,0,0
@@ -14151,6 +14394,7 @@
 2021,3,1785,Säffle,,Säffle,248,27,384,41
 2021,4,1785,Säffle,,Säffle,287,38,443,59
 2021,5,1785,Säffle,,Säffle,319,32,493,50
+2021,6,1785,Säffle,,Säffle,331,12,512,19
 2020,1,2082,Säter,,Säter,0,0,0,0
 2020,2,2082,Säter,,Säter,0,0,0,0
 2020,3,2082,Säter,,Säter,0,0,0,0
@@ -14209,6 +14453,7 @@
 2021,3,2082,Säter,,Säter,369,15,409,17
 2021,4,2082,Säter,,Säter,397,28,440,31
 2021,5,2082,Säter,,Säter,407,10,451,11
+2021,6,2082,Säter,,Säter,409,3,454,3
 2020,1,0684,Sävsjö,,Sävsjö,0,0,0,0
 2020,2,0684,Sävsjö,,Sävsjö,0,0,0,0
 2020,3,0684,Sävsjö,,Sävsjö,0,0,0,0
@@ -14267,6 +14512,7 @@
 2021,3,0684,Sävsjö,,Sävsjö,684,108,799,126
 2021,4,0684,Sävsjö,,Sävsjö,789,104,921,122
 2021,5,0684,Sävsjö,,Sävsjö,869,81,1015,94
+2021,6,0684,Sävsjö,,Sävsjö,927,57,1082,67
 2020,1,2182,Söderhamn,,Söderhamn,0,0,0,0
 2020,2,2182,Söderhamn,,Söderhamn,0,0,0,0
 2020,3,2182,Söderhamn,,Söderhamn,0,0,0,0
@@ -14325,6 +14571,7 @@
 2021,3,2182,Söderhamn,,Söderhamn,789,12,2023,31
 2021,4,2182,Söderhamn,,Söderhamn,804,15,2062,39
 2021,5,2182,Söderhamn,,Söderhamn,820,16,2102,40
+2021,6,2182,Söderhamn,,Söderhamn,850,30,2179,77
 2020,1,0582,Söderköping,,Söderköping,0,0,0,0
 2020,2,0582,Söderköping,,Söderköping,0,0,0,0
 2020,3,0582,Söderköping,,Söderköping,0,0,0,0
@@ -14383,6 +14630,7 @@
 2021,3,0582,Söderköping,,Söderköping,265,14,387,20
 2021,4,0582,Söderköping,,Söderköping,276,11,403,16
 2021,5,0582,Söderköping,,Söderköping,289,14,423,20
+2021,6,0582,Söderköping,,Söderköping,297,8,434,11
 2020,1,0181,Södertälje,,Södertälje,0,0,0,0
 2020,2,0181,Södertälje,,Södertälje,0,0,0,0
 2020,3,0181,Södertälje,,Södertälje,0,0,0,0
@@ -14441,6 +14689,7 @@
 2021,3,0181,Södertälje,,Södertälje,755,19,7475,184
 2021,4,0181,Södertälje,,Södertälje,769,14,7610,135
 2021,5,0181,Södertälje,,Södertälje,778,10,7705,95
+2021,6,0181,Södertälje,,Södertälje,789,10,7806,101
 2020,1,1083,Sölvesborg,,Sölvesborg,0,0,0,0
 2020,2,1083,Sölvesborg,,Sölvesborg,0,0,0,0
 2020,3,1083,Sölvesborg,,Sölvesborg,0,0,0,0
@@ -14499,6 +14748,7 @@
 2021,3,1083,Sölvesborg,,Sölvesborg,399,28,696,49
 2021,4,1083,Sölvesborg,,Sölvesborg,419,20,731,35
 2021,5,1083,Sölvesborg,,Sölvesborg,440,21,768,37
+2021,6,1083,Sölvesborg,,Sölvesborg,450,10,786,18
 2020,1,1435,Tanum,,Tanum,0,0,0,0
 2020,2,1435,Tanum,,Tanum,0,0,0,0
 2020,3,1435,Tanum,,Tanum,0,0,0,0
@@ -14557,6 +14807,7 @@
 2021,3,1435,Tanum,,Tanum,326,31,418,40
 2021,4,1435,Tanum,,Tanum,365,40,469,51
 2021,5,1435,Tanum,,Tanum,407,41,522,53
+2021,6,1435,Tanum,,Tanum,449,43,577,55
 2020,1,1472,Tibro,,Tibro,0,0,0,0
 2020,2,1472,Tibro,,Tibro,0,0,0,0
 2020,3,1472,Tibro,,Tibro,0,0,0,0
@@ -14615,6 +14866,7 @@
 2021,3,1472,Tibro,,Tibro,625,21,703,24
 2021,4,1472,Tibro,,Tibro,635,10,714,11
 2021,5,1472,Tibro,,Tibro,643,8,723,9
+2021,6,1472,Tibro,,Tibro,651,8,732,9
 2020,1,1498,Tidaholm,,Tidaholm,0,0,0,0
 2020,2,1498,Tidaholm,,Tidaholm,0,0,0,0
 2020,3,1498,Tidaholm,,Tidaholm,0,0,0,0
@@ -14673,6 +14925,7 @@
 2021,3,1498,Tidaholm,,Tidaholm,420,19,540,24
 2021,4,1498,Tidaholm,,Tidaholm,431,11,554,14
 2021,5,1498,Tidaholm,,Tidaholm,437,5,561,7
+2021,6,1498,Tidaholm,,Tidaholm,452,15,580,19
 2020,1,0360,Tierp,,Tierp,0,0,0,0
 2020,2,0360,Tierp,,Tierp,0,0,0,0
 2020,3,0360,Tierp,,Tierp,0,0,0,0
@@ -14731,6 +14984,7 @@
 2021,3,0360,Tierp,,Tierp,503,21,1064,45
 2021,4,0360,Tierp,,Tierp,511,8,1081,17
 2021,5,0360,Tierp,,Tierp,519,7,1096,15
+2021,6,0360,Tierp,,Tierp,528,9,1116,20
 2020,1,2262,Timrå,,Timrå,0,0,0,0
 2020,2,2262,Timrå,,Timrå,0,0,0,0
 2020,3,2262,Timrå,,Timrå,0,0,0,0
@@ -14789,6 +15043,7 @@
 2021,3,2262,Timrå,,Timrå,620,32,1115,57
 2021,4,2262,Timrå,,Timrå,654,34,1176,61
 2021,5,2262,Timrå,,Timrå,687,33,1235,59
+2021,6,2262,Timrå,,Timrå,709,22,1275,40
 2020,1,0763,Tingsryd,,Tingsryd,0,0,0,0
 2020,2,0763,Tingsryd,,Tingsryd,0,0,0,0
 2020,3,0763,Tingsryd,,Tingsryd,0,0,0,0
@@ -14847,6 +15102,7 @@
 2021,3,0763,Tingsryd,,Tingsryd,347,19,430,23
 2021,4,0763,Tingsryd,,Tingsryd,355,8,440,10
 2021,5,0763,Tingsryd,,Tingsryd,368,13,456,16
+2021,6,0763,Tingsryd,,Tingsryd,381,13,472,16
 2020,1,1419,Tjörn,,Tjörn,0,0,0,0
 2020,2,1419,Tjörn,,Tjörn,0,0,0,0
 2020,3,1419,Tjörn,,Tjörn,0,0,0,0
@@ -14905,6 +15161,7 @@
 2021,3,1419,Tjörn,,Tjörn,381,22,611,36
 2021,4,1419,Tjörn,,Tjörn,406,25,651,40
 2021,5,1419,Tjörn,,Tjörn,453,47,726,75
+2021,6,1419,Tjörn,,Tjörn,485,32,777,51
 2020,1,1270,Tomelilla,,Tomelilla,0,0,0,0
 2020,2,1270,Tomelilla,,Tomelilla,0,0,0,0
 2020,3,1270,Tomelilla,,Tomelilla,0,0,0,0
@@ -14963,6 +15220,7 @@
 2021,3,1270,Tomelilla,,Tomelilla,445,29,606,39
 2021,4,1270,Tomelilla,,Tomelilla,469,24,638,32
 2021,5,1270,Tomelilla,,Tomelilla,485,17,661,23
+2021,6,1270,Tomelilla,,Tomelilla,506,21,689,28
 2020,1,1737,Torsby,,Torsby,0,0,0,0
 2020,2,1737,Torsby,,Torsby,0,0,0,0
 2020,3,1737,Torsby,,Torsby,0,0,0,0
@@ -15021,6 +15279,7 @@
 2021,3,1737,Torsby,,Torsby,163,2,189,2
 2021,4,1737,Torsby,,Torsby,168,5,195,6
 2021,5,1737,Torsby,,Torsby,176,8,204,9
+2021,6,1737,Torsby,,Torsby,184,9,214,10
 2020,1,0834,Torsås,,Torsås,0,0,0,0
 2020,2,0834,Torsås,,Torsås,0,0,0,0
 2020,3,0834,Torsås,,Torsås,0,0,0,0
@@ -15079,6 +15338,7 @@
 2021,3,0834,Torsås,,Torsås,267,20,190,14
 2021,4,0834,Torsås,,Torsås,276,10,197,7
 2021,5,0834,Torsås,,Torsås,292,15,208,11
+2021,6,0834,Torsås,,Torsås,300,8,214,6
 2020,1,1452,Tranemo,,Tranemo,0,0,0,0
 2020,2,1452,Tranemo,,Tranemo,0,0,0,0
 2020,3,1452,Tranemo,,Tranemo,0,0,0,0
@@ -15137,6 +15397,7 @@
 2021,3,1452,Tranemo,,Tranemo,474,23,566,27
 2021,4,1452,Tranemo,,Tranemo,492,18,587,21
 2021,5,1452,Tranemo,,Tranemo,502,10,599,12
+2021,6,1452,Tranemo,,Tranemo,515,13,615,16
 2020,1,0687,Tranås,,Tranås,0,0,0,0
 2020,2,0687,Tranås,,Tranås,0,0,0,0
 2020,3,0687,Tranås,,Tranås,0,0,0,0
@@ -15195,6 +15456,7 @@
 2021,3,0687,Tranås,,Tranås,352,33,668,63
 2021,4,0687,Tranås,,Tranås,382,31,726,58
 2021,5,0687,Tranås,,Tranås,400,18,761,35
+2021,6,0687,Tranås,,Tranås,424,23,805,44
 2020,1,1287,Trelleborg,,Trelleborg,0,0,0,0
 2020,2,1287,Trelleborg,,Trelleborg,0,0,0,0
 2020,3,1287,Trelleborg,,Trelleborg,0,0,0,0
@@ -15250,9 +15512,10 @@
 2020,53,1287,Trelleborg,,Trelleborg,445,79,2024,358
 2021,1,1287,Trelleborg,,Trelleborg,543,98,2468,444
 2021,2,1287,Trelleborg,,Trelleborg,613,70,2784,316
-2021,3,1287,Trelleborg,,Trelleborg,648,36,2946,162
-2021,4,1287,Trelleborg,,Trelleborg,680,31,3089,143
-2021,5,1287,Trelleborg,,Trelleborg,705,26,3205,116
+2021,3,1287,Trelleborg,,Trelleborg,649,36,2947,163
+2021,4,1287,Trelleborg,,Trelleborg,680,31,3090,143
+2021,5,1287,Trelleborg,,Trelleborg,706,26,3206,116
+2021,6,1287,Trelleborg,,Trelleborg,737,31,3347,141
 2020,1,1488,Trollhättan,,Trollhättan,0,0,0,0
 2020,2,1488,Trollhättan,,Trollhättan,0,0,0,0
 2020,3,1488,Trollhättan,,Trollhättan,0,0,0,0
@@ -15311,6 +15574,7 @@
 2021,3,1488,Trollhättan,,Trollhättan,572,20,3378,120
 2021,4,1488,Trollhättan,,Trollhättan,593,21,3501,123
 2021,5,1488,Trollhättan,,Trollhättan,613,20,3619,118
+2021,6,1488,Trollhättan,,Trollhättan,630,17,3718,99
 2020,1,0488,Trosa,,Trosa,0,0,0,0
 2020,2,0488,Trosa,,Trosa,0,0,0,0
 2020,3,0488,Trosa,,Trosa,0,0,0,0
@@ -15369,6 +15633,7 @@
 2021,3,0488,Trosa,,Trosa,467,16,642,22
 2021,4,0488,Trosa,,Trosa,476,9,655,13
 2021,5,0488,Trosa,,Trosa,483,7,664,9
+2021,6,0488,Trosa,,Trosa,490,7,674,10
 2020,1,0138,Tyresö,,Tyresö,0,0,0,0
 2020,2,0138,Tyresö,,Tyresö,0,0,0,0
 2020,3,0138,Tyresö,,Tyresö,0,0,0,0
@@ -15427,6 +15692,7 @@
 2021,3,0138,Tyresö,,Tyresö,577,16,2789,78
 2021,4,0138,Tyresö,,Tyresö,593,16,2866,77
 2021,5,0138,Tyresö,,Tyresö,607,14,2934,68
+2021,6,0138,Tyresö,,Tyresö,631,24,3051,117
 2020,1,0160,Täby,,Täby,0,0,0,0
 2020,2,0160,Täby,,Täby,0,0,0,0
 2020,3,0160,Täby,,Täby,0,0,0,0
@@ -15485,6 +15751,7 @@
 2021,3,0160,Täby,,Täby,555,17,3991,120
 2021,4,0160,Täby,,Täby,571,16,4106,115
 2021,5,0160,Täby,,Täby,589,17,4230,124
+2021,6,0160,Täby,,Täby,604,15,4339,109
 2020,1,1473,Töreboda,,Töreboda,0,0,0,0
 2020,2,1473,Töreboda,,Töreboda,0,0,0,0
 2020,3,1473,Töreboda,,Töreboda,0,0,0,0
@@ -15543,6 +15810,7 @@
 2021,3,1473,Töreboda,,Töreboda,367,17,341,16
 2021,4,1473,Töreboda,,Töreboda,379,12,352,11
 2021,5,1473,Töreboda,,Töreboda,387,9,360,8
+2021,6,1473,Töreboda,,Töreboda,391,3,363,3
 2020,1,1485,Uddevalla,,Uddevalla,0,0,0,0
 2020,2,1485,Uddevalla,,Uddevalla,0,0,0,0
 2020,3,1485,Uddevalla,,Uddevalla,0,0,0,0
@@ -15599,8 +15867,9 @@
 2021,1,1485,Uddevalla,,Uddevalla,475,41,2691,235
 2021,2,1485,Uddevalla,,Uddevalla,509,34,2885,194
 2021,3,1485,Uddevalla,,Uddevalla,532,23,3015,130
-2021,4,1485,Uddevalla,,Uddevalla,555,23,3148,133
-2021,5,1485,Uddevalla,,Uddevalla,575,20,3262,114
+2021,4,1485,Uddevalla,,Uddevalla,555,23,3147,132
+2021,5,1485,Uddevalla,,Uddevalla,575,20,3261,114
+2021,6,1485,Uddevalla,,Uddevalla,598,23,3393,132
 2020,1,1491,Ulricehamn,,Ulricehamn,0,0,0,0
 2020,2,1491,Ulricehamn,,Ulricehamn,0,0,0,0
 2020,3,1491,Ulricehamn,,Ulricehamn,0,0,0,0
@@ -15659,6 +15928,7 @@
 2021,3,1491,Ulricehamn,,Ulricehamn,465,21,1146,51
 2021,4,1491,Ulricehamn,,Ulricehamn,479,14,1181,35
 2021,5,1491,Ulricehamn,,Ulricehamn,497,19,1227,46
+2021,6,1491,Ulricehamn,,Ulricehamn,515,17,1270,43
 2020,1,2480,Umeå,,Umeå,0,0,0,0
 2020,2,2480,Umeå,,Umeå,0,0,0,0
 2020,3,2480,Umeå,,Umeå,0,0,0,0
@@ -15717,6 +15987,7 @@
 2021,3,2480,Umeå,,Umeå,361,13,4654,172
 2021,4,2480,Umeå,,Umeå,372,11,4790,136
 2021,5,2480,Umeå,,Umeå,382,11,4930,140
+2021,6,2480,Umeå,,Umeå,396,13,5099,169
 2020,1,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
 2020,2,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
 2020,3,0114,Upplands Väsby,,Upplands Väsby,0,0,0,0
@@ -15775,6 +16046,7 @@
 2021,3,0114,Upplands Väsby,,Upplands Väsby,560,13,2620,61
 2021,4,0114,Upplands Väsby,,Upplands Väsby,575,15,2692,72
 2021,5,0114,Upplands Väsby,,Upplands Väsby,588,12,2750,58
+2021,6,0114,Upplands Väsby,,Upplands Väsby,602,14,2817,67
 2020,1,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
 2020,2,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
 2020,3,0139,Upplands-Bro,,Upplands-Bro,0,0,0,0
@@ -15833,6 +16105,7 @@
 2021,3,0139,Upplands-Bro,,Upplands-Bro,539,15,1582,45
 2021,4,0139,Upplands-Bro,,Upplands-Bro,553,14,1624,42
 2021,5,0139,Upplands-Bro,,Upplands-Bro,563,10,1653,29
+2021,6,0139,Upplands-Bro,,Upplands-Bro,584,20,1713,60
 2020,1,0380,Uppsala,,Uppsala,0,0,0,0
 2020,2,0380,Uppsala,,Uppsala,0,0,0,0
 2020,3,0380,Uppsala,,Uppsala,0,0,0,0
@@ -15891,6 +16164,7 @@
 2021,3,0380,Uppsala,,Uppsala,554,19,12782,440
 2021,4,0380,Uppsala,,Uppsala,568,14,13104,322
 2021,5,0380,Uppsala,,Uppsala,581,13,13402,298
+2021,6,0380,Uppsala,,Uppsala,599,18,13817,415
 2020,1,0760,Uppvidinge,,Uppvidinge,0,0,0,0
 2020,2,0760,Uppvidinge,,Uppvidinge,0,0,0,0
 2020,3,0760,Uppvidinge,,Uppvidinge,0,0,0,0
@@ -15949,6 +16223,7 @@
 2021,3,0760,Uppvidinge,,Uppvidinge,660,43,633,41
 2021,4,0760,Uppvidinge,,Uppvidinge,701,41,672,39
 2021,5,0760,Uppvidinge,,Uppvidinge,717,16,687,15
+2021,6,0760,Uppvidinge,,Uppvidinge,735,19,705,18
 2020,1,0584,Vadstena,,Vadstena,0,0,0,0
 2020,2,0584,Vadstena,,Vadstena,0,0,0,0
 2020,3,0584,Vadstena,,Vadstena,0,0,0,0
@@ -16007,6 +16282,7 @@
 2021,3,0584,Vadstena,,Vadstena,357,32,265,24
 2021,4,0584,Vadstena,,Vadstena,386,30,287,22
 2021,5,0584,Vadstena,,Vadstena,404,18,300,13
+2021,6,0584,Vadstena,,Vadstena,433,30,322,22
 2020,1,0665,Vaggeryd,,Vaggeryd,0,0,0,0
 2020,2,0665,Vaggeryd,,Vaggeryd,0,0,0,0
 2020,3,0665,Vaggeryd,,Vaggeryd,0,0,0,0
@@ -16065,6 +16341,7 @@
 2021,3,0665,Vaggeryd,,Vaggeryd,441,23,629,33
 2021,4,0665,Vaggeryd,,Vaggeryd,465,25,664,35
 2021,5,0665,Vaggeryd,,Vaggeryd,485,20,692,28
+2021,6,0665,Vaggeryd,,Vaggeryd,520,36,743,51
 2020,1,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
 2020,2,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
 2020,3,0563,Valdemarsvik,,Valdemarsvik,0,0,0,0
@@ -16123,6 +16400,7 @@
 2021,3,0563,Valdemarsvik,,Valdemarsvik,267,8,210,6
 2021,4,0563,Valdemarsvik,,Valdemarsvik,269,3,212,2
 2021,5,0563,Valdemarsvik,,Valdemarsvik,278,9,219,7
+2021,6,0563,Valdemarsvik,,Valdemarsvik,287,9,226,7
 2020,1,0115,Vallentuna,,Vallentuna,0,0,0,0
 2020,2,0115,Vallentuna,,Vallentuna,0,0,0,0
 2020,3,0115,Vallentuna,,Vallentuna,0,0,0,0
@@ -16181,6 +16459,7 @@
 2021,3,0115,Vallentuna,,Vallentuna,507,18,1727,62
 2021,4,0115,Vallentuna,,Vallentuna,521,14,1776,49
 2021,5,0115,Vallentuna,,Vallentuna,529,8,1803,27
+2021,6,0115,Vallentuna,,Vallentuna,542,13,1849,46
 2020,1,2021,Vansbro,,Vansbro,0,0,0,0
 2020,2,2021,Vansbro,,Vansbro,0,0,0,0
 2020,3,2021,Vansbro,,Vansbro,0,0,0,0
@@ -16239,6 +16518,7 @@
 2021,3,2021,Vansbro,,Vansbro,655,63,446,43
 2021,4,2021,Vansbro,,Vansbro,679,24,462,16
 2021,5,2021,Vansbro,,Vansbro,722,43,491,29
+2021,6,2021,Vansbro,,Vansbro,735,13,500,9
 2020,1,1470,Vara,,Vara,0,0,0,0
 2020,2,1470,Vara,,Vara,0,0,0,0
 2020,3,1470,Vara,,Vara,0,0,0,0
@@ -16297,6 +16577,7 @@
 2021,3,1470,Vara,,Vara,281,11,450,18
 2021,4,1470,Vara,,Vara,286,6,459,9
 2021,5,1470,Vara,,Vara,296,10,475,16
+2021,6,1470,Vara,,Vara,318,21,509,34
 2020,1,1383,Varberg,,Varberg,0,0,0,0
 2020,2,1383,Varberg,,Varberg,0,0,0,0
 2020,3,1383,Varberg,,Varberg,0,0,0,0
@@ -16355,6 +16636,7 @@
 2021,3,1383,Varberg,,Varberg,518,26,3348,171
 2021,4,1383,Varberg,,Varberg,542,23,3499,151
 2021,5,1383,Varberg,,Varberg,564,22,3642,143
+2021,6,1383,Varberg,,Varberg,590,26,3811,169
 2020,1,0187,Vaxholm,,Vaxholm,0,0,0,0
 2020,2,0187,Vaxholm,,Vaxholm,0,0,0,0
 2020,3,0187,Vaxholm,,Vaxholm,0,0,0,0
@@ -16413,6 +16695,7 @@
 2021,3,0187,Vaxholm,,Vaxholm,502,15,603,18
 2021,4,0187,Vaxholm,,Vaxholm,528,26,634,31
 2021,5,0187,Vaxholm,,Vaxholm,539,11,647,13
+2021,6,0187,Vaxholm,,Vaxholm,557,17,668,21
 2020,1,1233,Vellinge,,Vellinge,0,0,0,0
 2020,2,1233,Vellinge,,Vellinge,0,0,0,0
 2020,3,1233,Vellinge,,Vellinge,0,0,0,0
@@ -16471,6 +16754,7 @@
 2021,3,1233,Vellinge,,Vellinge,620,37,2271,137
 2021,4,1233,Vellinge,,Vellinge,648,28,2373,102
 2021,5,1233,Vellinge,,Vellinge,670,22,2454,81
+2021,6,1233,Vellinge,,Vellinge,704,34,2580,126
 2020,1,0685,Vetlanda,,Vetlanda,0,0,0,0
 2020,2,0685,Vetlanda,,Vetlanda,0,0,0,0
 2020,3,0685,Vetlanda,,Vetlanda,0,0,0,0
@@ -16529,6 +16813,7 @@
 2021,3,0685,Vetlanda,,Vetlanda,702,18,1928,50
 2021,4,0685,Vetlanda,,Vetlanda,718,16,1972,44
 2021,5,0685,Vetlanda,,Vetlanda,735,17,2018,46
+2021,6,0685,Vetlanda,,Vetlanda,757,22,2079,61
 2020,1,2462,Vilhelmina,,Vilhelmina,0,0,0,0
 2020,2,2462,Vilhelmina,,Vilhelmina,0,0,0,0
 2020,3,2462,Vilhelmina,,Vilhelmina,0,0,0,0
@@ -16587,6 +16872,7 @@
 2021,3,2462,Vilhelmina,,Vilhelmina,118,4,79,3
 2021,4,2462,Vilhelmina,,Vilhelmina,121,3,81,2
 2021,5,2462,Vilhelmina,,Vilhelmina,124,3,83,2
+2021,6,2462,Vilhelmina,,Vilhelmina,136,12,91,8
 2020,1,0884,Vimmerby,,Vimmerby,0,0,0,0
 2020,2,0884,Vimmerby,,Vimmerby,0,0,0,0
 2020,3,0884,Vimmerby,,Vimmerby,0,0,0,0
@@ -16645,6 +16931,7 @@
 2021,3,0884,Vimmerby,,Vimmerby,472,21,738,33
 2021,4,0884,Vimmerby,,Vimmerby,483,12,756,18
 2021,5,0884,Vimmerby,,Vimmerby,494,11,773,17
+2021,6,0884,Vimmerby,,Vimmerby,507,13,794,21
 2020,1,2404,Vindeln,,Vindeln,0,0,0,0
 2020,2,2404,Vindeln,,Vindeln,0,0,0,0
 2020,3,2404,Vindeln,,Vindeln,0,0,0,0
@@ -16703,6 +16990,7 @@
 2021,3,2404,Vindeln,,Vindeln,153,7,83,4
 2021,4,2404,Vindeln,,Vindeln,160,7,87,4
 2021,5,2404,Vindeln,,Vindeln,164,4,89,2
+2021,6,2404,Vindeln,,Vindeln,177,13,96,7
 2020,1,0428,Vingåker,,Vingåker,0,0,0,0
 2020,2,0428,Vingåker,,Vingåker,0,0,0,0
 2020,3,0428,Vingåker,,Vingåker,0,0,0,0
@@ -16761,6 +17049,7 @@
 2021,3,0428,Vingåker,,Vingåker,209,9,190,8
 2021,4,0428,Vingåker,,Vingåker,218,10,199,9
 2021,5,0428,Vingåker,,Vingåker,226,8,206,7
+2021,6,0428,Vingåker,,Vingåker,229,3,209,3
 2020,1,1487,Vänersborg,,Vänersborg,0,0,0,0
 2020,2,1487,Vänersborg,,Vänersborg,0,0,0,0
 2020,3,1487,Vänersborg,,Vänersborg,0,0,0,0
@@ -16819,6 +17108,7 @@
 2021,3,1487,Vänersborg,,Vänersborg,392,23,1550,93
 2021,4,1487,Vänersborg,,Vänersborg,416,24,1646,96
 2021,5,1487,Vänersborg,,Vänersborg,449,33,1777,131
+2021,6,1487,Vänersborg,,Vänersborg,473,25,1874,97
 2020,1,2460,Vännäs,,Vännäs,0,0,0,0
 2020,2,2460,Vännäs,,Vännäs,0,0,0,0
 2020,3,2460,Vännäs,,Vännäs,0,0,0,0
@@ -16877,6 +17167,7 @@
 2021,3,2460,Vännäs,,Vännäs,213,9,189,8
 2021,4,2460,Vännäs,,Vännäs,228,15,202,13
 2021,5,2460,Vännäs,,Vännäs,233,6,207,5
+2021,6,2460,Vännäs,,Vännäs,237,3,210,3
 2020,1,0120,Värmdö,,Värmdö,0,0,0,0
 2020,2,0120,Värmdö,,Värmdö,0,0,0,0
 2020,3,0120,Värmdö,,Värmdö,0,0,0,0
@@ -16935,6 +17226,7 @@
 2021,3,0120,Värmdö,,Värmdö,462,12,2077,55
 2021,4,0120,Värmdö,,Värmdö,476,14,2140,63
 2021,5,0120,Värmdö,,Värmdö,496,20,2230,90
+2021,6,0120,Värmdö,,Värmdö,516,21,2323,93
 2020,1,0683,Värnamo,,Värnamo,0,0,0,0
 2020,2,0683,Värnamo,,Värnamo,0,0,0,0
 2020,3,0683,Värnamo,,Värnamo,0,0,0,0
@@ -16993,6 +17285,7 @@
 2021,3,0683,Värnamo,,Värnamo,690,24,2386,84
 2021,4,0683,Värnamo,,Värnamo,719,29,2486,100
 2021,5,0683,Värnamo,,Värnamo,744,24,2570,84
+2021,6,0683,Värnamo,,Värnamo,766,22,2646,76
 2020,1,0883,Västervik,,Västervik,0,0,0,0
 2020,2,0883,Västervik,,Västervik,0,0,0,0
 2020,3,0883,Västervik,,Västervik,0,0,0,0
@@ -17051,6 +17344,7 @@
 2021,3,0883,Västervik,,Västervik,369,21,1352,77
 2021,4,0883,Västervik,,Västervik,395,26,1448,96
 2021,5,0883,Västervik,,Västervik,415,20,1523,75
+2021,6,0883,Västervik,,Västervik,436,20,1598,75
 2020,1,1980,Västerås,,Västerås,0,0,0,0
 2020,2,1980,Västerås,,Västerås,0,0,0,0
 2020,3,1980,Västerås,,Västerås,0,0,0,0
@@ -17109,6 +17403,7 @@
 2021,3,1980,Västerås,,Västerås,666,22,10258,346
 2021,4,1980,Västerås,,Västerås,682,16,10500,242
 2021,5,1980,Västerås,,Västerås,695,13,10705,205
+2021,6,1980,Västerås,,Västerås,710,15,10937,232
 2020,1,0780,Växjö,,Växjö,0,0,0,0
 2020,2,0780,Växjö,,Växjö,0,0,0,0
 2020,3,0780,Växjö,,Växjö,0,0,0,0
@@ -17167,6 +17462,7 @@
 2021,3,0780,Växjö,,Växjö,641,33,6037,310
 2021,4,0780,Växjö,,Växjö,673,32,6339,302
 2021,5,0780,Växjö,,Växjö,697,24,6561,222
+2021,6,0780,Växjö,,Växjö,719,22,6772,211
 2020,1,1442,Vårgårda,,Vårgårda,0,0,0,0
 2020,2,1442,Vårgårda,,Vårgårda,0,0,0,0
 2020,3,1442,Vårgårda,,Vårgårda,0,0,0,0
@@ -17225,6 +17521,7 @@
 2021,3,1442,Vårgårda,,Vårgårda,473,9,559,11
 2021,4,1442,Vårgårda,,Vårgårda,492,19,581,22
 2021,5,1442,Vårgårda,,Vårgårda,506,14,597,16
+2021,6,1442,Vårgårda,,Vårgårda,517,11,610,13
 2020,1,0512,Ydre,,Ydre,0,0,0,0
 2020,2,0512,Ydre,,Ydre,0,0,0,0
 2020,3,0512,Ydre,,Ydre,0,0,0,0
@@ -17283,6 +17580,7 @@
 2021,3,0512,Ydre,,Ydre,291,5,109,2
 2021,4,0512,Ydre,,Ydre,315,24,118,9
 2021,5,0512,Ydre,,Ydre,323,8,121,3
+2021,6,0512,Ydre,,Ydre,339,16,127,6
 2020,1,1286,Ystad,,Ystad,0,0,0,0
 2020,2,1286,Ystad,,Ystad,0,0,0,0
 2020,3,1286,Ystad,,Ystad,0,0,0,0
@@ -17341,6 +17639,7 @@
 2021,3,1286,Ystad,,Ystad,521,49,1591,149
 2021,4,1286,Ystad,,Ystad,553,32,1688,97
 2021,5,1286,Ystad,,Ystad,583,31,1782,94
+2021,6,1286,Ystad,,Ystad,606,22,1850,68
 2020,1,0765,Älmhult,,Älmhult,0,0,0,0
 2020,2,0765,Älmhult,,Älmhult,0,0,0,0
 2020,3,0765,Älmhult,,Älmhult,0,0,0,0
@@ -17396,9 +17695,10 @@
 2020,53,0765,Älmhult,,Älmhult,440,25,777,44
 2021,1,0765,Älmhult,,Älmhult,461,20,813,36
 2021,2,0765,Älmhult,,Älmhult,480,19,847,34
-2021,3,0765,Älmhult,,Älmhult,498,18,879,32
-2021,4,0765,Älmhult,,Älmhult,521,23,919,40
-2021,5,0765,Älmhult,,Älmhult,540,20,954,35
+2021,3,0765,Älmhult,,Älmhult,499,19,880,33
+2021,4,0765,Älmhult,,Älmhult,521,23,920,40
+2021,5,0765,Älmhult,,Älmhult,541,20,955,35
+2021,6,0765,Älmhult,,Älmhult,571,29,1007,52
 2020,1,2039,Älvdalen,,Älvdalen,0,0,0,0
 2020,2,2039,Älvdalen,,Älvdalen,0,0,0,0
 2020,3,2039,Älvdalen,,Älvdalen,0,0,0,0
@@ -17457,6 +17757,7 @@
 2021,3,2039,Älvdalen,,Älvdalen,225,4,158,3
 2021,4,2039,Älvdalen,,Älvdalen,229,4,161,3
 2021,5,2039,Älvdalen,,Älvdalen,230,1,162,1
+2021,6,2039,Älvdalen,,Älvdalen,273,43,192,30
 2020,1,0319,Älvkarleby,,Älvkarleby,0,0,0,0
 2020,2,0319,Älvkarleby,,Älvkarleby,0,0,0,0
 2020,3,0319,Älvkarleby,,Älvkarleby,0,0,0,0
@@ -17515,6 +17816,7 @@
 2021,3,0319,Älvkarleby,,Älvkarleby,583,27,551,26
 2021,4,0319,Älvkarleby,,Älvkarleby,600,17,567,16
 2021,5,0319,Älvkarleby,,Älvkarleby,616,17,583,16
+2021,6,0319,Älvkarleby,,Älvkarleby,632,16,598,15
 2020,1,2560,Älvsbyn,,Älvsbyn,0,0,0,0
 2020,2,2560,Älvsbyn,,Älvsbyn,0,0,0,0
 2020,3,2560,Älvsbyn,,Älvsbyn,0,0,0,0
@@ -17573,6 +17875,7 @@
 2021,3,2560,Älvsbyn,,Älvsbyn,379,2,306,2
 2021,4,2560,Älvsbyn,,Älvsbyn,392,12,316,10
 2021,5,2560,Älvsbyn,,Älvsbyn,397,5,320,4
+2021,6,2560,Älvsbyn,,Älvsbyn,424,27,342,22
 2020,1,1292,Ängelholm,,Ängelholm,0,0,0,0
 2020,2,1292,Ängelholm,,Ängelholm,0,0,0,0
 2020,3,1292,Ängelholm,,Ängelholm,0,0,0,0
@@ -17631,6 +17934,7 @@
 2021,3,1292,Ängelholm,,Ängelholm,604,34,2566,146
 2021,4,1292,Ängelholm,,Ängelholm,643,39,2731,165
 2021,5,1292,Ängelholm,,Ängelholm,686,43,2913,182
+2021,6,1292,Ängelholm,,Ängelholm,733,47,3114,201
 2020,1,1492,Åmål,,Åmål,0,0,0,0
 2020,2,1492,Åmål,,Åmål,0,0,0,0
 2020,3,1492,Åmål,,Åmål,0,0,0,0
@@ -17689,6 +17993,7 @@
 2021,3,1492,Åmål,,Åmål,377,19,475,24
 2021,4,1492,Åmål,,Åmål,387,10,488,13
 2021,5,1492,Åmål,,Åmål,408,21,515,27
+2021,6,1492,Åmål,,Åmål,421,13,531,16
 2020,1,2260,Ånge,,Ånge,0,0,0,0
 2020,2,2260,Ånge,,Ånge,0,0,0,0
 2020,3,2260,Ånge,,Ånge,0,0,0,0
@@ -17747,6 +18052,7 @@
 2021,3,2260,Ånge,,Ånge,569,30,530,28
 2021,4,2260,Ånge,,Ånge,595,26,554,24
 2021,5,2260,Ånge,,Ånge,619,25,577,23
+2021,6,2260,Ånge,,Ånge,647,28,603,26
 2020,1,2321,Åre,,Åre,0,0,0,0
 2020,2,2321,Åre,,Åre,0,0,0,0
 2020,3,2321,Åre,,Åre,0,0,0,0
@@ -17805,6 +18111,7 @@
 2021,3,2321,Åre,,Åre,421,10,494,12
 2021,4,2321,Åre,,Åre,432,11,507,13
 2021,5,2321,Åre,,Åre,452,20,530,23
+2021,6,2321,Åre,,Åre,455,3,534,4
 2020,1,1765,Årjäng,,Årjäng,0,0,0,0
 2020,2,1765,Årjäng,,Årjäng,0,0,0,0
 2020,3,1765,Årjäng,,Årjäng,0,0,0,0
@@ -17863,6 +18170,7 @@
 2021,3,1765,Årjäng,,Årjäng,459,6,462,6
 2021,4,1765,Årjäng,,Årjäng,485,26,488,26
 2021,5,1765,Årjäng,,Årjäng,493,8,496,8
+2021,6,1765,Årjäng,,Årjäng,510,18,514,18
 2020,1,2463,Åsele,,Åsele,0,0,0,0
 2020,2,2463,Åsele,,Åsele,0,0,0,0
 2020,3,2463,Åsele,,Åsele,0,0,0,0
@@ -17921,6 +18229,7 @@
 2021,3,2463,Åsele,,Åsele,154,4,43,1
 2021,4,2463,Åsele,,Åsele,154,0,43,0
 2021,5,2463,Åsele,,Åsele,154,0,43,0
+2021,6,2463,Åsele,,Åsele,172,18,48,5
 2020,1,1277,Åstorp,,Åstorp,0,0,0,0
 2020,2,1277,Åstorp,,Åstorp,0,0,0,0
 2020,3,1277,Åstorp,,Åstorp,0,0,0,0
@@ -17979,6 +18288,7 @@
 2021,3,1277,Åstorp,,Åstorp,705,43,1123,69
 2021,4,1277,Åstorp,,Åstorp,734,29,1170,47
 2021,5,1277,Åstorp,,Åstorp,763,29,1216,46
+2021,6,1277,Åstorp,,Åstorp,789,26,1257,41
 2020,1,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
 2020,2,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
 2020,3,0561,Åtvidaberg,,Åtvidaberg,0,0,0,0
@@ -18037,6 +18347,7 @@
 2021,3,0561,Åtvidaberg,,Åtvidaberg,301,14,346,16
 2021,4,0561,Åtvidaberg,,Åtvidaberg,318,17,366,20
 2021,5,0561,Åtvidaberg,,Åtvidaberg,329,10,378,12
+2021,6,0561,Åtvidaberg,,Åtvidaberg,340,11,391,13
 2020,1,1407,Öckerö,,Öckerö,0,0,0,0
 2020,2,1407,Öckerö,,Öckerö,0,0,0,0
 2020,3,1407,Öckerö,,Öckerö,0,0,0,0
@@ -18095,6 +18406,7 @@
 2021,3,1407,Öckerö,,Öckerö,457,33,590,42
 2021,4,1407,Öckerö,,Öckerö,485,29,627,37
 2021,5,1407,Öckerö,,Öckerö,508,22,656,29
+2021,6,1407,Öckerö,,Öckerö,521,13,673,17
 2020,1,0509,Ödeshög,,Ödeshög,0,0,0,0
 2020,2,0509,Ödeshög,,Ödeshög,0,0,0,0
 2020,3,0509,Ödeshög,,Ödeshög,0,0,0,0
@@ -18153,6 +18465,7 @@
 2021,3,0509,Ödeshög,,Ödeshög,332,32,177,17
 2021,4,0509,Ödeshög,,Ödeshög,341,9,182,5
 2021,5,0509,Ödeshög,,Ödeshög,356,15,190,8
+2021,6,0509,Ödeshög,,Ödeshög,362,6,193,3
 2020,1,1880,Örebro,,Örebro,0,0,0,0
 2020,2,1880,Örebro,,Örebro,0,0,0,0
 2020,3,1880,Örebro,,Örebro,0,0,0,0
@@ -18211,6 +18524,7 @@
 2021,3,1880,Örebro,,Örebro,631,18,9820,274
 2021,4,1880,Örebro,,Örebro,643,13,10017,197
 2021,5,1880,Örebro,,Örebro,655,12,10199,182
+2021,6,1880,Örebro,,Örebro,669,14,10417,218
 2020,1,1257,Örkelljunga,,Örkelljunga,0,0,0,0
 2020,2,1257,Örkelljunga,,Örkelljunga,0,0,0,0
 2020,3,1257,Örkelljunga,,Örkelljunga,0,0,0,0
@@ -18269,6 +18583,7 @@
 2021,3,1257,Örkelljunga,,Örkelljunga,403,23,414,24
 2021,4,1257,Örkelljunga,,Örkelljunga,430,27,442,28
 2021,5,1257,Örkelljunga,,Örkelljunga,447,18,460,18
+2021,6,1257,Örkelljunga,,Örkelljunga,467,19,480,20
 2020,1,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
 2020,2,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
 2020,3,2284,Örnsköldsvik,,Örnsköldsvik,0,0,0,0
@@ -18327,6 +18642,7 @@
 2021,3,2284,Örnsköldsvik,,Örnsköldsvik,379,21,2122,120
 2021,4,2284,Örnsköldsvik,,Örnsköldsvik,404,25,2261,139
 2021,5,2284,Örnsköldsvik,,Örnsköldsvik,432,28,2417,156
+2021,6,2284,Örnsköldsvik,,Örnsköldsvik,452,21,2533,116
 2020,1,2380,Östersund,,Östersund,0,0,0,0
 2020,2,2380,Östersund,,Östersund,0,0,0,0
 2020,3,2380,Östersund,,Östersund,0,0,0,0
@@ -18385,6 +18701,7 @@
 2021,3,2380,Östersund,,Östersund,463,15,2956,93
 2021,4,2380,Östersund,,Östersund,478,15,3049,93
 2021,5,2380,Östersund,,Östersund,493,15,3147,98
+2021,6,2380,Östersund,,Östersund,511,18,3262,115
 2020,1,0117,Österåker,,Österåker,0,0,0,0
 2020,2,0117,Österåker,,Österåker,0,0,0,0
 2020,3,0117,Österåker,,Österåker,0,0,0,0
@@ -18443,6 +18760,7 @@
 2021,3,0117,Österåker,,Österåker,502,22,2290,102
 2021,4,0117,Österåker,,Österåker,520,18,2372,82
 2021,5,0117,Österåker,,Österåker,534,13,2433,61
+2021,6,0117,Österåker,,Österåker,548,14,2496,63
 2020,1,0382,Östhammar,,Östhammar,0,0,0,0
 2020,2,0382,Östhammar,,Östhammar,0,0,0,0
 2020,3,0382,Östhammar,,Östhammar,0,0,0,0
@@ -18501,6 +18819,7 @@
 2021,3,0382,Östhammar,,Östhammar,394,12,877,26
 2021,4,0382,Östhammar,,Östhammar,409,15,910,33
 2021,5,0382,Östhammar,,Östhammar,437,28,972,62
+2021,6,0382,Östhammar,,Östhammar,468,31,1042,70
 2020,1,1256,Östra Göinge,,Östra Göinge,0,0,0,0
 2020,2,1256,Östra Göinge,,Östra Göinge,0,0,0,0
 2020,3,1256,Östra Göinge,,Östra Göinge,0,0,0,0
@@ -18559,6 +18878,7 @@
 2021,3,1256,Östra Göinge,,Östra Göinge,592,22,889,33
 2021,4,1256,Östra Göinge,,Östra Göinge,604,11,906,17
 2021,5,1256,Östra Göinge,,Östra Göinge,613,9,920,14
+2021,6,1256,Östra Göinge,,Östra Göinge,626,13,939,19
 2020,1,2513,Överkalix,,Överkalix,0,0,0,0
 2020,2,2513,Överkalix,,Överkalix,0,0,0,0
 2020,3,2513,Överkalix,,Överkalix,0,0,0,0
@@ -18617,6 +18937,7 @@
 2021,3,2513,Överkalix,,Överkalix,265,78,88,26
 2021,4,2513,Överkalix,,Överkalix,344,78,114,26
 2021,5,2513,Överkalix,,Överkalix,425,81,141,27
+2021,6,2513,Överkalix,,Överkalix,449,24,149,8
 2020,1,2518,Övertorneå,,Övertorneå,0,0,0,0
 2020,2,2518,Övertorneå,,Övertorneå,0,0,0,0
 2020,3,2518,Övertorneå,,Övertorneå,0,0,0,0
@@ -18675,3 +18996,4 @@
 2021,3,2518,Övertorneå,,Övertorneå,198,9,85,4
 2021,4,2518,Övertorneå,,Övertorneå,223,26,96,11
 2021,5,2518,Övertorneå,,Övertorneå,247,23,106,10
+2021,6,2518,Övertorneå,,Övertorneå,254,7,109,3
